@@ -1,3 +1,6 @@
+[//]: # (Blockchain name)
+bn = {TON: 'TON', USDT: 'Goerli', MC: 'Testnet BEAM'}
+
 [//]: # (Treasury Token)
 tt = {TON: '$TON', USDT: '$USDT', MC: '$MC'}
 
@@ -15,3 +18,8 @@ revival_cost = {TON: '10', USDT: '10', MC: '20'}
 
 [//]: # (Cost of $SPH)
 sph_cost = {TON: '0.11', USDT: '0.11', MC: '0.22'}
+
+[//]: # (DRS Transactions)
+transactions = {TON: 'TBD', 
+            USDT: 'https://goerli.etherscan.io/tx/0x5f0651a728a6b932985b47cb32b29ff5eff8b7463be5161ead124a11e98b4130', 
+            MC: 'TBD'}
