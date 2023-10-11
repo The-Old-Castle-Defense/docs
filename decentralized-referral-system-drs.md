@@ -1,27 +1,35 @@
 ---
 description: >-
-  The Old Castle Defense provides the most honest and transparent referral
-  program that you could ever see. We are revolutionizing GameFi with
-  auto-payments to non-custodial wallets.
+  The Old Castle Defense provides the most honest and transparent referral program that you could ever 
+  see. We are revolutionizing GameFi with auto-payments to noncustodial wallets.
 ---
 
 # 🏜 Decentralized Referral System(DRS)
 
-{% hint style="warning" %}
-The referral program is completely decentralized. This means that you are guaranteed and immediately receive 10% of the transaction fees made by an invited user.
+{% hint style="info" %}
+The referral program is completely decentralized. This means that you are guaranteed and immediately 
+receive 10% of the transaction fees made by an invited user.
 {% endhint %}
 
-## What is the Referral Program?
+## What is the Decentralized Referral System(DRS)?
 
-The referral program of The Old Castle Defense allows users to earn real money for inviting new friends/users.
+The DRS of The Old Castle Defense allows users to earn real money for inviting new friends/users.
 
-<figure><img src=".gitbook/assets/Referral Program (1).png" alt=""><figcaption><p>Example of Referral reward payment <a href="https://goerli.etherscan.io/tx/0x5f0651a728a6b932985b47cb32b29ff5eff8b7463be5161ead124a11e98b4130">transaction</a> when your friends invest.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/drs_transaction_{{bn}}_{{tt}}.png" alt=""><figcaption><p>Example of the referral reward payment <a href="{{transactions}}">transaction</a> when your friends invest.</p></figcaption></figure>
 
-In The Old Castle Defense, a **decentralized** referral program, you automatically receive 10% of the transaction fees of the invited user **immediately to your non-custodial wallet**.
+In The Old Castle Defense, a **decentralized referral program**, you automatically receive **10%** of the 
+transaction fees of the invited user immediately to **your noncustodial wallet**.
 
-## Where can I find my Referral Link?
+## Referral Link
+You can find the referral link at the top right in the "Wallet". You can also print a QR code there.
 
-<figure><img src=".gitbook/assets/What is the Referral Program_.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/referral_link.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+The user invited by the referral link must purchase a fraction attack in the right network, then he will 
+be counted. If a user has bought an attack in all the networks available for the game, then he will be 
+counted in all these networks.
+{% endhint %}
 
 ## Who can be interested in The Old Castle Defense? Audience?
 
@@ -37,11 +45,7 @@ In The Old Castle Defense, a **decentralized** referral program, you automatical
 3. You will see the updated counter in the "Invited users" near your ref. link.
 4. For each transaction user made, you will receive 10% of our fees automatically.
 
-
-
 {% hint style="info" %}
-All your referrals from the previous chain will be moved to a new chain automatically after deployment with smart contracts.
+All your referrals from the previous chain will be moved to a new chain automatically after deployment 
+with smart contracts.
 {% endhint %}
-
-
-

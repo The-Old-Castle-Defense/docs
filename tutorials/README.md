@@ -1,7 +1,7 @@
 # ✏ Tutorials
 
-{% content-ref url="how-to-buy-nft-for-the-game.md" %}
-[how-to-buy-nft-for-the-game.md](how-to-buy-nft-for-the-game.md)
+{% content-ref url="how-to-get-nft-for-the-game.md" %}
+[how-to-get-nft-for-the-game.md](how-to-get-nft-for-the-game.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-become-an-investor-in-the-game.md" %}
@@ -30,8 +30,4 @@
 
 {% content-ref url="for-investors-how-do-i-understand-what-i-will-get-if-i-win.md" %}
 [for-investors-how-do-i-understand-what-i-will-get-if-i-win.md](for-investors-how-do-i-understand-what-i-will-get-if-i-win.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}

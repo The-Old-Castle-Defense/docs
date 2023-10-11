@@ -44,7 +44,7 @@ A: In the context of The Old Castle Defense, investment refers to staking funds 
 
 #### Q: How does the investment process work?
 
-A: Investors can stake **$MC** on one or both factions during sieges. If their chosen faction wins, investors are rewarded, and invested money is returned back to their wallets. This mechanism ensures investors are actively engaged in the game and have the potential to earn rewards.
+A: Investors can stake **{{tt}}** on one or both factions during sieges. If their chosen faction wins, investors are rewarded, and invested money is returned back to their wallets. This mechanism ensures investors are actively engaged in the game and have the potential to earn rewards.
 
 
 
@@ -54,36 +54,36 @@ A: The Old Castle Defense offers a variety of ways for players to earn money, ra
 
 In The Old Castle Defense, there are several ways for players to earn rewards and potentially make money:
 
-* **Siege Participation**: Players who own NFTs from the Terrible Creatures or Knights of the Kingdom collections can participate in sieges. Successfully winning the siege rewards players with **$MC** tokens. This is a direct play-to-earn mechanism where skillful gameplay leads to monetary rewards.
-* **Investing in Teams**: **$MC** holders have the option to invest in competing teams, Terrible Creatures or Knights of the Kingdom. If the chosen team wins the siege, investors receive back their initial investment along with a share of the profits from the game's Treasury. This investment strategy allows for potential earnings based on the success of the selected team.
-* **Referral Program**: The game offers a referral program where players can invite friends to join. When new players use a referral link to log in and participate in the game, the referral will receive a **$MC** reward equal to 10% of our fees. This incentivizes player growth and rewards those who bring new participants into the game.
-* **Free Voting**: Players can vote for their favorite team without investments. If the voted team wins, participants receive rewards in **$MC**. This allows players to earn without direct financial commitment, based on their prediction skills.
+* **Siege Participation**: Players who own NFTs from the Terrible Creatures or Knights of the Kingdom collections can participate in sieges. Successfully winning the siege rewards players with **{{tt}}** tokens. This is a direct play-to-earn mechanism where skillful gameplay leads to monetary rewards.
+* **Investing in Teams**: **{{tt}}** holders have the option to invest in competing teams, Terrible Creatures or Knights of the Kingdom. If the chosen team wins the siege, investors receive back their initial investment along with a share of the profits from the game's Treasury. This investment strategy allows for potential earnings based on the success of the selected team.
+* **Referral Program**: The game offers a referral program where players can invite friends to join. When new players use a referral link to log in and participate in the game, the referral will receive a **{{tt}}** reward equal to 10% of our fees. This incentivizes player growth and rewards those who bring new participants into the game.
+* **Free Voting**: Players can vote for their favorite team without investments. If the voted team wins, participants receive rewards in **{{tt}}**. This allows players to earn without direct financial commitment, based on their prediction skills.
 * **Active User Rewards**: We allocate 20% of our fees to active users, which rewards their continued participation and engagement. This means that players who consistently participate in battles, invest, or refer others have the opportunity to earn additional rewards over time.
 
 
 
 #### Q: How can players who own NFTs earn rewards?
 
-A: Players who own NFTs from the Terrible Creatures or Knights of the Kingdom collections can earn rewards in the form of **$MC**. By actively participating in battles and achieving victories, NFT owners are eligible to receive a share of 30% of the losing faction's treasury.
+A: Players who own NFTs from the Terrible Creatures or Knights of the Kingdom collections can earn rewards in the form of **{{tt}}**. By actively participating in battles and achieving victories, NFT owners are eligible to receive a share of 30% of the losing faction's treasury.
 
 
 
-#### Q: How do **$MC** holders benefit from investing in teams?
+#### Q: How do **{{tt}}** holders benefit from investing in teams?
 
-A: **$MC** holders have the opportunity to invest in the competing teams, Terrible Creatures and Knights of the Kingdom. When the siege concludes, the total investment made by **$MC** holders in the winning team is refunded, along with a share of the profit from the losing faction's treasury. This profit share constitutes 70% of the total Treasury.
+A: **{{tt}}** holders have the opportunity to invest in the competing teams, Terrible Creatures and Knights of the Kingdom. When the siege concludes, the total investment made by **{{tt}}** holders in the winning team is refunded, along with a share of the profit from the losing faction's treasury. This profit share constitutes 70% of the total Treasury.
 
 
 
 #### Q: Is there a referral program in the game?
 
-A: Yes, there is a referral program in place. Players who invite friends to join the game using their referral link can earn **$MC** rewards. The game charges a 6% fee on each investment made by **$MC** holders, and 10% of this fee is distributed to users who refer new players to the game.\
+A: Yes, there is a referral program in place. Players who invite friends to join the game using their referral link can earn **{{tt}}** rewards. The game charges a 6% fee on each investment made by **{{tt}}** holders, and 10% of this fee is distributed to users who refer new players to the game.\
 In the future, the game will have an on-chain referral program to make it totally transparent for our users.
 
 
 
 #### Q: What is Free Voting, and how does it work?
 
-A: Free Voting allows players to vote for their preferred team without investing any **$MC**. After every siege, the game's contract distributes 10% of our fees as a reward to users who vote for the winning team. This provides an additional way for players to earn rewards.
+A: Free Voting allows players to vote for their preferred team without investing any **{{tt}}**. After every siege, the game's contract distributes 10% of our fees as a reward to users who vote for the winning team. This provides an additional way for players to earn rewards.
 
 
 
@@ -102,5 +102,3 @@ A: Battles take place every 960 blocks, which translates to roughly 4 hours on t
 #### Q: How does the winning faction's treasury work?
 
 A: The winning faction receives the treasury of the losing team, ensuring that successful players and investors are proportionally rewarded. The winning faction's treasury is then distributed back to investors who supported the victorious side.
-
-\

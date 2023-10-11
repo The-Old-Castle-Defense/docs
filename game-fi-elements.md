@@ -7,65 +7,208 @@ description: >-
 # 🎯 Game-Fi Elements
 
 {% hint style="warning" %}
-The game is built on a smart contract, so any burning of **$SPH** or investment of **$MC** requires confirmation.
+The game is built on a smart contract, so any burning of **$SPH** or investment of **{{tt}}** 
+requires confirmation in the blockchain.
 {% endhint %}
 
 ## Healing
-
 After each Battle, the health level of the character drops by 11% of the maximum HP.
 
-To restore 1% health, users must burn 1 sapphire (**$SPH**).
+To restore 1% health, users must burn 1 Sapphire (**$SPH**).
 
-It is better to restore a character's health in time, as each missing point of health reduces the attack power of the character by 1%.
+It is better to restore a character's health in time, as each missing point of health 
+reduces the attack power of the character by 1%.
 
-Example:
+### Formula
+$$
+CurAttack * (CurHealth/MaxHealth),
+$$
 
-<table><thead><tr><th width="205">Health level</th><th width="246">Attack</th></tr></thead><tbody><tr><td>100/100</td><td>150 (maximum at the current level)</td></tr><tr><td>90/100</td><td>135 [-10%]</td></tr><tr><td>10/100</td><td>15</td></tr></tbody></table>
+where:
+* **CurAttack** is current NFT attack;
+* **CurHealth** is current NFT health;
+* **MaxHealth** is maximum NFT health.
+
+### Example
+
+<table>
+  <thead>
+    <tr>
+      <th width="220">HEALTH LEVEL (MAX = 100)</th>
+      <th width="220">ATTACK</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>100</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>8.9</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>6.942</td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="warning" %}
-If the health level of the character drops to 0, it is considered "fallen" and cannot participate in the current battle, unless it is revived.
+If the health level of the character drops to 0, it is considered "fallen" and cannot participate in the 
+current battle, unless it is revived.
 {% endhint %}
 
 ## Revival
 
-A Player or Investor may revive a dead character. The cost of one revival is 20 **$MC**.&#x20;
+Investors can revive deceased NFT characters. The cost of each revival is calculated by 
+the formula.
+
+### Formula
+$$
+RevCost = LVL + 1,
+$$
+
+where:
+* RevCost
+: the cost of reviving in {{tt}};
+
+* LVL
+: the level of NFT at the time of death.
 
 {% hint style="warning" %}
-The price includes a service fee of 6%. After the commission is deducted, the $**MC** invested by the participants is collected in the treasury. After the victory of your Faction, the invested funds will be returned and rewards will be distributed.
+The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
+The price includes a service fee of 6%. After the commission is deducted, the **{{tt}}** 
+invested by the participants is collected in the treasury. After the victory of your 
+Faction, the invested funds will be returned and rewards will be distributed.
 {% endhint %}
 
-## **Level Up**
+## Level Up
 
-Level up your NFT characters to increase strength, and compete with the opposing Faction, overpowering them and getting closer to achieving victory.
+Level up your NFT characters to increase strength, and compete with the opposing Faction, 
+overpowering them and getting closer to achieving victory.
 
-**$SPH** is required to level up a character. Each level increase lasts a certain number of blocks, which increases alongside the required amount of **$SPH**. This process can be accelerated using **$MC**.
+$SPH is required to level up a character. Each level increase lasts a certain number of 
+blocks, which increases alongside the required amount of $SPH. This process can be 
+accelerated using **{{tt}}** (Boost Level Up).
 
-When a character is leveled up, their attack power increases. The amount of attack increase is determined randomly between a certain range (explained below).
-
-<table><thead><tr><th width="104">Level</th><th width="143">Blocks</th><th width="155">Price ($SPH)</th><th width="213">Price For Boost ($MC)</th></tr></thead><tbody><tr><td>0</td><td>60</td><td>10</td><td>2</td></tr><tr><td>1</td><td>120</td><td>20</td><td>4</td></tr><tr><td>2</td><td>180</td><td>30</td><td>6</td></tr><tr><td>3</td><td>240</td><td>40</td><td>8</td></tr><tr><td>n</td><td>(n+1)*60</td><td>(n+1) * 10</td><td>2n+2</td></tr></tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th width="104">TO LEVEL</th>
+      <th width="143">BLOCKS</th>
+      <th width="155">COST ($SPH)</th>
+      <th width="213">COST TO BOOST ({{tt}})</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>60</td>
+      <td>10</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>120</td>
+      <td>20</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>180</td>
+      <td>30</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>n</td>
+      <td>n * 60</td>
+      <td>n * 10</td>
+      <td>n</td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="warning" %}
-The cost may vary depending on the exchange rate of $MC.
-
-The price includes a service fee of 6%. After the commission is deducted, the $**MC** invested by the participants is collected in the treasury. After the victory of your Faction, the invested funds will be returned and rewards will be distributed.
+The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
+The price includes a service fee of 6%. After the commission is deducted, the **{{tt}}** 
+invested by the participants is collected in the treasury. After the victory of your 
+Faction, the invested funds will be returned and rewards will be distributed.
 {% endhint %}
 
-## Buying Faction Attacks
+When a character is leveled up, their attack power increases. The amount of attack increase 
+is determined randomly between a certain range.
 
-{% hint style="warning" %}
+## Boost Level Up
+{% hint style="info" %}
 If you use the Faction attack boost functionality, you become an Investor.
 {% endhint %}
 
-Investors can increase the faction's attack power in exchange for **$MC**, but each subsequent increase costs them more than the previous one.
+## Buy Faction Attack
 
-Each boost adds a random number to the total attack power of the Faction within the range of the current boost level.
+Investors can increase the faction's attack power in exchange for {{tt}}, but each 
+subsequent increase costs them more than the previous one.
 
-Calculating the range of attack probability and cost:
+Each boost adds a random number to the total attack power of the Faction within the 
+range of the current boost level.
 
-<table><thead><tr><th width="253">Number of level increases</th><th width="337">Attack Power Increase Range</th><th>Cost ($MC)</th></tr></thead><tbody><tr><td>1</td><td>2 - 5</td><td>2</td></tr><tr><td>2</td><td>3 - 6</td><td>4</td></tr><tr><td>3</td><td>4 - 7</td><td>6</td></tr><tr><td>4</td><td>5 - 8</td><td>8</td></tr><tr><td>5</td><td>6 - 9</td><td>10</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>100</td><td>101 - 104</td><td>200</td></tr><tr><td>n</td><td>(n+1) "-" (n+4)</td><td>2n</td></tr></tbody></table>
+### Calculating the range of attack probability and cost
+
+<table>
+  <thead>
+    <tr>
+      <th width="253">LEVEL OF INCREASE</th>
+      <th width="337">ATTACK INCREASE RANGE</th>
+      <th>COST ({{tt}})</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2 - 5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>3 - 6</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>4 - 7</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>5 - 8</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>6 - 9</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>101 - 104</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>n</td>
+      <td>(n+1) "-" (n+4)</td>
+      <td>n</td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="warning" %}
-The cost may vary depending on the exchange rate of $MC.
-
-The price includes a service fee of 6%. After the commission is deducted, the **$MC** invested by the participants is collected in the treasury. After the victory of your Faction, the invested funds will be returned and rewards will be distributed.
+The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
+The price includes a service fee of 6%. After the commission is deducted, the **{{tt}}** 
+invested by the participants is collected in the treasury. After the victory of your 
+Faction, the invested funds will be returned and rewards will be distributed.
 {% endhint %}
