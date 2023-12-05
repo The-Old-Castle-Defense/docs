@@ -17,9 +17,7 @@ reduces the attack power of the character by 1%.
 
 ### Formula
 
-::formula
-CurAttack * (CurHealth/MaxHealth),
-::
+<MathComponent :mathExpression="'CurAttack*(CurHealth/MaxHealth)'" />,
 
 where:
 * **CurAttack** is current NFT attack;
@@ -63,9 +61,7 @@ the formula.
 
 ### Formula
 
-::formula
-RevCost = LVL + 1,
-::
+<MathComponent :mathExpression="'RevCost=LVL+1'" />,
 
 where:
 * **RevCost** is the cost of reviving in ${{tt}};
