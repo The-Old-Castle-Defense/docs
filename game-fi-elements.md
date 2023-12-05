@@ -1,15 +1,11 @@
----
-description: >-
-  Only teamwork will lead the Faction to victory, so that the team does not
-  break up, it is necessary to monitor the life and strength of the characters.
----
-
 # 🎯 Game-Fi Elements
+Only teamwork will lead the Faction to victory, so that the team does not 
+break up, it is necessary to monitor the life and strength of the characters.
 
-{% hint style="warning" %}
-The game is built on a smart contract, so any burning of **$SPH** or investment of **{{tt}}** 
+::card_warning
+The game is built on a smart contract, so any burning of **$SPH** or investment of **${{tt}}** 
 requires confirmation in the blockchain.
-{% endhint %}
+::
 
 ## Healing
 After each Battle, the health level of the character drops by 11% of the maximum HP.
@@ -20,9 +16,10 @@ It is better to restore a character's health in time, as each missing point of h
 reduces the attack power of the character by 1%.
 
 ### Formula
-$$
+
+::formula
 CurAttack * (CurHealth/MaxHealth),
-$$
+::
 
 where:
 * **CurAttack** is current NFT attack;
@@ -54,10 +51,10 @@ where:
   </tbody>
 </table>
 
-{% hint style="warning" %}
+::card_warning
 If the health level of the character drops to 0, it is considered "fallen" and cannot participate in the 
 current battle, unless it is revived.
-{% endhint %}
+::
 
 ## Revival
 
@@ -65,23 +62,21 @@ Investors can revive deceased NFT characters. The cost of each revival is calcul
 the formula.
 
 ### Formula
-$$
+
+::formula
 RevCost = LVL + 1,
-$$
+::
 
 where:
-* RevCost
-: the cost of reviving in {{tt}};
+* **RevCost** is the cost of reviving in ${{tt}};
+* **LVL** is the level of NFT at the time of death.
 
-* LVL
-: the level of NFT at the time of death.
-
-{% hint style="warning" %}
+::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
-The price includes a service fee of 6%. After the commission is deducted, the **{{tt}}** 
+The price includes a service fee of 6%. After the commission is deducted, the **${{tt}}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
-{% endhint %}
+::
 
 ## Level Up
 
@@ -90,7 +85,7 @@ overpowering them and getting closer to achieving victory.
 
 $SPH is required to level up a character. Each level increase lasts a certain number of 
 blocks, which increases alongside the required amount of $SPH. This process can be 
-accelerated using **{{tt}}** (Boost Level Up).
+accelerated using **${{tt}}** (Boost Level Up).
 
 <table>
   <thead>
@@ -129,24 +124,25 @@ accelerated using **{{tt}}** (Boost Level Up).
   </tbody>
 </table>
 
-{% hint style="warning" %}
+::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
-The price includes a service fee of 6%. After the commission is deducted, the **{{tt}}** 
+The price includes a service fee of 6%. After the commission is deducted, the **${{tt}}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
-{% endhint %}
+::
 
 When a character is leveled up, their attack power increases. The amount of attack increase 
 is determined randomly between a certain range.
 
 ## Boost Level Up
-{% hint style="info" %}
+
+::card_info
 If you use the Faction attack boost functionality, you become an Investor.
-{% endhint %}
+::
 
 ## Buy Faction Attack
 
-Investors can increase the faction's attack power in exchange for {{tt}}, but each 
+Investors can increase the faction's attack power in exchange for ${{tt}}, but each 
 subsequent increase costs them more than the previous one.
 
 Each boost adds a random number to the total attack power of the Faction within the 
@@ -206,9 +202,9 @@ range of the current boost level.
   </tbody>
 </table>
 
-{% hint style="warning" %}
+::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
-The price includes a service fee of 6%. After the commission is deducted, the **{{tt}}** 
+The price includes a service fee of 6%. After the commission is deducted, the **${{tt}}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
-{% endhint %}
+::
