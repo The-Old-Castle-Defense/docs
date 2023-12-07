@@ -64,12 +64,12 @@ the formula.
 <MathComponent :mathExpression="'RevCost=LVL+1'" />,
 
 where:
-* **RevCost** is the cost of reviving in ${{tt}};
+* **RevCost** is the cost of reviving in ${tt};
 * **LVL** is the level of NFT at the time of death.
 
 ::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
-The price includes a service fee of 6%. After the commission is deducted, the **${{tt}}** 
+The price includes a service fee of 6%. After the commission is deducted, the **${tt}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
 ::
@@ -81,7 +81,7 @@ overpowering them and getting closer to achieving victory.
 
 $SPH is required to level up a character. Each level increase lasts a certain number of 
 blocks, which increases alongside the required amount of $SPH. This process can be 
-accelerated using **${{tt}}** (Boost Level Up).
+accelerated using **${tt}** (Boost Level Up).
 
 <table>
   <thead>
@@ -89,7 +89,7 @@ accelerated using **${{tt}}** (Boost Level Up).
       <th width="104">TO LEVEL</th>
       <th width="143">BLOCKS</th>
       <th width="155">COST ($SPH)</th>
-      <th width="213">COST TO BOOST ({{tt}})</th>
+      <th width="213">COST TO BOOST ({tt})</th>
     </tr>
   </thead>
   <tbody>
@@ -122,7 +122,7 @@ accelerated using **${{tt}}** (Boost Level Up).
 
 ::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
-The price includes a service fee of 6%. After the commission is deducted, the **${{tt}}** 
+The price includes a service fee of 6%. After the commission is deducted, the **${tt}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
 ::
@@ -138,7 +138,7 @@ If you use the Faction attack boost functionality, you become an Investor.
 
 ## Buy Faction Attack
 
-Investors can increase the faction's attack power in exchange for ${{tt}}, but each 
+Investors can increase the faction's attack power in exchange for ${tt}, but each 
 subsequent increase costs them more than the previous one.
 
 Each boost adds a random number to the total attack power of the Faction within the 
@@ -151,7 +151,7 @@ range of the current boost level.
     <tr>
       <th width="253">LEVEL OF INCREASE</th>
       <th width="337">ATTACK INCREASE RANGE</th>
-      <th>COST ({{tt}})</th>
+      <th>COST ({tt})</th>
     </tr>
   </thead>
   <tbody>
@@ -200,7 +200,7 @@ range of the current boost level.
 
 ::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
-The price includes a service fee of 6%. After the commission is deducted, the **${{tt}}** 
+The price includes a service fee of 6%. After the commission is deducted, the **${tt}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
 ::
