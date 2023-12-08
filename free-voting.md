@@ -10,5 +10,5 @@ Choose one of the factions and click the "Vote" button to place a bet on winning
 
 <figure><img src=".gitbook/assets/free_voting.png" alt=""><figcaption></figcaption></figure>
 
-After the Siege ends, **10%** of the collected commission (in {{tt}}) is automatically Airdropped 
+After the Siege ends, **10%** of the collected commission (in {tt}) is automatically Airdropped 
 to users, that voted for the winning Faction.

@@ -2,7 +2,7 @@
 
 Everyone becomes an investor (including players with NFT) who has done at least one of the following actions:
 
-* Increase the Faction's attack for {{tt}} ("Buy Attack" button):
+* Increase the Faction's attack for {tt} ("Buy Attack" button):
 
 <figure><img src="../.gitbook/assets/buy_attack_button.png" alt=""><figcaption></figcaption></figure>
 

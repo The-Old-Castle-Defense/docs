@@ -15,7 +15,7 @@ receive 10% of the transaction fees made by an invited user.
 
 The DRS of The Old Castle Defense allows users to earn real money for inviting new friends/users.
 
-<figure><img src=".gitbook/assets/drs_transaction_{{bn}}_{{tt}}.png" alt=""><figcaption><p>Example of the referral reward payment <a href="{{transactions}}">transaction</a> when your friends invest.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/drs_transaction_{bn}_{tt}.png" alt=""><figcaption><p>Example of the referral reward payment <a href="{transactions}">transaction</a> when your friends invest.</p></figcaption></figure>
 
 In The Old Castle Defense, a **decentralized referral program**, you automatically receive **10%** of the 
 transaction fees of the invited user immediately to **your noncustodial wallet**.

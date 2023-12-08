@@ -1,6 +1,6 @@
 ---
 description: >-
-  Investors in the Old Castle Defense game are users who invested {{tt}} in one or both factions 
+  Investors in the Old Castle Defense game are users who invested {tt} in one or both factions 
 during the Siege.
 ---
 
@@ -23,9 +23,9 @@ Learn more about it:
 {% endcontent-ref %}
 
 ## Reward system
-Investors can invest {{tt}} in one Faction or both at once. But in each Siege, only one 
+Investors can invest {tt} in one Faction or both at once. But in each Siege, only one 
 Faction wins. It should be noted that the Investor acts independently and receives 
-remuneration depending on which faction, when, and how much {{tt}} was invested.
+remuneration depending on which faction, when, and how much {tt} was invested.
 
 {% hint style="warning" %}
 The investor receives a reward depending on the amount of $MC invested in the winning 
@@ -54,12 +54,12 @@ where:
 
 {% hint style="warning" %}
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
-The price includes a service fee of 6%. After the commission is deducted, the **{{tt}}** 
+The price includes a service fee of 6%. After the commission is deducted, the **{tt}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
 {% endhint %}
 
-## Return of Invested {{tt}}
+## Return of Invested {tt}
 All invested $MC is collected into a common pool (Treasury) for each Faction. If an Investor 
 belongs to a winning Faction, he will receive back his deposited $MC, but only investments 
 made in the winning Faction.
@@ -90,19 +90,19 @@ where:
 {% hint style="info" %}
 Example of determining an Investor's reward (assuming that the total number of rounds = 95 
 and the number of Investors = 2):
-* **Investor 1** invested **100 {{tt}}** in Faction "A" on its 3rd Battle (Wi = 96.842) and **1000 {{tt}}** in 
+* **Investor 1** invested **100 {tt}** in Faction "A" on its 3rd Battle (Wi = 96.842) and **1000 {tt}** in 
 Faction "B" on its 10th Battle (Wi = 894.736)
-* **Investor 2** invested **10,000 {{tt}}** in Faction "B" on the 5th Battle (Wi = 9473.684)
-* The "B" faction wins and receives **100,000 {{tt}}** (70% of which goes to Investors (**70,000 {{tt}}**)
-* The sum of the weight of the invested **{{tt}}** in the Winners' Faction, from all Investors = 
+* **Investor 2** invested **10,000 {tt}** in Faction "B" on the 5th Battle (Wi = 9473.684)
+* The "B" faction wins and receives **100,000 {tt}** (70% of which goes to Investors (**70,000 {tt}**)
+* The sum of the weight of the invested **{tt}** in the Winners' Faction, from all Investors = 
 894.736 + 9473.684 = 10368.42, is 100%
 * The share of **Investor 1**, taking into account its investment weight, is 8.63%, which means the 
-reward = **6041 {{tt}}** 
+reward = **6041 {tt}** 
 * The share of **Investor 2**, taking into account its investment weight, is 91.37%, which means the 
-reward = **63959 {{tt}}**
+reward = **63959 {tt}**
 {% endhint %}
 
 {% hint style="warning" %}
-Remember that the amount of investment increases with each round. The earlier {{tt}} is deposited the 
+Remember that the amount of investment increases with each round. The earlier {tt} is deposited the 
 greater the reward.
 {% endhint %}

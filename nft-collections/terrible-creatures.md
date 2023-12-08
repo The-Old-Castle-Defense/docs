@@ -17,8 +17,8 @@ description: >-
   </thead>
   <tbody>
     <tr>
-      <td>{{bn}}</td>
-      <td>{{tt}}</td>
+      <td>{bn}</td>
+      <td>{tt}</td>
       <td>[TBD](http://TBD.com)</td>
       <td>100</td>
     </tr>

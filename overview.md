@@ -22,17 +22,17 @@ layout:
 
 **The Old Castle Defense** is the fairest and most transparent play-to-earn (P2E) on-chain game, 
 where players fight battles and sieges using their **Terrible Creatures** and **Knights of the Kingdom** 
-NFTs and are rewarded with **$SPH** and **{{tt}}** tokens for victories. **Investors** are the third party of 
+NFTs and are rewarded with **$SPH** and **{token}** tokens for victories. **Investors** are the third party of 
 participants who can change the outcome of battles by investing in any of the teams, buying 
 attacks, and saving NFTs from death. All funds from **Investors** are going to the treasury of both 
 factions.
 
-<figure><img src=".gitbook/assets/overview_{{bn}}_{{tt}}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/overview_{blockchain}_{token}.png" alt=""><figcaption></figcaption></figure>
 
 The winning **Faction** wins the treasury of the losing team. Winning **Faction Treasury** 
 refunds back to **Investors** with rewards.
 
-The game doesn't have timing. It's the on-chain game - it has blocks, where 1 block ≈ {{bps}} sec.
+The game doesn't have timing. It's the on-chain game - it has blocks, where 1 block ≈ {bps} sec.
 
 {% hint style="info" %}
 $SPH
@@ -48,18 +48,18 @@ Factions
 : Opposing sides: the Terrible Creatures versus the Knights of the Kingdom;
 
 Investor
-: Any user who has not staked an NFT, but has staked {{tt}} on either one or both factions during 
-the game. If the investor wins, the investor receives a reward, and all invested {{tt}} is returned 
+: Any user who has not staked an NFT, but has staked {token} on either one or both factions during 
+the game. If the investor wins, the investor receives a reward, and all invested {token} is returned 
 to the winning team;
 
 The Siege
-: The length of each entire game, approximately lasting {{siege_duration}} blocks;
+: The length of each entire game, approximately lasting {siege_duration} blocks;
 
 Battle
-: A game event that takes place every {{battle_duration}} blocks;
+: A game event that takes place every {battle_duration} blocks;
 
 Blocks
-: 1 block-time ~ {{bps}} seconds. You can track blocks by the [block explorer](https://TBD.com)
+: 1 block-time ~ {bps} seconds. You can track blocks by the [block explorer](https://TBD.com)
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?t=1s&v=n1J3004v5Mk" fullWidth="false" %}

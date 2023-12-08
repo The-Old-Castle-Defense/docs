@@ -62,9 +62,9 @@ If you have NFTs on "Spending" go to step 9.
 
 ***
 
-## Investors ({{tt}} holders)
-You can stake **{{tt}}** in the Faction's treasury pool and increase its attack power. 
-The more and earlier you stake **{{tt}}**, the more reward you will receive once the 
+## Investors ({tt} holders)
+You can stake **{tt}** in the Faction's treasury pool and increase its attack power. 
+The more and earlier you stake **{tt}**, the more reward you will receive once the 
 Faction wins the Siege. Read more:
 
 {% content-ref url="investors.md" %}
@@ -88,10 +88,10 @@ Click to go to the Siege page:
 
 5. Choose the right number of attack boost levels and click the "Buy" button:
 
-<figure><img src=".gitbook/assets/attack_levels_{{bn}}_{{tt}}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/attack_levels_{bn}_{tt}.png" alt=""><figcaption></figcaption></figure>
 
 6. Confirm the transaction on the website and in your wallet;
 
 **Ready!** After the transaction is confirmed (1-2 minutes), the Faction's attack will be increased.
 
-<figure><img src=".gitbook/assets/investment_ready_{{bn}}_{{tt}}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/investment_ready_{bn}_{tt}.png" alt=""><figcaption></figcaption></figure>

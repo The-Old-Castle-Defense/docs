@@ -5,7 +5,7 @@ description: There are 4 types of rewards.
 # 💰 4 Types of Rewards
 
 1. Playing the game (NFT owners) - 30% of Treasury
-: Players who own NFTs of the game are eligible to earn {{tt}} by playing the game. 
+: Players who own NFTs of the game are eligible to earn {tt} by playing the game. 
 The game's contract distributes **30%** of the Treasury among NFT owners who participate 
 in battles and achieve victories.
 
@@ -13,9 +13,9 @@ in battles and achieve victories.
 [nft-collections](nft-collections/)
 {% endcontent-ref %}
 
-2. Investing to teams ({{tt}} Holders) - 70% of Treasury
-: {{tt}} holders can invest in the two teams competing in the game - Terrible Creatures 
-and Knights of the Kingdom. At the end of each battle, the total investment made by {{tt}} 
+2. Investing to teams ({tt} Holders) - 70% of Treasury
+: {tt} holders can invest in the two teams competing in the game - Terrible Creatures 
+and Knights of the Kingdom. At the end of each battle, the total investment made by {tt} 
 holders in the winning team is returned along with the profit share of the Treasury, 
 which is **70%** of the total.
 
@@ -25,7 +25,7 @@ which is **70%** of the total.
 
 3. Referral program (Invite friends) - 10% of our Fees
 : Users who invite their friends to join the game through the referral link can 
-earn {{tt}} as a reward. The game charges a 6% fee on each investment made by {{tt}} holders. 
+earn {tt} as a reward. The game charges a 6% fee on each investment made by {tt} holders. 
 **10%** of this fee is distributed to the users who refer new players to the game.
 
 {% content-ref url="decentralized-referral-system-drs.md" %}
@@ -33,7 +33,7 @@ earn {{tt}} as a reward. The game charges a 6% fee on each investment made by {{
 {% endcontent-ref %}
 
 4. Free Voting - 10% of our Fees 
-: Players can vote for their favorite team without investing any {{tt}}. For each battle, 
+: Players can vote for their favorite team without investing any {tt}. For each battle, 
 the game's contract distributes **10%** of the fees collected as a reward for users who vote 
 for the winning team.
 

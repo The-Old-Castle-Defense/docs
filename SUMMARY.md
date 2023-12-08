@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⭐ Overview](README.md)
+* [⭐ Overview](overview.md)
 * [🚀 How to start playing](how-to-start-playing.md)
 * [🎯 Game-Fi Elements](game-fi-elements.md)
 * [👨🌾 Dealer](dealer.md)

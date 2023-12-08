@@ -12,7 +12,7 @@ New Mystery Boxes can be obtained during community events.
 {% endhint %}
 
 After connecting the wallet, each user has access to 
-the [Mystery Boxes](https://theoldcastle.xyz/{{bn}}/{{tt}}/mysterybox). Each Mystery Box contains various 
+the [Mystery Boxes](https://theoldcastle.xyz/{bn}/{tt}/mysterybox). Each Mystery Box contains various 
 types of rewards such as NFT, Treasury Tokens, and Sapphires.
 
 {% hint style="info" %}
@@ -29,7 +29,7 @@ The reward defines randomly, according to the following constraints:
     <tr>
       <th width="220">QUALITY</th>
       <th width="220">NFT</th>
-      <th width="220">{{tt}}</th>
+      <th width="220">{tt}</th>
       <th width="220">$SPH</th>
     </tr>
   </thead>

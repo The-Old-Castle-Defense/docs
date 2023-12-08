@@ -21,7 +21,7 @@ where:
 
 {% hint style="warning" %}
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
-The price includes a service fee of 6%. After the commission is deducted, the **{{tt}}** 
+The price includes a service fee of 6%. After the commission is deducted, the **{tt}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
 {% endhint %}
