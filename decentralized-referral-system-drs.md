@@ -1,21 +1,20 @@
----
-description: >-
-  The Old Castle Defense provides the most honest and transparent referral program that you could ever 
-  see. We are revolutionizing GameFi with auto-payments to noncustodial wallets.
----
+::description
+The Old Castle Defense provides the most honest and transparent referral program that you could ever 
+see. We are revolutionizing GameFi with auto-payments to noncustodial wallets.
+::
 
 # 🏜 Decentralized Referral System(DRS)
 
-{% hint style="info" %}
+::card_info
 The referral program is completely decentralized. This means that you are guaranteed and immediately 
 receive 10% of the transaction fees made by an invited user.
-{% endhint %}
+::
 
 ## What is the Decentralized Referral System(DRS)?
 
 The DRS of The Old Castle Defense allows users to earn real money for inviting new friends/users.
 
-<figure><img src=".gitbook/assets/drs_transaction_{bn}_{tt}.png" alt=""><figcaption><p>Example of the referral reward payment <a href="{transactions}">transaction</a> when your friends invest.</p></figcaption></figure>
+<figure><img src="/assets/docs/.gitbook/assets/drs_transaction_{blockchain}_{token}.png" alt=""><figcaption><p>Example of the referral reward payment <a href="{transactions}">transaction</a> when your friends invest.</p></figcaption></figure>
 
 In The Old Castle Defense, a **decentralized referral program**, you automatically receive **10%** of the 
 transaction fees of the invited user immediately to **your noncustodial wallet**.

@@ -1,6 +1,9 @@
-# 🎯 Game-Fi Elements
+::description
 Only teamwork will lead the Faction to victory, so that the team does not 
 break up, it is necessary to monitor the life and strength of the characters.
+::
+
+# 🎯 Game-Fi Elements
 
 ::card_warning
 The game is built on a smart contract, so any burning of **$SPH** or investment of **${tt}** 
