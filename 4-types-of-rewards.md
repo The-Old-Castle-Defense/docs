@@ -1,6 +1,4 @@
-::description
-There are 4 types of rewards.
-::
+<p>There are 4 types of rewards.</p>
 
 # 💰 4 Types of Rewards
 
@@ -14,7 +12,7 @@ in battles and achieve victories.
 {% endcontent-ref %}
 
 2. Investing to teams ({token} Holders) - 70% of Treasury
-: {token} holders can invest in the two teams competing in the game - Terrible Creatures 
+: ${token} holders can stake in the two teams competing in the game - Terrible Creatures 
 and Knights of the Kingdom. At the end of each battle, the total investment made by {token} 
 holders in the winning team is returned along with the profit share of the Treasury, 
 which is **70%** of the total.
