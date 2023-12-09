@@ -2,13 +2,10 @@
 
 The Investor's PNL is displayed at the bottom of the game page:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/docs/.gitbook/assets/pnl_{blockchain}_{token}.png" alt=""><figcaption></figcaption></figure>
 
-"Invested"
-: shows the amount of $MC invested by you;
-
-"PNL"
-: shows the percentage of your profit in the game.
+* "Invested": shows the amount of **${token}** invested by you;
+* "PNL": shows the percentage of your profit in the game.
 
 The full formula of remuneration for Investors can be found in the article:
 
@@ -16,4 +13,10 @@ The full formula of remuneration for Investors can be found in the article:
 [investors.md](../investors.md)
 {% endcontent-ref %}
 
-{% embed url="https://www.youtube.com/shorts/yR8fALEdcek" %}
+<iframe width="560" height="315" 
+src="https://www.youtube.com/shorts/yR8fALEdcek" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>

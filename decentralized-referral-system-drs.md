@@ -1,7 +1,5 @@
-::description
-The Old Castle Defense provides the most honest and transparent referral program that you could ever 
-see. We are revolutionizing GameFi with auto-payments to noncustodial wallets.
-::
+<p>The Old Castle Defense provides the most honest and transparent referral program that you could ever 
+see. We are revolutionizing GameFi with auto-payments to noncustodial wallets.</p>
 
 # 🏜 Decentralized Referral System(DRS)
 

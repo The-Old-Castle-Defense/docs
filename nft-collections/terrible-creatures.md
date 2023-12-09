@@ -1,8 +1,5 @@
----
-description: >-
-  Terrible Creatures is unique NFT collection of The Old Castle Defense
-  P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs
----
+<p>Terrible Creatures is unique NFT collection of The Old Castle Defense 
+P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs.</p>
 
 # 👻 Terrible Creatures
 

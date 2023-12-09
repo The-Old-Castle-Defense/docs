@@ -1,9 +1,12 @@
+<p>At the end of each Siege, there is a distribution of ${token}. The amount of ${token} 
+is determined by the formula.</p>
+
 # 🎇 Rewards After The Siege
 
 After 80,640 blocks (~14 days), One faction is declared the victor of the Siege. The Faction with the 
 most Battle victories will receive rewards:
-* **Winners are returned any {token}** they have invested during the entirety of the Siege;
-* **30%** of the invested {token} from the losing Faction is distributed among the Winning Faction;
+* **Winners are returned any ${token}** they have invested during the entirety of the Siege;
+* **30%** of the invested ${token} from the losing Faction is distributed among the Winning Faction;
 * **70%** of the losing Faction's treasury is rewarded to the Investors.
 
 ## Reward for NFT Owners

@@ -1,5 +1,4 @@
-<p>There are two main types of players - Warriors (NFT owners) and Investors (Treasury Tokens holders).
-::
+<p>There are two main types of players - Warriors (NFT owners) and Investors (Treasury Tokens holders).</p>
 
 # 🚀 How to start playing
 
@@ -7,7 +6,7 @@
 
 If you are an NFT owner, you can play without any investments. You need to stake NFT 
 in an active Siege, upgrade, and heal to increase abilities to earn more rewards than 
-your teammates. Read more in [Game-Fi Elements](http://TBD.com).
+your teammates. Read more in [Game-Fi Elements](game-fi-elements.md).
 
 {% content-ref url="nft-collections/terrible-creatures.md" %}
 [terrible-creatures.md](nft-collections/terrible-creatures.md)

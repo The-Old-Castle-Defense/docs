@@ -1,6 +1,4 @@
-::description
-Each Battle won brings one of the sides closer to victory in the Siege.
-::
+<p>Each Battle won brings one of the sides closer to victory in the Siege.</p>
 
 # 💎 Rewards After The Battle
 

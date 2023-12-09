@@ -1,7 +1,6 @@
-::description
+<p>
 Looking for a 'Cash' button? You've found it! Vote for your favorite team and 
-earn 10% of the revenue (fees collected) directly to your wallet if that team wins the game.
-::
+earn 10% of the revenue (fees collected) directly to your wallet if that team wins the game.</p>
 
 # 💵 Free Voting
 

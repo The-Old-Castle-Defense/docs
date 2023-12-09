@@ -24,6 +24,6 @@ or [The Knights of the Kingdom](https://TBD.com);
 3. Click on the button "Buy Now";
 4. If your wallet is not connected, the site will offer to do it.
 
-{% hint style="warning" %}
+::card_warning
 NFTs can only be bought from users who have received them for their activity, but decide to sell.
-{% endhint %}
+::

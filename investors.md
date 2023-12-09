@@ -63,7 +63,7 @@ the winning Faction.
 
 #### Formula
 
-<MathComponent :mathExpression="'InvRew = \frac{SumWi}{SumTotalWi}*RewardForInvestors'" />,
+<MathComponent :mathExpression="'InvRew = \frac{SumWi}{SumTotalWi}*RewardForInvestors'" /></MathComponent>,
 
 where:
 * SumWi: the sum of the investor's investment weights;

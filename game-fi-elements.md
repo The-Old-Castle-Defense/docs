@@ -18,7 +18,7 @@ reduces the attack power of the character by 1%.
 
 ### Formula
 
-<MathComponent :mathExpression="'CurAttack*(CurHealth/MaxHealth)'" />,
+<MathComponent :mathExpression="'CurAttack*(CurHealth/MaxHealth)'" /></MathComponent>,
 
 where:
 * **CurAttack** is current NFT attack;
@@ -30,8 +30,8 @@ where:
 <table>
   <thead>
     <tr>
-      <th width="220">HEALTH LEVEL (MAX = 100)</th>
-      <th width="220">ATTACK</th>
+      <th>HEALTH LEVEL (MAX = 100)</th>
+      <th>ATTACK</th>
     </tr>
   </thead>
   <tbody>
@@ -62,7 +62,7 @@ the formula.
 
 ### Formula
 
-<MathComponent :mathExpression="'RevCost=LVL+1'" />,
+<MathComponent :mathExpression="'RevCost=LVL+1'" /></MathComponent>,
 
 where:
 * **RevCost** is the cost of reviving in ${token};
@@ -87,10 +87,10 @@ accelerated using **${token}** (Boost Level Up).
 <table>
   <thead>
     <tr>
-      <th width="104">TO LEVEL</th>
-      <th width="143">BLOCKS</th>
-      <th width="155">COST ($SPH)</th>
-      <th width="213">COST TO BOOST ({token})</th>
+      <th>TO LEVEL</th>
+      <th>BLOCKS</th>
+      <th>COST ($SPH)</th>
+      <th>COST TO BOOST ({token})</th>
     </tr>
   </thead>
   <tbody>
@@ -139,7 +139,7 @@ If you use the Faction attack boost functionality, you become an Investor.
 
 ## Buy Faction Attack
 
-Investors can increase the faction's attack power in exchange for ${token}, but each 
+Investors can increase the faction's attack power in exchange for **${token}**, but each 
 subsequent increase costs them more than the previous one.
 
 Each boost adds a random number to the total attack power of the Faction within the 
@@ -150,8 +150,8 @@ range of the current boost level.
 <table>
   <thead>
     <tr>
-      <th width="253">LEVEL OF INCREASE</th>
-      <th width="337">ATTACK INCREASE RANGE</th>
+      <th>LEVEL OF INCREASE</th>
+      <th>ATTACK INCREASE RANGE</th>
       <th>COST ({token})</th>
     </tr>
   </thead>

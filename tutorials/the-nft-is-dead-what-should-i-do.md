@@ -2,29 +2,24 @@
 
 Click on the button with the image of the first aid kit, to the right of the amount of health of the NFT:
 
-<figure><img src="../.gitbook/assets/revive_button.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/docs/.gitbook/assets/revive_button.png" alt=""><figcaption></figcaption></figure>
 
 A confirmation window will appear.
 
 The cost of each revival is calculated by the formula:
 
-$$
-RevCost = LVL + 1,
-$$
+<MathComponent :mathExpression="'RevCost=LVL+1'" /></MathComponent>,
 
 where:
-* RevCost
-: the cost of reviving in $MC;
+* RevCost: the cost of reviving in ${token};
+* LVL: the level of NFT at the time of death.
 
-* LVL
-: the level of NFT at the time of death.
-
-{% hint style="warning" %}
+::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
-The price includes a service fee of 6%. After the commission is deducted, the **{tt}** 
+The price includes a service fee of 6%. After the commission is deducted, the **{token}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
-{% endhint %}
+::
 
 Owners of dead NFTs, as well as living ones, receive rewards at the end of Battles and at the end of the 
 Siege (game), depending on the maximum number of attacks of the NFT.

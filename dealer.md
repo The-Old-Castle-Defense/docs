@@ -1,7 +1,5 @@
-::description
-Do you need more Sapphires ($SPH)? The Dealer is here, send your **${token}** and receive $SPH. 
-But remember that he can invest the funds received in a way that will be beneficial to him.
-::
+<p>Do you need more Sapphires ($SPH)? The Dealer is here, send your **${token}** and receive $SPH. 
+But remember that he can invest the funds received in a way that will be beneficial to him.</p>
 
 # 💎 Dealer
 
