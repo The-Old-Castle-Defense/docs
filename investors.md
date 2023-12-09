@@ -1,7 +1,5 @@
-::description
-Investors in the Old Castle Defense game are users who invested **${token}** in one or both factions 
-during the Siege.
-::
+<p>Investors in the Old Castle Defense game are users who invested **${token}** in one or both factions 
+during the Siege.</p>
 
 # 📈 Investors
 

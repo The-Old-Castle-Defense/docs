@@ -1,5 +1,4 @@
-::description
-There are two main types of players - Warriors (NFT owners) and Investors (Treasury Tokens holders).
+<p>There are two main types of players - Warriors (NFT owners) and Investors (Treasury Tokens holders).
 ::
 
 # 🚀 How to start playing

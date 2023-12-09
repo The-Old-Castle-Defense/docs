@@ -22,13 +22,13 @@ transaction fees of the invited user immediately to **your noncustodial wallet**
 ## Referral Link
 You can find the referral link at the top right in the "Wallet". You can also print a QR code there.
 
-<figure><img src=".gitbook/assets/referral_link.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/docs/.gitbook/assets/referral_link.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
+::card_warning
 The user invited by the referral link must purchase a fraction attack in the right network, then he will 
 be counted. If a user has bought an attack in all the networks available for the game, then he will be 
 counted in all these networks.
-{% endhint %}
+::
 
 ## Who can be interested in The Old Castle Defense? Audience?
 
@@ -44,7 +44,7 @@ counted in all these networks.
 3. You will see the updated counter in the "Invited users" near your ref. link.
 4. For each transaction user made, you will receive 10% of our fees automatically.
 
-{% hint style="info" %}
+::card_info
 All your referrals from the previous chain will be moved to a new chain automatically after deployment 
 with smart contracts.
-{% endhint %}
+::
