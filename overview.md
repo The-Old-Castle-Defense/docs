@@ -17,7 +17,7 @@ The game doesn't have timing. It's the on-chain game - it has blocks, where 1 bl
 
 ::card_info
 * $SPH: Game Utility token;
-* ${token}: Treasury coin on <blockchain> Blockchain;
+* ${token}: Treasury coin on {blockchain} Blockchain;
 * Warrior: Any user that owns an NFT from Terrible Creatures or Knights of the Kingdom NFT collections. 
 * Factions: Opposing sides: the Terrible Creatures versus the Knights of the Kingdom;
 * Investor: Any user who has not staked an NFT, but has staked {token} on either one or both factions during 
