@@ -2,7 +2,7 @@
 
 Click on the button with the green "**+**" symbol on the character image:
 
-<figure><img src="/assets/docs/.gitbook/assets/nft_for_heal.png" alt=""><figcaption></figcaption></figure>
+<img src="/assets/docs/.gitbook/assets/nft_for_heal.png" alt="">
 
 A confirmation window will appear. The cost of treatment is affected by the number of health points 
 spent by the character and the number of team defeats, you can find out more in the 

@@ -4,11 +4,11 @@ Everyone becomes an investor (including players with NFT) who has done at least 
 
 * Increase the Faction's attack for {token} ("Buy Attack" button):
 
-<figure><img src="/assets/docs/.gitbook/assets/buy_attack_button.png" alt=""><figcaption></figcaption></figure>
+<img src="/assets/docs/.gitbook/assets/buy_attack_button.png" alt="">
 
 * Revive a dead NFT character (your own or someone else's), click on the button with the image of a first aid kit:
 
-<figure><img src="/assets/docs/.gitbook/assets/revive_button.png" alt=""><figcaption></figcaption></figure>
+<img src="/assets/docs/.gitbook/assets/revive_button.png" alt="">
 
 * Boost up your character's level up progress:
 

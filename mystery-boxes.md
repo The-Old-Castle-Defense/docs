@@ -1,8 +1,8 @@
-<p>Open your Mystery Box and receive NFT, SPH or Treasury tokens.</p>
-
 # 🎁 Mystery Boxes
 
-<figure><img src="/assets/docs/.gitbook/assets/mystery_boxes_Beam_$MC.png" alt=""><figcaption></figcaption></figure>
+<p>Open your Mystery Box and receive NFT, SPH or Treasury tokens.</p>
+
+<img src="/assets/docs/.gitbook/assets/mystery_boxes_{blockchain}_{token}.png" alt="">
 
 ::card_info
 If you have already opened all the starter Mystery Boxes, don't forget to check for new ones. 

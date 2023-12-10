@@ -2,13 +2,15 @@
 
 Click on the button with the image of the first aid kit, to the right of the amount of health of the NFT:
 
-<figure><img src="/assets/docs/.gitbook/assets/revive_button.png" alt=""><figcaption></figcaption></figure>
+<img src="/assets/docs/.gitbook/assets/revive_button.png" alt="">
 
 A confirmation window will appear.
 
 The cost of each revival is calculated by the formula:
 
-<MathComponent :mathExpression="'RevCost=LVL+1'" /></MathComponent>,
+::card_formula
+<MathComponent :mathExpression="'RevCost=LVL+1'" />,
+::
 
 where:
 * RevCost: the cost of reviving in ${token};

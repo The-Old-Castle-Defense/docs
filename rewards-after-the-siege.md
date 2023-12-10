@@ -1,7 +1,7 @@
+# 🎇 Rewards After The Siege
+
 <p>At the end of each Siege, there is a distribution of ${token}. The amount of ${token} 
 is determined by the formula.</p>
-
-# 🎇 Rewards After The Siege
 
 After 80,640 blocks (~14 days), One faction is declared the victor of the Siege. The Faction with the 
 most Battle victories will receive rewards:
@@ -15,7 +15,9 @@ The reward for the winning Faction is distributed using the following formulas.
 
 ### The Warrior's preliminary coefficient (PreK)
 
-<MathComponent :mathExpression="'PreK={PlayerDMG} \over {TeamDMG}+{PlayerSPH} \over {TeamSPH}'" /></MathComponent>,
+::card_formula
+<MathComponent :mathExpression="'PreK={PlayerDMG} \over {TeamDMG}+{PlayerSPH} \over {TeamSPH}'" />,
+::
 
 where:
 * PlayerDMG: the sum of attacks of all NFTs of one Player at the end of the Siege;
@@ -25,7 +27,9 @@ where:
 
 ### The sum of the preliminary coefficients of all Players in the winning Faction (TeamK)
 
-<MathComponent :mathExpression="'TeamK =(\sum_{i=Player}^{TeamAmount}PreK_i)'" /></MathComponent>,
+::card_formula
+<MathComponent :mathExpression="'TeamK =(\sum_{i=Player}^{TeamAmount}PreK_i)'" />,
+::
 
 where:
 * PreK: the Player's preliminary coefficient;
@@ -33,7 +37,9 @@ where:
 
 ### The final coefficient of the Player (Koef)
 
-<MathComponent :mathExpression="'Koef={PreK \over TeamK}'" /></MathComponent>,
+::card_formula
+<MathComponent :mathExpression="'Koef={PreK \over TeamK}'" />,
+::
 
 where:
 * PreK: the Player's preliminary coefficient;
@@ -41,7 +47,9 @@ where:
 
 ### The reward for the Player (PlayerR)
 
-<MathComponent :mathExpression="'PlayerR=TeamR*Koef'" /></MathComponent>,
+::card_formula
+<MathComponent :mathExpression="'PlayerR=TeamR*Koef'" />,
+::
 
 where:
 * Team: 30% of the amount invested in the losing Faction;

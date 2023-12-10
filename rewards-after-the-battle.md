@@ -1,12 +1,12 @@
-<p>Each Battle won brings one of the sides closer to victory in the Siege.</p>
-
 # 💎 Rewards After The Battle
+
+<p>Each Battle won brings one of the sides closer to victory in the Siege.</p>
 
 During the battle, the task of the Faction of Terrible Creatures is to return as many Sapphires as possible. 
 The task of the Knights Faction is to protect the Old Castle, because, in case of their victory, the King 
 will generously reward his defenders.
 
-<figure><img src="/assets/docs/.gitbook/assets/rewards_after_the_battle.png" alt=""><figcaption></figcaption></figure>
+<img src="/assets/docs/.gitbook/assets/rewards_after_the_battle.png" alt="">
 
 There is a check on the strength of the attack power of both factions every 960 blocks. The Faction with 
 the superior attack power wins the battle (~4 hours).\
@@ -19,7 +19,9 @@ At the end of each battle, there is a distribution of $SPH. The amount of $SPH i
 
 ## Formula
 
-<MathComponent :mathExpression="'RewardSPH=4000*(StakedNFTsAmount/200)'" /></MathComponent>,
+::card_formula
+<MathComponent :mathExpression="'RewardSPH=4000*(StakedNFTsAmount/200)'" />,
+::
 
 where:
 * AmountNFT: the total number of NFTs in the game at the time of the Battle;
@@ -48,7 +50,9 @@ The distribution of $SPH within the faction is determined by the formula.
 
 ## Formula
 
-<MathComponent :mathExpression="'RewardForNFT = NFTAttack/FactionAttack*FactionSPHReward'" /></MathComponent>,
+::card_formula
+<MathComponent :mathExpression="'RewardForNFT = NFTAttack/FactionAttack*FactionSPHReward'" />,
+::
 
 where:
 * NFTAttack: an attack of a single NFT;

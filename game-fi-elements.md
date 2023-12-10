@@ -1,7 +1,7 @@
+# 🎯 Game-Fi Elements
+
 <p>Only teamwork will lead the Faction to victory, so that the team does not 
 break up, it is necessary to monitor the life and strength of the characters.</p>
-
-# 🎯 Game-Fi Elements
 
 ::card_warning
 The game is built on a smart contract, so any burning of **$SPH** or investment of **${token}** 
@@ -18,7 +18,9 @@ reduces the attack power of the character by 1%.
 
 ### Formula
 
-<MathComponent :mathExpression="'CurAttack*(CurHealth/MaxHealth)'" /></MathComponent>,
+::card_formula
+<MathComponent :mathExpression="'CurAttack*(CurHealth/MaxHealth)'" />,
+::
 
 where:
 * **CurAttack** is current NFT attack;
@@ -62,7 +64,9 @@ the formula.
 
 ### Formula
 
+::card_formula
 <MathComponent :mathExpression="'RevCost=LVL+1'" /></MathComponent>,
+::
 
 where:
 * **RevCost** is the cost of reviving in ${token};

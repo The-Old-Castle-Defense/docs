@@ -2,7 +2,7 @@
 
 Click on the button with the green arrow up on the character image:
 
-<figure><img src="/assets/docs/.gitbook/assets/nft_for_upgrade.png" alt=""><figcaption></figcaption></figure>
+<img src="/assets/docs/.gitbook/assets/nft_for_upgrade.png" alt="">
 
 A confirmation window will appear. The cost of raising the level is affected by the current level of 
 the character. You can speed up the level increased by spending **${token}**, more information can be found in 

@@ -1,7 +1,7 @@
+# 🏜 Decentralized Referral System(DRS)
+
 <p>The Old Castle Defense provides the most honest and transparent referral program that you could ever 
 see. We are revolutionizing GameFi with auto-payments to noncustodial wallets.</p>
-
-# 🏜 Decentralized Referral System(DRS)
 
 ::card_info
 The referral program is completely decentralized. This means that you are guaranteed and immediately 
@@ -12,7 +12,8 @@ receive 10% of the transaction fees made by an invited user.
 
 The DRS of The Old Castle Defense allows users to earn real money for inviting new friends/users.
 
-<figure><img src="/assets/docs/.gitbook/assets/drs_transaction_{blockchain}_{token}.png" alt=""><figcaption><p>Example of the referral reward payment <a href="{transactions}">transaction</a> when your friends invest.</p></figcaption></figure>
+<img src="/assets/docs/.gitbook/assets/drs_transaction_{blockchain}_{token}.png" alt="">
+<p>Example of the referral reward payment <a href="{transactions}">transaction</a> when your friends invest.</p>
 
 In The Old Castle Defense, a **decentralized referral program**, you automatically receive **10%** of the 
 transaction fees of the invited user immediately to **your noncustodial wallet**.
@@ -20,7 +21,7 @@ transaction fees of the invited user immediately to **your noncustodial wallet**
 ## Referral Link
 You can find the referral link at the top right in the "Wallet". You can also print a QR code there.
 
-<figure><img src="/assets/docs/.gitbook/assets/referral_link.png" alt=""><figcaption></figcaption></figure>
+<img src="/assets/docs/.gitbook/assets/referral_link.png" alt="">
 
 ::card_warning
 The user invited by the referral link must purchase a fraction attack in the right network, then he will 

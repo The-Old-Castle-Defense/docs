@@ -1,7 +1,7 @@
+# 📈 Investors
+
 <p>Investors in the Old Castle Defense game are users who invested **${token}** in one or both factions 
 during the Siege.</p>
-
-# 📈 Investors
 
 The Investor can participate in determining the outcome of the siege by contributing to one or 
 both factions, helping them achieve victory. If the Faction in which he invested, he receives 
@@ -35,7 +35,9 @@ will bring the Investor greater rewards than in the last battle.
 
 #### Formula
 
+::card_formula
 <MathComponent :mathExpression="'Wi=(Tr-Cr)/Tr*Ia'" />,
+::
 
 where:
 * Tr: the total number of rounds;
@@ -63,7 +65,9 @@ the winning Faction.
 
 #### Formula
 
-<MathComponent :mathExpression="'InvRew = \frac{SumWi}{SumTotalWi}*RewardForInvestors'" /></MathComponent>,
+::card_formula
+<MathComponent :mathExpression="'InvRew = \frac{SumWi}{SumTotalWi}*RewardForInvestors'" />,
+::
 
 where:
 * SumWi: the sum of the investor's investment weights;
