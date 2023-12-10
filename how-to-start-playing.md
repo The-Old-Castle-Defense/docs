@@ -8,13 +8,14 @@ If you are an NFT owner, you can play without any investments. You need to stake
 in an active Siege, upgrade, and heal to increase abilities to earn more rewards than 
 your teammates. Read more in [Game-Fi Elements](game-fi-elements.md).
 
-{% content-ref url="nft-collections/terrible-creatures.md" %}
-[terrible-creatures.md](nft-collections/terrible-creatures.md)
-{% endcontent-ref %}
+<a href="terrible-creatures" 
+ class="docs-item">The Terrible Creatures</a>
 
-{% content-ref url="nft-collections/knights-of-the-kingdom.md" %}
-[knights-of-the-kingdom.md](nft-collections/knights-of-the-kingdom.md)
-{% endcontent-ref %}
+<a href="terrible-creatures" 
+ class="docs-item">The Terrible Creatures</a>
+
+<a href="knights-of-the-kingdom" 
+ class="docs-item">The Knights of the Kingdom</a>
 
 ::card_info
 **How to get NFT:** You can get NFT from Mystery Box. What is it and how to get it, read 
@@ -34,7 +35,7 @@ Click to go to the Siege page:
 
 4. Click "Stake" in the center of the page:
 
-<img src="/assets/docs/.gitbook/assets/stake.png" alt=""><figcaption>
+<img src="/assets/docs/.gitbook/assets/stake.png" alt="">
 
 5. You will see a window with tabs "Spending" and "Wallet":
 
@@ -66,9 +67,8 @@ You can stake **${token}** in the Faction's treasury pool and increase its attac
 The more and earlier you stake **${token}**, the more reward you will receive once the 
 Faction wins the Siege. Read more:
 
-{% content-ref url="investors.md" %}
-[investors.md](investors.md)
-{% endcontent-ref %}
+<a href="investors" 
+ class="docs-item">Investors</a>
 
 ### The first investment
 1. Visit the game [website https://theoldcastle.xyz/](https://theoldcastle.xyz/);

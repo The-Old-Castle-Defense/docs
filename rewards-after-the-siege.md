@@ -16,7 +16,7 @@ The reward for the winning Faction is distributed using the following formulas.
 ### The Warrior's preliminary coefficient (PreK)
 
 ::card_formula
-<MathComponent :mathExpression="'PreK={PlayerDMG} \over {TeamDMG}+{PlayerSPH} \over {TeamSPH}'" />,
+<MathFormula formula="PreK={PlayerDMG} \over {TeamDMG}+{PlayerSPH} \over {TeamSPH}" />,
 ::
 
 where:
@@ -28,7 +28,7 @@ where:
 ### The sum of the preliminary coefficients of all Players in the winning Faction (TeamK)
 
 ::card_formula
-<MathComponent :mathExpression="'TeamK =(\sum_{i=Player}^{TeamAmount}PreK_i)'" />,
+<MathFormula formula="TeamK =(\sum_{i=Player}^{TeamAmount}PreK_i)"/>,
 ::
 
 where:
@@ -48,7 +48,7 @@ where:
 ### The reward for the Player (PlayerR)
 
 ::card_formula
-<MathComponent :mathExpression="'PlayerR=TeamR*Koef'" />,
+<MathFormula formula="PlayerR=TeamR*Koef"/>,
 ::
 
 where:
@@ -84,9 +84,8 @@ Investors receive rewards depending on how much {token} has been invested in the
 Battle, the "weight" of investments falls.\
 Learn more:
 
-{% content-ref url="investors.md" %}
-[investors.md](investors.md)
-{% endcontent-ref %}
+<a href="investors" 
+ class="docs-item">Investors</a>
 
 ## Other Rewards
 

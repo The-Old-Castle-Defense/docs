@@ -15,9 +15,8 @@ Available actions for Investors:
 
 Learn more about it:
 
-{% content-ref url="game-fi-elements.md" %}
-[game-fi-elements.md](game-fi-elements.md)
-{% endcontent-ref %}
+<a href="game-fi-elements" 
+ class="docs-item">Game-Fi elements</a>
 
 ## Reward system
 Investors can stake **${token}** in one Faction or both at once. But in each Siege, only one 
@@ -36,7 +35,7 @@ will bring the Investor greater rewards than in the last battle.
 #### Formula
 
 ::card_formula
-<MathComponent :mathExpression="'Wi=(Tr-Cr)/Tr*Ia'" />,
+<MathFormula formula="Wi=(Tr-Cr)/Tr*Ia" />,
 ::
 
 where:
@@ -66,7 +65,7 @@ the winning Faction.
 #### Formula
 
 ::card_formula
-<MathComponent :mathExpression="'InvRew = \frac{SumWi}{SumTotalWi}*RewardForInvestors'" />,
+<MathFormula formula="InvRew = \frac{SumWi}{SumTotalWi}*RewardForInvestors" />,
 ::
 
 where:

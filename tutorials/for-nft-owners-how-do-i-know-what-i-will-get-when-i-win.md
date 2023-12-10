@@ -2,9 +2,8 @@
 
 You can find out more in the article:
 
-{% content-ref url="../rewards-after-the-siege.md" %}
-[rewards-after-the-siege.md](../rewards-after-the-siege.md)
-{% endcontent-ref %}
+<a href="rewards-after-the-siege" 
+ class="docs-item">Rewards after the Siege</a>
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/shorts/yR8fALEdcek" 

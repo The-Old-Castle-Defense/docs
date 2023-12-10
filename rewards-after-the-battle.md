@@ -20,7 +20,7 @@ At the end of each battle, there is a distribution of $SPH. The amount of $SPH i
 ## Formula
 
 ::card_formula
-<MathComponent :mathExpression="'RewardSPH=4000*(StakedNFTsAmount/200)'" />,
+<MathFormula formula="RewardSPH=4000*(StakedNFTsAmount/200)"/>,
 ::
 
 where:
@@ -51,7 +51,7 @@ The distribution of $SPH within the faction is determined by the formula.
 ## Formula
 
 ::card_formula
-<MathComponent :mathExpression="'RewardForNFT = NFTAttack/FactionAttack*FactionSPHReward'" />,
+<MathFormula formula="RewardForNFT = NFTAttack/FactionAttack*FactionSPHReward"/>,
 ::
 
 where:

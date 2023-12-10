@@ -9,7 +9,7 @@ A confirmation window will appear.
 The cost of each revival is calculated by the formula:
 
 ::card_formula
-<MathComponent :mathExpression="'RevCost=LVL+1'" />,
+<MathFormula formula="RevCost=LVL+1"/>,
 ::
 
 where:

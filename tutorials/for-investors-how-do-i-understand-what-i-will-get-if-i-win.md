@@ -9,9 +9,8 @@ The Investor's PNL is displayed at the bottom of the game page:
 
 The full formula of remuneration for Investors can be found in the article:
 
-{% content-ref url="../investors.md" %}
-[investors.md](../investors.md)
-{% endcontent-ref %}
+<a href="investors" 
+ class="docs-item">Investors</a>
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/shorts/yR8fALEdcek" 

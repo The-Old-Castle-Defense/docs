@@ -14,9 +14,8 @@ Everyone becomes an investor (including players with NFT) who has done at least 
 
 You can learn more about the mechanics and rewards in the article "Investors":
 
-{% content-ref url="../investors.md" %}
-[investors.md](../investors.md)
-{% endcontent-ref %}
+<a href="investors" 
+ class="docs-item">Investors</a>
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/shorts/yR8fALEdcek" 

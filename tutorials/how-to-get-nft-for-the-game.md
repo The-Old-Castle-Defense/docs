@@ -12,13 +12,11 @@ NFT can be obtained by being active in our Telegram or Twitter community:
 1. Go to the marketplace page of [The Terrible Creatures](https://TBD.com) 
 or [The Knights of the Kingdom](https://TBD.com);
 
-{% content-ref url="../nft-collections/terrible-creatures.md" %}
-[terrible-creatures.md](../nft-collections/terrible-creatures.md)
-{% endcontent-ref %}
+<a href="terrible-creatures" 
+ class="docs-item">The Terrible Creatures</a>
 
-{% content-ref url="../nft-collections/knights-of-the-kingdom.md" %}
-[knights-of-the-kingdom.md](../nft-collections/knights-of-the-kingdom.md)
-{% endcontent-ref %}
+<a href="knights-of-the-kingdom" 
+ class="docs-item">The Knights of the Kingdom</a>
 
 2. Choose the NFT that you like;
 3. Click on the button "Buy Now";

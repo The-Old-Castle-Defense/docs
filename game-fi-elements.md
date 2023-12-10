@@ -19,7 +19,7 @@ reduces the attack power of the character by 1%.
 ### Formula
 
 ::card_formula
-<MathComponent :mathExpression="'CurAttack*(CurHealth/MaxHealth)'" />,
+<MathFormula formula="CurAttack*(CurHealth/MaxHealth)" />,
 ::
 
 where:
@@ -65,7 +65,7 @@ the formula.
 ### Formula
 
 ::card_formula
-<MathComponent :mathExpression="'RevCost=LVL+1'" /></MathComponent>,
+<MathFormula formula="RevCost=LVL+1" />,
 ::
 
 where:
