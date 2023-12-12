@@ -1,6 +1,13 @@
-# ✏ Tutorials
+---
+navigation:
+   order: 13
+---
+
+# ✏️ Tutorials
 
 <p>Tutorials, guids and video instructions</p>
+
+<div class="tutorial">
 
 <a href="tutorials/how-to-get-nft-for-the-game" 
  class="docs-item">How to get NFT for the game</a>
@@ -25,3 +32,5 @@
 
 <a href="tutorials/for-investors-how-do-i-understand-what-i-will-get-if-i-win" 
  class="docs-item">For investors how do I understand what I will get if I win</a>
+
+</div>

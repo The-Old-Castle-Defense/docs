@@ -3,23 +3,28 @@
 ## Be active
 
 NFT can be obtained by being active in our Telegram or Twitter community:
-* [Twitter](https://twitter.com/ocd_p2e);
-* [[RU] Community](https://t.me/ocdru_game);
-* [[EN] Community](https://t.me/ocd_game).
+
+<div>
+* <a href="https://twitter.com/ocd_p2e" class="doc-link">Twitter</a>
+* <a href="https://t.me/ocdru_game" class="doc-link">[RU] Community</a>
+* <a href="https://t.me/ocd_game" class="doc-link">[EN] Community</a>
+</div>
 
 ## Buy from the owner
 
-1. Go to the marketplace page of [The Terrible Creatures](https://TBD.com) 
-or [The Knights of the Kingdom](https://TBD.com);
+1. Go to the marketplace page of <a href="{creatures_market_link}" class="doc-link">The Terrible Creatures</a>
+or <a href="{knights_market_link}" class="doc-link">The Knights of the Kingdom</a>;
 
 <a href="terrible-creatures" 
- class="docs-item">The Terrible Creatures</a>
+ class="docs-item-creatures">The Terrible Creatures</a>
 
 <a href="knights-of-the-kingdom" 
- class="docs-item">The Knights of the Kingdom</a>
+ class="docs-item-knights">The Knights of the Kingdom</a>
 
 2. Choose the NFT that you like;
+
 3. Click on the button "Buy Now";
+
 4. If your wallet is not connected, the site will offer to do it.
 
 ::card_warning

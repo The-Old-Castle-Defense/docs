@@ -1,19 +1,30 @@
+---
+navigation:
+    order: 1
+---
+
 # ⭐ Overview
 
 <p>What is The Old Castle Defense?</p>
 
+<div>
 **The Old Castle Defense** is a GameFi & DEFI platform with a revolutionary short-term, high-yield **${token}** & NFT 
 staking system. Staking occurs during the game session (Siege). By upgrading NFTs and staking **${token}**, users 
 increase their Faction's attack strength, with all funds pooled into the Faction's Treasury. The faction 
 with the highest attack wins Battles and the Siege. Victorious users reclaim their staked funds and share 
 the defeated Faction's treasury among themselves.
+</div>
 
 <img src="/assets/docs/.gitbook/assets/overview_{blockchain}_{token}.png" alt="">
 
+<div>
 The winning **Faction** wins the treasury of the losing team. Winning **Faction Treasury** 
 refunds back to **Investors** with rewards.
+</div>
 
+<div>
 The game doesn't have timing. It's the on-chain game - it has blocks, where 1 block ≈ {bps} sec.
+</div>
 
 ::card_info
 * $SPH: Game Utility token;
@@ -25,7 +36,7 @@ the game. If the investor wins, the investor receives a reward, and all invested
 to the winning team;
 * The Siege: The length of each entire game, approximately lasting {siege_duration} blocks;
 * Battle: A game event that takes place every {battle_duration} blocks;
-* Blocks: 1 block-time ~ {bps} seconds. You can track blocks by the [block explorer](https://TBD.com)
+* Blocks: 1 block-time ~ {bps} seconds. You can track blocks by the <a href="{block explorer}" class="doc-link">block explorer</a>;
 ::
 
 <iframe width="560" height="315" 

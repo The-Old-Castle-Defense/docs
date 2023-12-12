@@ -1,3 +1,8 @@
+---
+navigation:
+    order: 11
+---
+
 # 🎁 Mystery Boxes
 
 <p>Open your Mystery Box and receive NFT, SPH or Treasury tokens.</p>
@@ -64,7 +69,7 @@ The reward defines randomly, according to the following constraints:
 Example: the price to open Common Mystery Box = $1. It means that $0.5 will go back to Mystery Boxes 
 treasury, and you will receive more in the next opening.\
 Bank addresses:
-* TBD;
+* {bank_address};
 ::
 
 ::card_warning

@@ -1,3 +1,8 @@
+---
+navigation:
+    order: 3
+---
+
 # 🎯 Game-Fi Elements
 
 <p>Only teamwork will lead the Faction to victory, so that the team does not 
@@ -19,13 +24,14 @@ reduces the attack power of the character by 1%.
 ### Formula
 
 ::card_formula
+::formula
 <MathFormula formula="CurAttack*(CurHealth/MaxHealth)" />,
 ::
-
 where:
 * **CurAttack** is current NFT attack;
 * **CurHealth** is current NFT health;
 * **MaxHealth** is maximum NFT health.
+::
 
 ### Example
 
@@ -65,12 +71,13 @@ the formula.
 ### Formula
 
 ::card_formula
+::formula
 <MathFormula formula="RevCost=LVL+1" />,
 ::
-
 where:
 * **RevCost** is the cost of reviving in ${token};
 * **LVL** is the level of NFT at the time of death.
+::
 
 ::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
@@ -81,12 +88,16 @@ Faction, the invested funds will be returned and rewards will be distributed.
 
 ## Level Up
 
+<div>
 Level up your NFT characters to increase strength, and compete with the opposing Faction, 
 overpowering them and getting closer to achieving victory.
+</div>
 
+<div>
 $SPH is required to level up a character. Each level increase lasts a certain number of 
 blocks, which increases alongside the required amount of $SPH. This process can be 
 accelerated using **${token}** (Boost Level Up).
+</div>
 
 <table>
   <thead>

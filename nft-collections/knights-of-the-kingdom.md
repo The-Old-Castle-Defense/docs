@@ -14,14 +14,15 @@ P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs</p>
   </thead>
   <tbody>
     <tr>
-      <td>{bn}</td>
-      <td>{tt}</td>
-      <td>[TBD](http://TBD.com)</td>
+      <td>{blockchain}</td>
+      <td>{token}</td>
+      <td>{knights_market_link}</td>
       <td>100</td>
     </tr>
   </tbody>
 </table>
 
+<div>
 > _The villagers living around the Old Castle are afraid, whispering scary tales of 
 > frightening Terrible Creatures coming out of their lair, located in the mountains. 
 Some suggest that the Terrible Creatures are related to the apocalypse, believing the 
@@ -32,14 +33,21 @@ Sensing that his youthhood fairy tale may soon turn into a reality, the King has
 > that his best Knights of the Kingdom defend the Old Castle, its sapphire treasury, and 
 > the common folk. Decorated warriors, valiant brave men, and distinguished knights enter 
 > the service of the King._ 
->
+</div>
+
+<div>
 > _There will be a battle soon – a ruthless battle between ancient magic, brave hearts and 
 > merciless blades._
+</div>
 
-[Knights Of The Kingdom NFT Collection](http://TBD.com)
+<a href="{knights_market_link}" class="doc-link">Knights Of The Kingdom NFT Collection</a>
 
+<div>
 > _The wiser and older common folk of the village narrate stories of their ancestors living 
 > with ancient monsters, found in deep caves, who abducted miners that had wandered far into 
 > the mountains, searching for a sapphire that gives immense strength to its owner._
->
+</div>
+
+<div>
 > _Or maybe it's just fairy tales?_
+</div>

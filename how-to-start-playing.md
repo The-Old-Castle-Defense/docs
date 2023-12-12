@@ -1,3 +1,8 @@
+---
+navigation:
+   order: 2
+---
+
 # 🚀 How to start playing
 
 <p>There are two main types of players - Warriors (NFT owners) and Investors (Treasury Tokens holders).</p>
@@ -6,24 +11,21 @@
 
 If you are an NFT owner, you can play without any investments. You need to stake NFT 
 in an active Siege, upgrade, and heal to increase abilities to earn more rewards than 
-your teammates. Read more in [Game-Fi Elements](game-fi-elements.md).
+your teammates. Read more in <a href="game-fi-elements.md" class="doc-link">Game-Fi Elements</a>.
 
 <a href="terrible-creatures" 
- class="docs-item">The Terrible Creatures</a>
-
-<a href="terrible-creatures" 
- class="docs-item">The Terrible Creatures</a>
+ class="docs-item-creatures">The Terrible Creatures</a>
 
 <a href="knights-of-the-kingdom" 
- class="docs-item">The Knights of the Kingdom</a>
+ class="docs-item-knights">The Knights of the Kingdom</a>
 
 ::card_info
 **How to get NFT:** You can get NFT from Mystery Box. What is it and how to get it, read 
-more in [Mystery Boxes](mystery-boxes.md).
+more in <a href="mystery-boxes.md" class="doc-link">Mystery Boxes</a>.
 ::
 
 ### NFT staking
-1. Visit the game [website (https://theoldcastle.xyz/)](https://theoldcastle.xyz/);
+1. Visit the game <a href="https://theoldcastle.xyz/" class="doc-link">website (https://theoldcastle.xyz/)</a>;
 2. Click "Connect Wallet" in the upper right corner and connect your Wallet:
 
 <img src="/assets/docs/.gitbook/assets/connect_wallet.png" alt="">
@@ -71,7 +73,7 @@ Faction wins the Siege. Read more:
  class="docs-item">Investors</a>
 
 ### The first investment
-1. Visit the game [website https://theoldcastle.xyz/](https://theoldcastle.xyz/);
+1. Visit the game <a href="https://theoldcastle.xyz/" class="doc-link">website (https://theoldcastle.xyz/)</a>;
 2. Click "Connect Wallet" in the upper right corner and connect your Wallet:
 
 <img src="/assets/docs/.gitbook/assets/connect_wallet.png" alt="">
@@ -83,7 +85,7 @@ Click to go to the Siege page:
 
 4. Click the "Buy attack" button under the window of one of the Factions:
 
-<img src="/assets/docs/.gitbook/assets/buy_attack.png" alt="">
+<img src="/assets/docs/.gitbook/assets/buy_attack_button.png" alt="">
 
 5. Choose the right number of attack boost levels and click the "Buy" button:
 
@@ -93,4 +95,4 @@ Click to go to the Siege page:
 
 **Ready!** After the transaction is confirmed (1-2 minutes), the Faction's attack will be increased.
 
-<img src="/assets/docs/.gitbook/assets/investment_ready_{blockchain}_{token}.png" alt="">
+<img src="/assets/docs/.gitbook/assets/investment_ready.png" alt="">

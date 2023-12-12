@@ -1,3 +1,8 @@
+---
+navigation:
+    order: 8
+---
+
 # 💎 Rewards After The Battle
 
 <p>Each Battle won brings one of the sides closer to victory in the Siege.</p>
@@ -20,16 +25,19 @@ At the end of each battle, there is a distribution of $SPH. The amount of $SPH i
 ## Formula
 
 ::card_formula
+::formula
 <MathFormula formula="RewardSPH=4000*(StakedNFTsAmount/200)"/>,
 ::
-
 where:
-* AmountNFT: the total number of NFTs in the game at the time of the Battle;
+* **AmountNFT**: the total number of NFTs in the game at the time of the Battle;
 * 4000 is the maximum amount of $SPH that is distributed after the Battle;
 * 200 is the maximum total number of NFTs in a game.
+::
 
+<div>
 The sum of the attack power of both sides is 100%, each Faction will receive an amount of $SPH from the 
 total pool, but depending on the amount of attack power as a percentage.
+</div>
 
 ::card_info
 **Example:** 
@@ -51,11 +59,12 @@ The distribution of $SPH within the faction is determined by the formula.
 ## Formula
 
 ::card_formula
+::formula
 <MathFormula formula="RewardForNFT = NFTAttack/FactionAttack*FactionSPHReward"/>,
 ::
-
 where:
-* NFTAttack: an attack of a single NFT;
-* FactionAttack: an attack of the Faction to which the NFT belongs (without strengthening the Faction's 
+* **NFTAttack**: an attack of a single NFT;
+* **FactionAttack**: an attack of the Faction to which the NFT belongs (without strengthening the Faction's 
 attack);
-* FactionSPHReward: the total Faction reward for the past battle ($SPH).
+* **FactionSPHReward**: the total Faction reward for the past battle ($SPH).
+::

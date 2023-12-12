@@ -9,12 +9,13 @@ A confirmation window will appear.
 The cost of each revival is calculated by the formula:
 
 ::card_formula
+::formula
 <MathFormula formula="RevCost=LVL+1"/>,
 ::
-
 where:
-* RevCost: the cost of reviving in ${token};
-* LVL: the level of NFT at the time of death.
+* **RevCost**: the cost of reviving in ${token};
+* **LVL**: the level of NFT at the time of death.
+::
 
 ::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\

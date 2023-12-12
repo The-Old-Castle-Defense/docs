@@ -1,22 +1,33 @@
+---
+navigation:
+   order: 5
+---
+
 # 📈 Investors
 
 <p>Investors in the Old Castle Defense game are users who invested **${token}** in one or both factions 
 during the Siege.</p>
 
+<div>
 The Investor can participate in determining the outcome of the siege by contributing to one or 
 both factions, helping them achieve victory. If the Faction in which he invested, he receives 
 a reward from the treasury of the losing faction, and all **${token}** invested in the winning Faction 
 is returned. Investors receive 70% of the treasury, while NFT holders receive 30% of the treasury.
+</div>
 
+<div>
 Available actions for Investors:
 * Buying a Faction Attack;
 * Reviving fallen NFT characters for either Faction;
 * Boosting level up for any NFT.
+</div>
 
+<div>
 Learn more about it:
 
 <a href="game-fi-elements" 
  class="docs-item">Game-Fi elements</a>
+</div>
 
 ## Reward system
 Investors can stake **${token}** in one Faction or both at once. But in each Siege, only one 
@@ -32,16 +43,15 @@ Faction. With each Battle, the "weight" of investments decreases.
 The weight of investments decreases with each battle, the invested **${token}** in the first battle 
 will bring the Investor greater rewards than in the last battle.
 
-#### Formula
-
 ::card_formula
+::formula
 <MathFormula formula="Wi=(Tr-Cr)/Tr*Ia" />,
 ::
-
 where:
 * Tr: the total number of rounds;
 * Cr: the current round number;
 * Ia: the number of **${token}** invested by the investor.
+::
 
 ::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
@@ -62,16 +72,15 @@ the winning Faction.
 
 ### The formula for calculating determining an investor's reward
 
-#### Formula
-
 ::card_formula
+::formula
 <MathFormula formula="InvRew = \frac{SumWi}{SumTotalWi}*RewardForInvestors" />,
 ::
-
 where:
 * SumWi: the sum of the investor's investment weights;
 * SumTotalWi: the sum of the investment weights of all investors;
 * RewardForInvestors: 70% of the rewards from the winning Faction's reward pool.
+::
 
 ::card_info
 Example of determining an Investor's reward (assuming that the total number of rounds = 95 

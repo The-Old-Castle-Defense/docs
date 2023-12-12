@@ -14,14 +14,15 @@ P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs.</p>
   </thead>
   <tbody>
     <tr>
-      <td>{bn}</td>
-      <td>{tt}</td>
-      <td>[TBD](http://TBD.com)</td>
+      <td>{blockchain}</td>
+      <td>{token}</td>
+      <td>{creatures_market_link}</td>
       <td>100</td>
     </tr>
   </tbody>
 </table>
 
+<div>
 > _From the manuscripts found in the great library located in the Old Castle: 
 Since our world was created, ancient beings have always lived in the great underground 
 > realms. No one knows exactly where this underground realm is located or where its 
@@ -29,9 +30,11 @@ Since our world was created, ancient beings have always lived in the great under
 It is said the entrance leads to a gigantically majestic hall, glistening with gold and 
 > marbled with  precious gemstones. The walls of the hall are laid with beautiful minerals, 
 > Magic Sapphires, the source of life for these ancient beings._
+</div>
 
-[Terrible Creatures NFT Collection](http://TBD.com)
+<a href="{creatures_market_link}" class="doc-link">Terrible Creatures NFT Collection</a>
 
+<div>
 > _While in his youth and yet still a prince, the King read a story about the kingdoms of 
 > the deep. The story amazed and fascinated him. The king surely did not believe in ancient 
 > tales of Terrible Creatures. Yet he understood there could always be grains of truth, 
@@ -45,8 +48,11 @@ Several generations of miners ventured out into the mines believing they were de
 > extracted with such pace and insatiable greed, that within a few years, the mines eventually 
 > became dry. As a result, the miners started digging deeper holes to satisfy the king's 
 > demand for more sapphires._
-> 
+</div>
+
+<div>
 > _Until the patience of the Terrible Creatures came to an end...
 Sapphires have been a source of life and strength for the Terrible Creatures, since the 
 > world was created. Without the sapphires, their species will not survive, so they are 
 > crossing over to the surface to regain the stolen sapphires._
+</div>
