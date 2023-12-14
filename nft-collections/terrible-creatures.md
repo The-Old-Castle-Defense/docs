@@ -1,7 +1,10 @@
 # 👻 Terrible Creatures
 
-<p>Terrible Creatures is unique NFT collection of The Old Castle Defense 
-P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs.</p>
+<div>
+
+Terrible Creatures is unique NFT collection of The Old Castle Defense 
+P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs.
+</div>
 
 <table>
   <thead>
@@ -23,6 +26,7 @@ P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs.</p>
 </table>
 
 <div>
+
 > _From the manuscripts found in the great library located in the Old Castle: 
 Since our world was created, ancient beings have always lived in the great underground 
 > realms. No one knows exactly where this underground realm is located or where its 
@@ -32,9 +36,14 @@ It is said the entrance leads to a gigantically majestic hall, glistening with g
 > Magic Sapphires, the source of life for these ancient beings._
 </div>
 
-<a href="{creatures_market_link}" class="doc-link">Terrible Creatures NFT Collection</a>
 
 <div>
+
+<a href="{creatures_market_link}" target="_blanc" class="doc-link">Terrible Creatures NFT Collection</a>
+</div>
+
+<div>
+
 > _While in his youth and yet still a prince, the King read a story about the kingdoms of 
 > the deep. The story amazed and fascinated him. The king surely did not believe in ancient 
 > tales of Terrible Creatures. Yet he understood there could always be grains of truth, 
@@ -51,6 +60,7 @@ Several generations of miners ventured out into the mines believing they were de
 </div>
 
 <div>
+
 > _Until the patience of the Terrible Creatures came to an end...
 Sapphires have been a source of life and strength for the Terrible Creatures, since the 
 > world was created. Without the sapphires, their species will not survive, so they are 

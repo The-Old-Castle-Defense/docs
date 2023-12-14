@@ -9,6 +9,7 @@ navigation:
 Knights of the Kingdom with total supply of 200 NFTs (100 NFTs in each)</p>
 
 <div>
+
 * **Total Supply:** 200 NFT;
 * **Terrible Creatures Supply:** 100 NFT;
 * **Knights of the Kingdom Supply:** 100 NFT.
@@ -19,11 +20,12 @@ Knights of the Kingdom with total supply of 200 NFTs (100 NFTs in each)</p>
 ::
 
 <div>
+
 There are two opposing Factions in the game:
 
 <a href="nft-collections/terrible-creatures.md" 
- class="docs-item-creatures">terrible-creatures</a>
+ class="docs-item _creatures">Terrible creatures</a>
 
 <a href="nft-collections/knights-of-the-kingdom.md" 
- class="docs-item-knights">knights-of-the-kingdom</a>
+ class="docs-item _knights">Knights of the kingdom</a>
 </div>

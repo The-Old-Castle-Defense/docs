@@ -14,12 +14,21 @@ requires confirmation in the blockchain.
 ::
 
 ## Healing
+<div>
+
 After each Battle, the health level of the character drops by 11% of the maximum HP.
+</div>
+
+<div>
 
 To restore 1% health, users must burn 1 Sapphire (**$SPH**).
+</div>
+
+<div>
 
 It is better to restore a character's health in time, as each missing point of health 
 reduces the attack power of the character by 1%.
+</div>
 
 ### Formula
 
@@ -89,11 +98,13 @@ Faction, the invested funds will be returned and rewards will be distributed.
 ## Level Up
 
 <div>
+
 Level up your NFT characters to increase strength, and compete with the opposing Faction, 
 overpowering them and getting closer to achieving victory.
 </div>
 
 <div>
+
 $SPH is required to level up a character. Each level increase lasts a certain number of 
 blocks, which increases alongside the required amount of $SPH. This process can be 
 accelerated using **${token}** (Boost Level Up).
@@ -154,11 +165,17 @@ If you use the Faction attack boost functionality, you become an Investor.
 
 ## Buy Faction Attack
 
+<div>
+
 Investors can increase the faction's attack power in exchange for **${token}**, but each 
 subsequent increase costs them more than the previous one.
+</div>
+
+<div>
 
 Each boost adds a random number to the total attack power of the Faction within the 
 range of the current boost level.
+</div>
 
 ### Calculating the range of attack probability and cost
 

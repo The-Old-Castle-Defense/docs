@@ -1,7 +1,10 @@
 # 🏰 Knights Of The Kingdom
 
-<p>Knights of the Kingdom is unique NFT collection of The Old Castle Defense 
-P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs</p>
+<div>
+
+Knights of the Kingdom is unique NFT collection of The Old Castle Defense 
+P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs
+</div>
 
 <table>
   <thead>
@@ -23,6 +26,7 @@ P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs</p>
 </table>
 
 <div>
+
 > _The villagers living around the Old Castle are afraid, whispering scary tales of 
 > frightening Terrible Creatures coming out of their lair, located in the mountains. 
 Some suggest that the Terrible Creatures are related to the apocalypse, believing the 
@@ -36,18 +40,24 @@ Sensing that his youthhood fairy tale may soon turn into a reality, the King has
 </div>
 
 <div>
+
 > _There will be a battle soon – a ruthless battle between ancient magic, brave hearts and 
 > merciless blades._
 </div>
 
-<a href="{knights_market_link}" class="doc-link">Knights Of The Kingdom NFT Collection</a>
+<div>
+
+<a href="{knights_market_link}" target="_blanc" class="doc-link">Knights Of The Kingdom NFT Collection</a>
+</div>
 
 <div>
+
 > _The wiser and older common folk of the village narrate stories of their ancestors living 
 > with ancient monsters, found in deep caves, who abducted miners that had wandered far into 
 > the mountains, searching for a sapphire that gives immense strength to its owner._
 </div>
 
 <div>
+
 > _Or maybe it's just fairy tales?_
 </div>

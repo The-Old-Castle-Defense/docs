@@ -9,6 +9,7 @@ navigation:
 during the Siege.</p>
 
 <div>
+
 The Investor can participate in determining the outcome of the siege by contributing to one or 
 both factions, helping them achieve victory. If the Faction in which he invested, he receives 
 a reward from the treasury of the losing faction, and all **${token}** invested in the winning Faction 
@@ -16,6 +17,7 @@ is returned. Investors receive 70% of the treasury, while NFT holders receive 30
 </div>
 
 <div>
+
 Available actions for Investors:
 * Buying a Faction Attack;
 * Reviving fallen NFT characters for either Faction;
@@ -23,6 +25,7 @@ Available actions for Investors:
 </div>
 
 <div>
+
 Learn more about it:
 
 <a href="game-fi-elements" 
@@ -30,9 +33,13 @@ Learn more about it:
 </div>
 
 ## Reward system
+
+<div>
+
 Investors can stake **${token}** in one Faction or both at once. But in each Siege, only one 
 Faction wins. It should be noted that the Investor acts independently and receives 
 remuneration depending on which faction, when, and how much **${token}** was invested.
+</div>
 
 ::card_warning
 The investor receives a reward depending on the amount of **${token}** invested in the winning 
@@ -40,17 +47,21 @@ Faction. With each Battle, the "weight" of investments decreases.
 ::
 
 ### The formula for calculating the weight of investments
+
+<div>
+
 The weight of investments decreases with each battle, the invested **${token}** in the first battle 
 will bring the Investor greater rewards than in the last battle.
+</div>
 
 ::card_formula
 ::formula
 <MathFormula formula="Wi=(Tr-Cr)/Tr*Ia" />,
 ::
 where:
-* Tr: the total number of rounds;
-* Cr: the current round number;
-* Ia: the number of **${token}** invested by the investor.
+* **Tr:** the total number of rounds;
+* **Cr**: the current round number;
+* **Ia**: the number of **${token}** invested by the investor.
 ::
 
 ::card_warning
@@ -77,9 +88,9 @@ the winning Faction.
 <MathFormula formula="InvRew = \frac{SumWi}{SumTotalWi}*RewardForInvestors" />,
 ::
 where:
-* SumWi: the sum of the investor's investment weights;
-* SumTotalWi: the sum of the investment weights of all investors;
-* RewardForInvestors: 70% of the rewards from the winning Faction's reward pool.
+* **SumWi**: the sum of the investor's investment weights;
+* **SumTotalWi**: the sum of the investment weights of all investors;
+* **RewardForInvestors**: 70% of the rewards from the winning Faction's reward pool.
 ::
 
 ::card_info

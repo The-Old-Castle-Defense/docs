@@ -9,6 +9,7 @@ navigation:
 earn 10% of the revenue (fees collected) directly to your wallet if that team wins the game.</p>
 
 <div>
+
 Choose one of the factions and click the "Vote" button to place a bet on winning:
 
 <img src="/assets/docs/.gitbook/assets/free_voting.png" alt="">

@@ -5,10 +5,14 @@ navigation:
 
 # ⚔️ Rewards After The Siege
 
-<p>At the end of each Siege, there is a distribution of ${token}. The amount of ${token} 
-is determined by the formula.</p>
+<div>
+
+At the end of each Siege, there is a distribution of ${token}. The amount of ${token} 
+is determined by the formula.
+</div>
 
 <div>
+
 After 80,640 blocks (~14 days), One faction is declared the victor of the Siege. The Faction with the 
 most Battle victories will receive rewards:
 * **Winners are returned any ${token}** they have invested during the entirety of the Siege;
@@ -24,7 +28,7 @@ The reward for the winning Faction is distributed using the following formulas.
 
 ::card_formula
 ::formula
-<MathFormula formula="PreK={PlayerDMG} \over {TeamDMG}+{PlayerSPH} \over {TeamSPH}" />,
+<MathFormula formula="PreK=\frac{PlayerDMG}{TeamDMG} + \frac{PlayerSPH}{TeamSPH}" />,
 ::
 where:
 * **PlayerDMG**: the sum of attacks of all NFTs of one Player at the end of the Siege;
@@ -36,18 +40,19 @@ where:
 ### The sum of the preliminary coefficients of all Players in the winning Faction (TeamK)
 
 ::card_formula
+::formula
 <MathFormula formula="TeamK =(\sum_{i=Player}^{TeamAmount}PreK_i)"/>,
 ::
-
 where:
-* PreK: the Player's preliminary coefficient;
-* TeamAmount: the number of players in the winning Faction.
+* **PreK**: the Player's preliminary coefficient;
+* **TeamAmount**: the number of players in the winning Faction.
+::
 
 ### The final coefficient of the Player (Koef)
 
 ::card_formula
 ::formula
-<MathComponent :mathExpression="Koef={PreK \over TeamK}" />,
+<MathFormula formula="Koef={PreK \over TeamK}" />,
 ::
 where:
 * **PreK**: the Player's preliminary coefficient;
@@ -67,14 +72,17 @@ where:
 
 ### Example
 
+<div>
 * Invested in the losing Faction: 10000 {token};
 * The winning Faction has only 5 NFTs;
 * The Gamer_1 has 2 NFT in possession, with an attack power of 10 and 15;
 * Gamer_1 has 100 pieces of Sapphires on the balance;
 * The rest of the players have NFT with attack power: 11, 8 and 5;
 * Total Sapphires on the balance of the Players of the Winning Faction 250;
+</div>
 
 <div>
+
 Calculation of the Player_1 reward:
 1. PlayerDMG = 10+15 = 25
 2. TeamDMG = 11+8+5+10+15 = 49
@@ -89,19 +97,29 @@ Calculation of the Player_1 reward:
 </div>
 
 ## Reward for Investors
+
+<div>
+
 Investors can invest **${token}** in one Faction or both. But only one Faction is declared winner for each 
 siege. It should be noted that each Investor acts by their own will and receives rewards based on where, 
 when, and how much **${token}** is invested.\
 Investors receive rewards depending on how much {token} has been invested in the winning Faction. With each 
 Battle, the "weight" of investments falls.\
+</div>
+
+<div>
+
 Learn more:
 
 <a href="investors" 
  class="docs-item">Investors</a>
+</div>
 
 ## Other Rewards
 
+<div>
 After the Siege ends, 10% of the collected commission (in **${token}**) is automatically Airdropped to users, that voted 
 for the winning Faction.\
 An additional 10% of the collected commission is distributed as a reward to active users, content makers, 
 bloggers, artists, etc.
+</div>

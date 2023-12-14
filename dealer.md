@@ -16,15 +16,9 @@ treasury of a random faction.
 Players of the "Terrible Creatures" and "Knights Of The Kingdom" Factions can purchase 
 Sapphires ($SPH) from the Dealer to level up their NFTs or heal them.
 
-<div>
-Sapphires are always sold at a fixed price: 
-
-::card_formula  
-::formula  
-<MathFormula formula="1 $SPH = {sph_cost} {token}"/>,  
+::card_info
+Sapphires are always sold at a fixed price: 1 $SPH = {sph_cost} {token}".  
 ::
-::
-</div>
 
 ::card_warning
 The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\

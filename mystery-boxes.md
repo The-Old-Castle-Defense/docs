@@ -14,18 +14,24 @@ If you have already opened all the starter Mystery Boxes, don't forget to check 
 New Mystery Boxes can be obtained during community events.
 ::
 
+<div>
+
 After connecting the wallet, each user has access to 
-the [Mystery Boxes](https://theoldcastle.xyz/{blockchain}/{token}/mysterybox). Each Mystery Box contains various 
+the <a href="https://theoldcastle.xyz/{blockchain}/{token}/mysterybox" target="_blanc" class="doc-link">Mystery Boxes</a>[](). Each Mystery Box contains various 
 types of rewards such as NFT, Treasury Tokens, and Sapphires.
+</div>
 
 ::card_info
 If you do not have Mystery Box, it's time to do something. You need to support all activities of The 
 Old Castle Defense in Socials or [invite new friends](decentralized-referral-system-drs.md).
 ::
 
+<div>
+
 The reward defines randomly, according to the following constraints:
 1. **Number of rewards:** from 1 to 3
 2. **Number of SPH:** from 1 to 20
+</div>
 
 <table>
   <thead>
@@ -38,7 +44,7 @@ The reward defines randomly, according to the following constraints:
   </thead>
   <tbody>
     <tr>
-      <td><mark style="color:blue;">Common</mark></td>
+      <td><span class="docs-mbox common">Common</span></td>
       <td>0.15%</td>
       <td>0</td>
       <td>99.85%</td>
@@ -69,7 +75,7 @@ The reward defines randomly, according to the following constraints:
 Example: the price to open Common Mystery Box = $1. It means that $0.5 will go back to Mystery Boxes 
 treasury, and you will receive more in the next opening.\
 Bank addresses:
-* {bank_address};
+* {game_contract_address};
 ::
 
 ::card_warning
