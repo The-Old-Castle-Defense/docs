@@ -12,8 +12,10 @@ A confirmation window will appear. The cost of raising the level is affected by 
 the character. You can speed up the level increased by spending **${token}**, more information can be found in 
 the section Game-Fi Elements.
 
-<a href="game-fi-elements" 
- class="docs-item">Game-Fi elements</a>
+<a href="../game-fi-elements" 
+ class="docs-item">
+<span>🎯</span>
+Game-Fi elements</a>
 </div>
 
 ::card_warning

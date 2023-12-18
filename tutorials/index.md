@@ -10,27 +10,51 @@ navigation:
 <div class="tutorial">
 
 <a href="tutorials/how-to-get-nft-for-the-game" 
- class="docs-item">How to get NFT for the game</a>
+ class="docs-item">
+ <span>📄</span>
+How to get NFT 
+for the game</a>
 
 <a href="tutorials/how-to-become-an-investor-in-the-game" 
- class="docs-item">How to become an investor in the game</a>
+ class="docs-item">
+ <span>📄</span>
+How to become a
+n investor in the game</a>
 
 <a href="tutorials/how-to-start-the-game" 
- class="docs-item">How to start the game</a>
+ class="docs-item">
+ <span>📄</span>
+How to start th
+e game</a>
 
 <a href="tutorials/how-to-upgrade-nft" 
- class="docs-item">How to upgrade NFT</a>
+ class="docs-item">
+ <span>📄</span>
+How to upgrade 
+NFT</a>
 
 <a href="tutorials/how-to-heal-nft" 
- class="docs-item">How to heal NFT</a>
+ class="docs-item">
+ <span>📄</span>
+How to heal NFT
+</a>
 
 <a href="tutorials/the-nft-is-dead-what-should-i-do" 
- class="docs-item">The NFT is dead what should I do</a>
+ class="docs-item">
+ <span>📄</span>
+The NFT is dead
+what should I do</a>
 
 <a href="tutorials/for-nft-owners-how-do-i-know-what-i-will-get-when-i-win" 
- class="docs-item">For NFT owners how do I know what I will get when I win</a>
+ class="docs-item">
+ <span>📄</span>
+For NFT owners 
+how do I know what I will get when I win</a>
 
 <a href="tutorials/for-investors-how-do-i-understand-what-i-will-get-if-i-win" 
- class="docs-item">For investors how do I understand what I will get if I win</a>
+ class="docs-item">
+ <span>📄</span>
+For investors h
+ow do I understand what I will get if I win</a>
 
 </div>

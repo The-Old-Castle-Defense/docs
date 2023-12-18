@@ -15,11 +15,17 @@ If you are an NFT owner, you can play without any investments. You need to stake
 in an active Siege, upgrade, and heal to increase abilities to earn more rewards than 
 your teammates. Read more in <a href="game-fi-elements.md" class="doc-link">Game-Fi Elements</a>.
 
-<a href="terrible-creatures" 
- class="docs-item _creatures">The Terrible Creatures</a>
+<a href="nft-collections/terrible-creatures"
+class="docs-item _creatures">
+<span>👻</span>
+The terrible creatures
+</a>
 
-<a href="knights-of-the-kingdom" 
- class="docs-item _knights">The Knights of the Kingdom</a>
+<a href="nft-collections/knights-of-the-kingdom"
+class="docs-item _knights">
+<span>🏰</span>
+The knights of the kingdom
+</a>
 
 </div>
 
@@ -89,7 +95,9 @@ The more and earlier you stake **${token}**, the more reward you will receive on
 Faction wins the Siege. Read more:
 
 <a href="investors" 
- class="docs-item">Investors</a>
+ class="docs-item">
+<span>📈</span>
+Investors</a>
 </div>
 
 ### The first investment

@@ -39,7 +39,7 @@ It is said the entrance leads to a gigantically majestic hall, glistening with g
 
 <div>
 
-<a href="{creatures_market_link}" target="_blanc" class="doc-link">Terrible Creatures NFT Collection</a>
+<a href="{creatures_market_link}" target="_blanc" class="doc-link _terrible">Terrible Creatures NFT Collection</a>
 </div>
 
 <div>

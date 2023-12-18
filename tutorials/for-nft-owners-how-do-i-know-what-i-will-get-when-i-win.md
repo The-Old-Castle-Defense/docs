@@ -4,8 +4,11 @@
 
 You can find out more in the article:
 
-<a href="rewards-after-the-siege" 
- class="docs-item">Rewards after the Siege</a>
+<a href="../rewards-after-the-siege" 
+ class="docs-item">
+<span>⚔️</span>
+Rewards after the Siege
+</a>
 </div>
 
 <iframe width="560" height="315" 

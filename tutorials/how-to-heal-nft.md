@@ -12,8 +12,10 @@ A confirmation window will appear. The cost of treatment is affected by the numb
 spent by the character and the number of team defeats, you can find out more in the 
 section Game-Fi Elements.
 
-<a href="game-fi-elements" 
- class="docs-item">Game-Fi elements</a>
+<a href="../game-fi-elements" 
+ class="docs-item">
+<span>🎯</span>
+Game-Fi elements</a>
 </div>
 
 <iframe width="560" height="315" 

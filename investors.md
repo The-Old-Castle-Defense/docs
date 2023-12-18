@@ -29,7 +29,9 @@ Available actions for Investors:
 Learn more about it:
 
 <a href="game-fi-elements" 
- class="docs-item">Game-Fi elements</a>
+ class="docs-item">
+<span>🎯</span>
+Game-Fi elements</a>
 </div>
 
 ## Reward system

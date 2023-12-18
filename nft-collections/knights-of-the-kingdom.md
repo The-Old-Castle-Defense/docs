@@ -43,11 +43,13 @@ Sensing that his youthhood fairy tale may soon turn into a reality, the King has
 
 > _There will be a battle soon – a ruthless battle between ancient magic, brave hearts and 
 > merciless blades._
+
+
 </div>
 
 <div>
 
-<a href="{knights_market_link}" target="_blanc" class="doc-link">Knights Of The Kingdom NFT Collection</a>
+<a href="{knights_market_link}" target="_blanc" class="doc-link _knights">Knights Of The Kingdom NFT Collection</a>
 </div>
 
 <div>

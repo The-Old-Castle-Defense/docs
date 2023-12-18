@@ -28,8 +28,10 @@ Boost up your character's level up progress:
 
 You can learn more about the mechanics and rewards in the article "Investors":
 
-<a href="investors" 
- class="docs-item">Investors</a>
+<a href="../investors" 
+ class="docs-item">
+<span>📈</span>
+Investors</a>
 </div>
 
 <iframe width="560" height="315" 

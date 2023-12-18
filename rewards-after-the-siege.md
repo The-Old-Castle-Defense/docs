@@ -112,7 +112,9 @@ Battle, the "weight" of investments falls.\
 Learn more:
 
 <a href="investors" 
- class="docs-item">Investors</a>
+ class="docs-item">
+<span>📈</span>
+Investors</a>
 </div>
 
 ## Other Rewards

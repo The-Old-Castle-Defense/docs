@@ -13,8 +13,10 @@ navigation:
 earn **${token}** by playing the game. The game's contract distributes **30%** of the Treasury among NFT 
 owners who participate in battles and achieve victories.
 
-<a href="nft-collections/" 
- class="docs-item">NFT collections</a>
+<a href="nft-collections" 
+ class="docs-item">
+<span>🖼️</span>
+NFT collections</a>
 </div>
 
 <div>
@@ -25,7 +27,9 @@ the total investment made by {token} holders in the winning team is returned alo
 of the Treasury, which is **70%** of the total.
 
 <a href="investors" 
- class="docs-item">Investors</a>
+ class="docs-item">
+<span>📈</span>
+Investors</a>
 </div>
 
 <div>
@@ -35,7 +39,9 @@ earn {token} as a reward. The game charges a 6% fee on each investment made by {
 **10%** of this fee is distributed to the users who refer new players to the game.
 
 <a href="decentralized-referral-system-drs" 
- class="docs-item">Decentralized Referral System (DRS)</a>
+ class="docs-item">
+<span>🧑‍🤝‍🧑</span>
+Decentralized Referral System (DRS)</a>
 </div>
 
 <div>
@@ -45,5 +51,7 @@ the game's contract distributes **10%** of the fees collected as a reward for us
 for the winning team.
 
 <a href="free-voting" 
- class="docs-item">Free voting</a>
+ class="docs-item">
+<span>💵</span>
+Free voting</a>
 </div>

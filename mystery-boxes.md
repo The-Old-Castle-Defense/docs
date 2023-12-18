@@ -50,19 +50,19 @@ The reward defines randomly, according to the following constraints:
       <td>99.85%</td>
     </tr>
     <tr>
-      <td><mark style="color:purple;">Uncommon</mark></td>
+      <td><span class="docs-mbox uncommon">Uncommon</span></td>
       <td>1%</td>
       <td>25%</td>
       <td>74%</td>
     </tr>
     <tr>
-      <td><mark style="color:green;">Rare</mark></td>
+      <td><span class="docs-mbox rare">Rare</span></td>
       <td>5%</td>
       <td>35%</td>
       <td>60%</td>
     </tr>
     <tr>
-      <td><mark style="color:red;">Legendary</mark> </td>
+      <td><span class="docs-mbox legendary">Legendary</span></td>
       <td>10%</td>
       <td>50%</td>
       <td>40%</td>
