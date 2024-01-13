@@ -9,7 +9,7 @@ navigation:
 
 <div>
 
-**The Old Castle Defense** is a GameFi & DEFI platform with a revolutionary short-term, high-yield **${token}** & NFT 
+**The Old Castle Defense** is a GameFi & DEFI platform with a revolutionary short-term, high-yield **${token}** & **NFT** 
 staking system. Staking occurs during the game session (Siege). By upgrading NFTs and staking **${token}**, users 
 increase their Faction's attack strength, with all funds pooled into the Faction's Treasury. The faction 
 with the highest attack wins Battles and the Siege. Victorious users reclaim their staked funds and share 

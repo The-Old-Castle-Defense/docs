@@ -18,16 +18,16 @@ will generously reward his defenders.
 <div>
 
 There is a check on the strength of the attack power of both factions every 960 blocks. The Faction with 
-the superior attack power wins the battle (~4 hours).\
+the superior attack power wins the battle.\
 The victorious battle is recorded in the total score of the Siege of the Castle. At the end of the 
-Siege (~14 days), the team with the most victories in battles is considered the winner.
+Siege, the team with the most victories in battles is considered the winner.
 </div>
 
 ### Battle Reward
 
 At the end of each battle, there is a distribution of $SPH. The amount of $SPH is determined by the formula.
 
-## Formula
+## The amount of $SPH
 
 ::card_formula
 ::formula
@@ -65,7 +65,7 @@ each NFT separately.
 The distribution of $SPH within the faction is determined by the formula.
 </div>
 
-## Formula
+## The distribution of $SPH within the faction
 
 ::card_formula
 ::formula

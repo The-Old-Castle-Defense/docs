@@ -13,45 +13,53 @@ navigation:
 
 If you are an NFT owner, you can play without any investments. You need to stake NFT 
 in an active Siege, upgrade, and heal to increase abilities to earn more rewards than 
-your teammates. Read more in <a href="game-fi-elements.md" class="doc-link">Game-Fi Elements</a>.
+your teammates. Read more:
+
+<a href="game-fi-elements" 
+ class="docs-item">
+<span>🎯</span>
+Investors</a>
+</div>
+
+### NFT Collections
+
+<div>
 
 <a href="nft-collections/terrible-creatures"
 class="docs-item _creatures">
 <span>👻</span>
-The terrible creatures
+The Terrible Creatures
 </a>
 
 <a href="nft-collections/knights-of-the-kingdom"
 class="docs-item _knights">
 <span>🏰</span>
-The knights of the kingdom
+The Knights Of The Kingdom
 </a>
-
-</div>
 
 ::card_info
 **How to get NFT:** You can get NFT from Mystery Box. What is it and how to get it, read 
 more in <a href="mystery-boxes.md" class="doc-link">Mystery Boxes</a>.
 ::
+</div>
 
 ### NFT staking
 <div>
 
-1. Visit the game <a href="https://theoldcastle.xyz/" class="doc-link">website</a>;
-2. Click "Connect Wallet" in the upper right corner and connect your Wallet:
+1. Visit the game <a href="https://theoldcastle.xyz/" target="_blanc" class="doc-link">website</a>;
+2. Click "Login/Connect" in the upper right corner and connect your Wallet:
 <img src="/assets/docs/.gitbook/assets/connect_wallet.png" alt="">
 </div>
 
 <div>
 
-3. When the game is ready to start, you will see the "Participate" button on the Home page.
-   Click to go to the Siege page:
+3. When the game is ready to start, you will see the "Play Now" button on the Home page. Click to go to the Siege page:
 <img src="/assets/docs/.gitbook/assets/participate.png" alt="">
 </div>
 
 <div>
 
-4. Click "Stake" in the center of the page:
+4. Click "Stake NFT" in the center of the page:
 <img src="/assets/docs/.gitbook/assets/stake.png" alt="">
 </div>
 
@@ -100,31 +108,31 @@ Faction wins the Siege. Read more:
 Investors</a>
 </div>
 
-### The first investment
+### The first stake
 
 <div>
 
-1. Visit The Old Castle Defense <a href="https://theoldcastle.xyz/" class="doc-link">website</a>;
-2. Click "Connect Wallet" in the upper right corner and connect your Wallet:
+1. Visit The Old Castle Defense <a href="https://theoldcastle.xyz/" target="_blanc" class="doc-link">website</a>;
+2. Click "Login/Connect" in the upper right corner and connect your Wallet:
 <img src="/assets/docs/.gitbook/assets/connect_wallet.png" alt="">
 </div>
 
 <div>
 
-3. When the game is ready to start, you will see the "Participate" button on the Home page. 
+3. When the game is ready to start, you will see the "Play Now" button on the Home page. 
 Click to go to the Siege page:
 <img src="/assets/docs/.gitbook/assets/participate.png" alt="">
 </div>
 
 <div>
 
-4. Click the "Buy attack" button under the window of one of the Factions:
+4. Click the "Stake to attack" button under the window of one of the Factions:
 <img src="/assets/docs/.gitbook/assets/buy_attack_button.png" alt="">
 </div>
 
 <div>
 
-5. Choose the right number of attack boost levels and click the "Buy" button:
+5. Choose the right number of attack boost levels and click the button:
 <img src="/assets/docs/.gitbook/assets/attack_levels_{blockchain}_{token}.png" alt="">
 </div>
 
@@ -135,6 +143,6 @@ Click to go to the Siege page:
 
 <div>
 
-**Ready!** After the transaction is confirmed (1-2 minutes), the Faction's attack will be increased.
+**Ready!** After the transaction is confirmed, the Faction's attack will be increased.
 <img src="/assets/docs/.gitbook/assets/investment_ready.png" alt="">
 </div>

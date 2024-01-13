@@ -60,7 +60,7 @@ counted in all these networks.
 
 <div>
 
-1. Send your referral link to friends/users you know.
+1. Send your referral link to friends/followers.
 2. Once they will open a link, they need to connect their wallet.
 3. You will see the updated counter in the "Invited users" near your ref. link.
 4. For each transaction user made, you will receive 10% of our fees automatically.
