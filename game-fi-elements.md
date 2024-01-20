@@ -30,15 +30,16 @@ It is better to restore a character's health in time, as each missing point of h
 reduces the attack power of the character by 1%.
 </div>
 
-### Formula
+### The formula for reducing attack depending on health
 
 ::card_formula
 ::formula
-<MathFormula formula="CurAttack*(CurHealth/MaxHealth)" />,
+<MathFormula formula="NewAttack=(CurHealth*CurAttack)/MaxHealth)" />,
 ::
 where:
-* **CurAttack** is current NFT attack;
-* **CurHealth** is current NFT health;
+* **NewAttack** is NFT attack after the Battle;
+* **CurHealth** is current NFT health (everytime after the Battle: MaxHealth - 11;
+* **CurAttack** is current NFT attack at the time of the Battle;
 * **MaxHealth** is maximum NFT health.
 ::
 

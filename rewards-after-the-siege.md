@@ -24,27 +24,27 @@ most Battle victories will receive rewards:
 
 The reward for the winning Faction is distributed using the following formulas.
 
-### The Warrior's preliminary coefficient (PreK)
+### The NFT's preliminary coefficient (NFTreK)
 
 ::card_formula
 ::formula
-<MathFormula formula="PreK=\frac{NftDMG}{TeamNftDMG} + \frac{PlayerSPH}{TeamSPH}" />,
+<MathFormula formula="NFTreK=\frac{NftDMG}{TeamNftDMG} + \frac{BurnedNftSPH}{BurnedTeamSPH}" />,
 ::
 where:
 * **NftDMG**: the attack of NFT at the end of the Siege;
 * **TeamNftDMG**: the sum of the attacks of all NFTs in the Faction at the end of the Siege;
-* **PlayerSPH**: the number of sapphires on the Player's balance at the end of the Siege;
-* **TeamSPH**: the sum of the number of Sapphires on the balance of all Players of the Faction at the end of the Siege.
+* **BurnedNftSPH**: the number of Burned Sapphires of the Player at the end of the Siege;
+* **BurnedTeamSPH**: the sum of the number of Burned Sapphires of the Faction at the end of the Siege.
 ::
 
 ### The sum of the preliminary coefficients of all Players in the winning Faction (TeamK)
 
 ::card_formula
 ::formula
-<MathFormula formula="TeamK =(\sum_{i=Player}^{TeamAmount}PreK_i)"/>,
+<MathFormula formula="TeamK =(\sum_{i=Player}^{TeamAmount}NFTreK_i)"/>,
 ::
 where:
-* **PreK**: the Player's preliminary coefficient;
+* **NFTreK**: the Player's preliminary coefficient;
 * **TeamAmount**: the number of players in the winning Faction.
 ::
 
@@ -52,10 +52,10 @@ where:
 
 ::card_formula
 ::formula
-<MathFormula formula="Koef={PreK \over TeamK}" />,
+<MathFormula formula="Koef={NFTreK \over TeamK}" />,
 ::
 where:
-* **PreK**: the Player's preliminary coefficient;
+* **NFTreK**: the Player's preliminary coefficient;
 * **TeamK**: the sum of the preliminary coefficients of the other Players.
 ::
 
@@ -89,8 +89,8 @@ where:
 2. PlayerSPH = 100
 3. TeamSPH = 250
 4. TeamR = 10,000*0.3 = 3,000
-5. PreK =  10/34 + 100/250 = 0.69
-6. The sum of the preliminary coefficients of the other Players = 24/34 + 150/250 = 1.3
+5. NFTreK =  10/34 + 100/250 = 0.69
+6. The sum of the preliminary coefficients of the other NFTs = 24/34 + 150/250 = 1.3
 8. TeamK = 0.69 + 1.3 = 1.99
 9. Koef = 0.69/1.99 = 0.3467
 10. **PlayerR = 3,000 * 0.3467 = 1,040.1**
