@@ -1,6 +1,6 @@
 ---
 navigation:
-    order: 15
+    order: 13
 ---
 
 # ⭐ B2B
@@ -28,7 +28,24 @@ TOCD features a decentralized referral system (DRS) that significantly enhances 
 This innovative system rewards existing users for bringing in new players, creating a self-sustaining 
 cycle of growth. Each user who refers new players receives a portion of the transaction fees generated 
 by their referrals, incentivizing widespread promotion and engagement. This approach not only broadens 
-the user base but also fosters a more engaged community. For an in-depth understanding, you can explore 
+the user base but also fosters a more engaged community.
+
+### Key Advantages of Decentralized Referral System
+* **Empower Your Community:** DRS transforms your users into brand ambassadors. By incentivizing them 
+to invite others, you're not just expanding your user base – you're building a community of loyal supporters;
+* **Transparent and Fair Rewards:** With blockchain technology, every referral and reward is transparent 
+and tamper-proof. Users can see real-time updates of their rewards, enhancing trust and engagement;
+* **Automated and Efficient:** Say goodbye to manual tracking and disputes over referrals. DRS automates 
+the entire process, from tracking referrals to distributing rewards, ensuring efficiency and accuracy.
+* **Customizable and Scalable:** Adapt the referral system according to the needs of your business. 
+Whether it's adjusting the amount of rewards or deploying DRS on another blockchain.
+* **Global Reach:** DRS isn’t bound by geographical limitations. Tap into a global market and grow 
+your user base internationally.
+</div>
+
+<div>
+
+For an in-depth understanding, you can explore 
 the details of the DRS <a href="https://theoldcastle.xyz/{blockchain}/{token}/referral" target="_blanc" class="doc-link">here</a>.
 </div>
 

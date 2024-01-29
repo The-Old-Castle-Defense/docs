@@ -24,13 +24,16 @@ The winning **Faction** wins the treasury of the losing team. Winning **Faction 
 refunds back to **Investors** with rewards.
 </div>
 
-<div>
-The game doesn't have timing. It's the on-chain game - it has blocks, where 1 block ≈ {bps} sec.
-</div>
+::card_warning
+1. The game doesn't have timing. It's the on-chain game - it has blocks, where 1 block ≈ {bps} sec;
+2. The Old Castle Defense is completely decentralized. This means that users control the game themselves: 
+they start a new battle, confirm the NFT upgrade, or end the game by sending rewards to the winners by 
+clicking the "Unstake & Claim" button.
+::
 
 ::card_info
 * **$SPH**: Game Utility token;
-* **${token}**: Treasury coin on {blockchain} Blockchain;
+* **${token}**: Treasury token on {blockchain} Blockchain;
 * **Warrior**: Any user that owns an NFT from Terrible Creatures or Knights of the Kingdom NFT collections. 
 * **Factions**: Opposing sides: the Terrible Creatures versus the Knights of the Kingdom;
 * **Investor**: Any user who has not staked an NFT, but has staked **${token}** on either one or both factions during 

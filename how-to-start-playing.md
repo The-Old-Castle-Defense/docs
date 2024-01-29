@@ -7,6 +7,8 @@ navigation:
 
 <p>There are two main types of players - Warriors (NFT owners) and Investors (Treasury Tokens holders).</p>
 
+<img src="/assets/docs/.gitbook/assets/paths_to_play.png" alt="">
+
 ## Warriors (NFT owners)
 
 <div>
@@ -47,43 +49,38 @@ more in <a href="mystery-boxes.md" class="doc-link">Mystery Boxes</a>.
 <div>
 
 1. Visit the game <a href="https://theoldcastle.xyz/" target="_blanc" class="doc-link">website</a>;
-2. Click "Login/Connect" in the upper right corner and connect your Wallet:
+2. Click "Login/Connect" in the upper right corner:
 <img src="/assets/docs/.gitbook/assets/connect_wallet.png" alt="">
 </div>
 
 <div>
 
-3. When the game is ready to start, you will see the "Play Now" button on the Home page. Click to go to the Siege page:
+3. Choose the method how to connect and connect your Wallet:
+<img src="/assets/docs/.gitbook/assets/connect_wallet_methods.png" alt="">
+</div>
+
+<div>
+
+4. On the Homepage you can see the "Play Now" button. Click to go to the Game page:
 <img src="/assets/docs/.gitbook/assets/participate.png" alt="">
 </div>
 
 <div>
 
-4. Click "Stake NFT" in the center of the page:
+5. Click the "Stake NFT" button in the center of the page:
 <img src="/assets/docs/.gitbook/assets/stake.png" alt="">
 </div>
 
 <div>
 
-5. You will see a window with tabs "Spending" and "Wallet":
-<img src="/assets/docs/.gitbook/assets/spending.png" alt="">
-</div>
-
-::card_info
-If you have NFTs on "Spending" go to step 9.
-::
-
-<div>
-6. Switch to the "Wallet" and select an NFT to send to "Spending". Click "Send NFT":
-<img src="/assets/docs/.gitbook/assets/wallet.png" alt="">
+6. You will see a window to select your NFT:
+<img src="/assets/docs/.gitbook/assets/nft_select_window.png" alt="">
 </div>
 
 <div>
 
-7. Confirm the transaction on the website and in your wallet;
-8. After the transaction is confirmed (1-2 minutes), switch back to Spending;
-9. Select the NFT to lock it for the duration of the Siege:
-<img src="/assets/docs/.gitbook/assets/nft_on_spending.png" alt="">
+7. Select the NFT to stake it for the duration of the Siege:
+<img src="/assets/docs/.gitbook/assets/selected_nft.png" alt="">
 </div>
 
 <div>
@@ -138,7 +135,9 @@ Click to go to the Siege page:
 
 <div>
 
-6. Confirm the transaction on the website and in your wallet;
+6. Confirm the transaction on the website and in your wallet. If the transaction is successfully confirmed, 
+you will see a similar notification at the bottom right:
+<img src="/assets/docs/.gitbook/assets/confirmed_transaction.png" alt="">
 </div>
 
 <div>

@@ -78,7 +78,7 @@ current battle, unless it is revived.
 Investors can revive deceased NFT characters. The cost of each revival is calculated by 
 the formula.
 
-### Formula
+### The formula for calculating the cost of revival
 
 ::card_formula
 ::formula
@@ -158,13 +158,31 @@ Faction, the invested funds will be returned and rewards will be distributed.
 When a character is leveled up, their attack power increases. The amount of attack increase 
 is determined randomly between a certain range.
 
-## Boost Level Up
+## Boosting Level Up
+
+<div>
+
+Skips the waiting time before the NFT level is raised.
+</div>
 
 ::card_info
 If you use the Faction attack boost functionality, you become an Investor.
 ::
 
-## Buy Faction Attack
+## Burning of sapphires
+
+<div>
+
+To increase their share of the treasury, NFT owners can burn Sapphires. This increases their coefficient 
+when calculating the reward at the end of the Siege. Read more about the calculation in the section:
+
+<a href="rewards-after-the-siege.md" 
+ class="docs-item">
+<span>⚔️</span>
+Rewards After The Siege</a>
+</div>
+
+## Increasing the Faction's attack
 
 <div>
 
