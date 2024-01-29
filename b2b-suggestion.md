@@ -1,0 +1,71 @@
+---
+navigation:
+    order: 15
+---
+
+# ⭐ B2B
+
+<p>Discover the full potential and how The Old Castle Defense can help your ecosystem grow.</p>
+
+<div>
+
+Integrating The Old Castle Defense (TOCD) into your blockchain ecosystem offers a multitude of benefits, 
+from enhanced user acquisition and retention to fostering a vibrant community, all while driving token 
+utility and value. This positions TOCD as a valuable asset for any business looking to make a significant 
+impact in the blockchain and GameF industries.
+</div>
+
+<div>
+
+Here's a detailed overview of the key benefits TOCD brings to your business:
+</div>
+
+## Decentralized Referral System
+
+<div>
+
+TOCD features a decentralized referral system (DRS) that significantly enhances user acquisition. 
+This innovative system rewards existing users for bringing in new players, creating a self-sustaining 
+cycle of growth. Each user who refers new players receives a portion of the transaction fees generated 
+by their referrals, incentivizing widespread promotion and engagement. This approach not only broadens 
+the user base but also fosters a more engaged community. For an in-depth understanding, you can explore 
+the details of the DRS <a href="https://theoldcastle.xyz/{blockchain}/{token}/referral" target="_blanc" class="doc-link">here</a>.
+</div>
+
+## Attracting users on Your Blockchain
+
+<div>
+
+* Implementing TOCD's decentralized staking platform can significantly boost user attraction to your blockchain;
+* Offering a high-profit staking model, TOCD incentivizes new and existing users, increasing the attractiveness and user base of your blockchain;
+* This approach not only enhances user engagement but also solidifies your blockchain's position as a lucrative and user-friendly ecosystem in the decentralized finance space.
+</div>
+
+## Utility Token Integration
+
+<div>
+
+TOCD introduces an additional utility token that can stimulate the growth of your native token. 
+This utility token is designed to be integral to the TOCD ecosystem, facilitating transactions, 
+gaming activities, and rewards within the platform. The interplay between TOCD's utility token and 
+your native token can lead to increased demand and transaction volume, potentially driving up the 
+value of your token.
+</div>
+
+## Increased User Engagement and Retention
+
+<div>
+
+The gamified aspects of TOCD, combined with its financial incentives, result in higher user engagement and 
+retention rates. The platform's unique blend of gaming and earning opportunities keeps users consistently 
+involved, enhancing the overall stickiness of your blockchain ecosystem.
+</div>
+
+## Community Building and Governance
+
+<div>
+
+TOCD's focus on community-driven development and governance aligns with the decentralized ethos of the 
+blockchain community. This fosters a sense of ownership and involvement among users, which can translate 
+into a loyal and active community around your blockchain.
+</div>
