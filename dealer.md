@@ -5,20 +5,20 @@ navigation:
 
 # 🔮 Dealer
 
-<p>Do you need more Sapphires ($SPH)? The Dealer is here, send your ${token} and receive $SPH. 
-But remember that he can invest the funds received in a way that will be beneficial to him.</p>
+<p>Do you need more Sapphires ($SPH)? The Dealer is here, send your ${token} and receive $SPH.</p>
 
-::card_warning
-Attention! The funds transferred to the dealer in exchange for Sapphires will be invested in the 
-treasury of a random faction.
+::card_info
+The funds transferred to the Dealer in exchange for Sapphires will be invested in the treasury of the 
+staked NFT faction.
 ::
+
+<div>
 
 Players of the "Terrible Creatures" and "Knights Of The Kingdom" Factions can purchase 
 Sapphires ($SPH) from the Dealer to level up their NFTs or heal them.
-
+</div>
 
 ::card_info
-
 Sapphires are always sold at a fixed price: 1 $SPH = {sph_cost} {token}".
 ::
 
