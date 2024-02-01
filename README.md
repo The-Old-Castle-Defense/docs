@@ -43,9 +43,14 @@ This is information that requires special attention
 ### Adding Images
 All images must be stored in a folder along the path: ".gitbook/assets/i_am_here.png"
 For an image that is suitable only for a specific blockchain, it is required to specify the name of the blockchain and the token's treasury through the "_" symbol.
-Example:
+
+**Example of the image name:**
 ```
-<img src="/assets/docs/.gitbook/assets/i_am_here_Beam Mainnet_BEAM.png" alt="">
+i_am_here_Beam Mainnet_BEAM.png
+```
+**Example of embedding an image:**
+```
+<img src="/assets/docs/.gitbook/assets/i_am_here_{blockchain}_{token}.png" alt="">
 ```
 
 ### Embedded links
