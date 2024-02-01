@@ -28,7 +28,7 @@ The DRS of The Old Castle Defense allows users to earn real money for inviting n
 <div>
 
 <img src="/assets/docs/.gitbook/assets/drs_transaction_{blockchain}_{token}.png" alt="">
-<p>Example of the referral reward payment <a href="{transactions}" target="_blanc" class="doc-link">transactions</a> when your friends invest.</p>
+<p>Example of the referral reward payment <a href="{drs_explorer_links}" target="_blanc" class="doc-link">transactions</a> when your friends invest.</p>
 </div>
 
 <div>
@@ -46,7 +46,7 @@ You can find the referral link at the top right in the "Wallet". You can also pr
 </div>
 
 ::card_warning
-The user invited by the referral link must purchase a fraction attack in the right network, then he will 
+The user invited by the referral link must purchase a fraction attack in the right network, and then he will 
 be counted. If a user has bought an attack in all the networks available for the game, then he will be 
 counted in all these networks.
 ::
@@ -66,9 +66,9 @@ counted in all these networks.
 <div>
 
 1. Send your referral link to friends/followers.
-2. Once they will open a link, they need to connect their wallet.
+2. Once they open a link, they need to connect their wallet.
 3. You will see the updated counter in the "Invited users" near your ref. link.
-4. For each transaction user made, you will receive 10% of our fees automatically.
+4. For each transaction a user makes, you will receive 10% of our fees automatically.
 </div>
 
 ::card_info
