@@ -6,7 +6,7 @@ Knights of the Kingdom is unique NFT collection of The Old Castle Defense
 P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs
 </div>
 
-<table>
+<table class="docs-table">
   <thead>
     <tr>
       <th>BLOCKCHAIN</th>
@@ -19,7 +19,9 @@ P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs
     <tr>
       <td>{blockchain}</td>
       <td>{token}</td>
-      <td>{knights_market_link}</td>
+      <td>
+        <a href="{nft_marketplace_link}" target="_blanc" class="doc-link _knights">NFT Collection</a>
+      </td>
       <td>100</td>
     </tr>
   </tbody>
@@ -49,7 +51,7 @@ Sensing that his youthhood fairy tale may soon turn into a reality, the King has
 
 <div>
 
-<a href="{knights_market_link}" target="_blanc" class="doc-link _knights">Knights Of The Kingdom NFT Collection</a>
+<a href="{nft_marketplace_link}" target="_blanc" class="doc-link _knights">Knights Of The Kingdom NFT Collection</a>
 </div>
 
 <div>
