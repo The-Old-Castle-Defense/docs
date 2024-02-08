@@ -45,7 +45,7 @@ where:
 
 ### Example
 
-<table>
+<table class="docs-table">
   <thead>
     <tr>
       <th>HEALTH LEVEL (MAX = 100)</th>
@@ -111,7 +111,7 @@ blocks, which increases alongside the required amount of $SPH. This process can 
 accelerated using **${token}** (Boost Level Up).
 </div>
 
-<table>
+<table class="docs-table">
   <thead>
     <tr>
       <th>TO LEVEL</th>
@@ -198,7 +198,7 @@ range of the current boost level.
 
 ### Calculating the range of attack probability and cost
 
-<table>
+<table class="docs-table">
   <thead>
     <tr>
       <th>LEVEL OF INCREASE</th>
