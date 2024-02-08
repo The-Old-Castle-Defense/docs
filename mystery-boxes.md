@@ -33,7 +33,7 @@ The reward defines randomly, according to the following constraints:
 2. **Number of SPH:** from 1 to 20
 </div>
 
-<table>
+<table class="docs-table">
   <thead>
     <tr>
       <th>QUALITY</th>
