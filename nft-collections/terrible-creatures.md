@@ -6,7 +6,7 @@ Terrible Creatures is unique NFT collection of The Old Castle Defense
 P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs.
 </div>
 
-<table>
+<table class="docs-table">
   <thead>
     <tr>
       <th>BLOCKCHAIN</th>
@@ -19,7 +19,9 @@ P2E(PlayToEarn) PvP Strategy game with total supply of 100 NFTs.
     <tr>
       <td>{blockchain}</td>
       <td>{token}</td>
-      <td>{creatures_market_link}</td>
+      <td>
+        <a href="{nft_marketplace_link}" target="_blanc" class="doc-link _terrible">NFT Collection</a>
+      </td>
       <td>100</td>
     </tr>
   </tbody>
@@ -39,7 +41,7 @@ It is said the entrance leads to a gigantically majestic hall, glistening with g
 
 <div>
 
-<a href="{creatures_market_link}" target="_blanc" class="doc-link _terrible">Terrible Creatures NFT Collection</a>
+<a href="{nft_marketplace_link}" target="_blanc" class="doc-link _terrible">Terrible Creatures NFT Collection</a>
 </div>
 
 <div>
