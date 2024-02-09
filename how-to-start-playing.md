@@ -74,7 +74,7 @@ more in <a href="mystery-boxes.md" class="doc-link">Mystery Boxes</a>.
 <div>
 
 6. You will see a window to select your NFT:
-<img src="/assets/docs/.gitbook/assets/nft_select_window.png" alt="">
+<img src="/assets/docs/.gitbook/assets/selected_nft.png" alt="">
 </div>
 
 <div>
