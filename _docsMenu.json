@@ -1,77 +1,79 @@
-[
-  {
-    "title": "Overview",
-    "image": "⭐",
-    "path": "/overview"
-  },
-  {
-    "title": "How to start playing",
-    "image": "\uD83D\uDE80",
-    "path": "/how-to-start-playing"
-  },
-  {
-    "title": "Game-Fi Elements",
-    "image": "\uD83C\uDFAF",
-    "path": "/game-fi-elements"
-  },
-  {
-    "title": "Dealer",
-    "image": "\uD83D\uDD2E",
-    "path": "/dealer"
-  },
-  {
-    "title": "Investors",
-    "image": "\uD83D\uDCC8",
-    "path": "/investors"
-  },
-  {
-    "title": "Free Voting",
-    "image": "\uD83D\uDCB5",
-    "path": "/free-voting"
-  },
-  {
-    "title": "Decentralized Referral System (DRS)",
-    "image": "\uD83E\uDDD1\u200D\uD83E\uDD1D\u200D\uD83E\uDDD1",
-    "path": "/decentralized-referral-system-drs"
-  },
-  {
-    "title": "Rewards After The Battle",
-    "image": "\uD83D\uDC8E",
-    "path": "/rewards-after-the-battle"
-  },
-  {
-    "title": "Rewards After The Siege",
-    "image": "⚔️",
-    "path": "/rewards-after-the-battle"
-  },
-  {
-    "title": "4 Types of Rewards",
-    "image": "\uD83D\uDCB0",
-    "path": "/4-types-of-rewards"
-  },
-  {
-    "title": "Mystery Boxes",
-    "image": "\uD83C\uDF81",
-    "path": "/mystery-boxes"
-  },
-  {
-    "title": "NFT",
-    "image": "\uD83D\uDDBC️",
-    "path": "/nft-collections"
-  },
-  {
-    "title": "TOCD Academy",
-    "image": "✏️",
-    "path": "/b2b-suggestion"
-  },
-  {
-    "title": "TOCD Academy",
-    "image": "✏️",
-    "path": "/tocd-academy"
-  },
-  {
-    "title": "FAQ",
-    "image": "❔",
-    "path": "/faq"
-  }
-]
+{
+  "body" : [
+    {
+      "title": "Overview",
+      "image": "⭐",
+      "path": "/overview"
+    },
+    {
+      "title": "How to start playing",
+      "image": "\uD83D\uDE80",
+      "path": "/how-to-start-playing"
+    },
+    {
+      "title": "Game-Fi Elements",
+      "image": "\uD83C\uDFAF",
+      "path": "/game-fi-elements"
+    },
+    {
+      "title": "Dealer",
+      "image": "\uD83D\uDD2E",
+      "path": "/dealer"
+    },
+    {
+      "title": "Investors",
+      "image": "\uD83D\uDCC8",
+      "path": "/investors"
+    },
+    {
+      "title": "Free Voting",
+      "image": "\uD83D\uDCB5",
+      "path": "/free-voting"
+    },
+    {
+      "title": "Decentralized Referral System (DRS)",
+      "image": "\uD83E\uDDD1\u200D\uD83E\uDD1D\u200D\uD83E\uDDD1",
+      "path": "/decentralized-referral-system-drs"
+    },
+    {
+      "title": "Rewards After The Battle",
+      "image": "\uD83D\uDC8E",
+      "path": "/rewards-after-the-battle"
+    },
+    {
+      "title": "Rewards After The Siege",
+      "image": "⚔️",
+      "path": "/rewards-after-the-battle"
+    },
+    {
+      "title": "4 Types of Rewards",
+      "image": "\uD83D\uDCB0",
+      "path": "/4-types-of-rewards"
+    },
+    {
+      "title": "Mystery Boxes",
+      "image": "\uD83C\uDF81",
+      "path": "/mystery-boxes"
+    },
+    {
+      "title": "NFT",
+      "image": "\uD83D\uDDBC️",
+      "path": "/nft-collections"
+    },
+    {
+      "title": "B2B Suggestion",
+      "image": "✏️",
+      "path": "/b2b-suggestion"
+    },
+    {
+      "title": "TOCD Academy",
+      "image": "✏️",
+      "path": "/tocd-academy"
+    },
+    {
+      "title": "FAQ",
+      "image": "❔",
+      "path": "/faq"
+    }
+  ]
+}
