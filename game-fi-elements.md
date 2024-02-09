@@ -90,7 +90,7 @@ where:
 ::
 
 ::card_warning
-The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
+The cost may vary depending on the exchange rate of the Treasury Token (if it is not $USDT).\
 The price includes a service fee of 6%. After the commission is deducted, the **${token}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
@@ -176,7 +176,7 @@ If you use the Faction attack boost functionality, you become an Investor.
 To increase their share of the treasury, NFT owners can burn Sapphires. This increases their coefficient 
 when calculating the reward at the end of the Siege. Read more about the calculation in the section:
 
-<a href="rewards-after-the-siege.md" 
+<a href="rewards-after-the-siege" 
  class="docs-item">
 <span>⚔️</span>
 Rewards After The Siege</a>
