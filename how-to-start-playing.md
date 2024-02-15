@@ -143,5 +143,4 @@ you will see a similar notification at the bottom right:
 <div>
 
 **Ready!** After the transaction is confirmed, the Faction's attack will be increased.
-<img src="/assets/docs/.gitbook/assets/investment_ready.png" alt="">
 </div>
