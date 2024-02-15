@@ -7,7 +7,7 @@ navigation:
 
 <p>There are two main types of players - Warriors (NFT owners) and Investors (Treasury Tokens holders).</p>
 
-<img src="/assets/docs/.gitbook/assets/paths_to_play.jpg" alt="">
+<img src="/assets/docs/.gitbook/assets/paths_to_play.png" alt="">
 
 ## Warriors (NFT owners)
 
