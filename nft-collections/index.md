@@ -6,7 +6,7 @@ navigation:
 # 🖼️ NFT Collections
 
 <p>The Old Castle Defense has two Factions that fight each other: Terrible Creatures and 
-Knights of the Kingdom with total supply of 200 NFTs (100 NFTs in each)</p>
+Knights of the Kingdom with total supply of 200 NFTs (100 NFTs in each).</p>
 
 <div>
 
@@ -16,7 +16,7 @@ Knights of the Kingdom with total supply of 200 NFTs (100 NFTs in each)</p>
 </div>
 
 ::card_info
-**Minter addresses:** TBD;
+TOCD supports to the policy: **80%** of the NFT will be distributed to active users and influencers.
 ::
 
 <div>
