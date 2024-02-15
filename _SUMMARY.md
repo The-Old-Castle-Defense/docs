@@ -26,6 +26,7 @@
   * [For NFT owners: How do I know what I will get when I win?](tocd-academy/for-nft-owners-how-do-i-know-what-i-will-get-when-i-win.md)
   * [For Investors: How do I understand what I will get if I win?](tocd-academy/for-investors-how-do-i-understand-what-i-will-get-if-i-win.md)
 * [❔ FAQ](faq.md)
+* [⚙️ Markup rules](README.md)
 * [✈️ Telegram](https://t.me/addlist/AvC7IiaRYDg0MDIy)
 * [🐦 Twitter](https://twitter.com/ocd\_p2e)
 * [📹 Youtube](https://www.youtube.com/watch?v=n1J3004v5Mk)
