@@ -16,7 +16,7 @@ Knights of the Kingdom with total supply of 200 NFTs (100 NFTs in each).</p>
 </div>
 
 ::card_info
-TOCD supports to the policy: **80%** of the NFT will be distributed to active users and influencers.
+TOCD supports to the policy: **80%** of all NFT will be distributed to active users and influencers.
 ::
 
 <div>
