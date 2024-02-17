@@ -14,6 +14,7 @@
 * [🖼️ NFT Collections](nft-collections/index.md)
   * [👻 Terrible Creatures](nft-collections/terrible-creatures.md)
   * [🏰 Knights Of The Kingdom](nft-collections/knights-of-the-kingdom.md)
+  * [🕊️ OG NFT](nft-collections/og-nft.md)
 * [🖼️ B2B Suggestion](b2b-suggestion.md)
 * [✏️ TOCD Academy](tocd-academy/index.md)
   * [How to get NFT for the game?](tocd-academy/how-to-get-nft-for-the-game.md)
