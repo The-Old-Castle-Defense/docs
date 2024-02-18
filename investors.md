@@ -8,22 +8,23 @@ navigation:
 <div>
 
 Investors in The Old Castle Defense are users who stake **${token}** in one or both factions 
-during the Siege.
+during the Siege. The Investor can participate in determining the outcome of the siege by contributing to one or 
+both factions, helping them achieve victory. 
 </div>
 
 <div>
-
-The Investor can participate in determining the outcome of the siege by contributing to one or 
-both factions, helping them achieve victory. If the Faction in which he staked, he receives:
+   
+### If the Faction in which he staked, he receives:
 * A reward from the treasury of the losing faction;
-* All his **${token}** staked in the winning Faction. 
+* All his **${token}** staked in the winning Faction.
+</div>
 
 Investors receive 70% of the treasury, while NFT holders receive 30% of the treasury.
 </div>
 
 <div>
 
-Available actions for Investors:
+### Available actions for Investors:
 * Buying a Faction Attack;
 * Reviving fallen NFT characters for either Faction;
 * Boosting level up for any NFT.
