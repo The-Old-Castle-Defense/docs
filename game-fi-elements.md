@@ -5,42 +5,46 @@ navigation:
 
 # 🎯 Game-Fi Elements
 
-<p>Only teamwork will lead the Faction to victory, so that the team does not 
+<p>Only teamwork will lead the Faction to victory so that the team does not 
 break up, it is necessary to monitor the life and strength of the characters.</p>
 
 ::card_warning
-The game is built on a smart contract, so any burning of **$SPH** or investment of **${token}** 
+The game is built on a smart contract, so any burning of **$SPH** or stake **${token}** 
 requires confirmation in the blockchain.
 ::
 
 ## Healing
 <div>
 
-After each Battle, the health level of the character drops by 11% of the maximum HP.
+After each Battle, the health level of the character drops by 11% of the maximum HP. To restore 1% health, 
+users must burn 1 Sapphire (**$SPH**).
 </div>
+
+### How to heal NFT?
 
 <div>
 
-To restore 1% health, users must burn 1 Sapphire (**$SPH**).
+Click on the button with the green "+" symbol on the character image:
 </div>
 
-<div>
+<img src="/assets/docs/.gitbook/assets/nft_for_heal.png" alt="">
 
+::card_info
 It is better to restore a character's health in time, as each missing point of health 
 reduces the attack power of the character by 1%.
-</div>
+::
 
-### The formula for reducing attack depending on health
+### The formula for reducing attack depending on the health
 
 ::card_formula
 ::formula
 <MathFormula formula="NewAttack=(CurHealth*CurAttack)/MaxHealth)" />,
 ::
 where:
-* **NewAttack** is NFT attack after the Battle;
-* **CurHealth** is current NFT health (everytime after the Battle: MaxHealth - 11;
-* **CurAttack** is current NFT attack at the time of the Battle;
-* **MaxHealth** is maximum NFT health.
+* **NewAttack**: an NFT attack after the Battle;
+* **CurHealth**: current NFT health (every time after the Battle: MaxHealth - 11);
+* **CurAttack**: current NFT attack at the time of the Battle;
+* **MaxHealth**: maximum NFT health.
 ::
 
 ### Example
@@ -75,8 +79,19 @@ current battle, unless it is revived.
 
 ## Revival
 
-Investors can revive deceased NFT characters. The cost of each revival is calculated by 
-the formula.
+<div>
+    
+Investors can revive deceased NFT characters.
+</div>
+
+### How to revive NFT?
+
+<div>
+    
+Click on the button with the image of the first aid kit, to the right of the amount of health of the NFT:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/revive_button.png" alt="">
 
 ### The formula for calculating the cost of revival
 
@@ -85,8 +100,8 @@ the formula.
 <MathFormula formula="RevCost=LVL+1" />,
 ::
 where:
-* **RevCost** is the cost of reviving in ${token};
-* **LVL** is the level of NFT at the time of death.
+* **RevCost**: the cost of reviving in ${token};
+* **LVL**: the level of NFT at the time of death.
 ::
 
 ::card_warning
@@ -96,13 +111,29 @@ invested by the participants is collected in the treasury. After the victory of 
 Faction, the invested funds will be returned and rewards will be distributed.
 ::
 
-## Level Up
+## Level Up (Upgrade)
 
 <div>
 
 Level up your NFT characters to increase strength, and compete with the opposing Faction, 
 overpowering them and getting closer to achieving victory.
 </div>
+
+### How to upgrade NFT?
+
+<div>
+
+Click on the button with the green arrow up on the character image:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/nft_for_upgrade.png" alt="">
+
+<div>
+
+And confirm the start of the upgrade:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/modal_for_upgrade_nft.png" alt="">
 
 <div>
 
@@ -149,46 +180,125 @@ accelerated using **${token}** (Boost Level Up).
 </table>
 
 ::card_warning
-The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
+The cost may vary depending on the exchange rate of the Treasury Token (if it is not $USDT).\
 The price includes a service fee of 6%. After the commission is deducted, the **${token}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
 ::
 
 When a character is leveled up, their attack power increases. The amount of attack increase 
-is determined randomly between a certain range.
+is determined randomly between a certain range. But, after the timer expires, you need to confirm the 
+upgrade in the blockchain (read below "Checking the upgrade").
 
-## Boosting Level Up
+## Boosting the upgrade
 
 <div>
 
-Skips the waiting time before the NFT level is raised.
+Skip the waiting time before the NFT level is raised.
 </div>
+
+### How to boost the upgrade?
+
+<div>
+
+Click on the button with the green clock:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/nft_for_boost.png" alt="">
+
+<div>
+
+And confirm the Boost:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/modal_for_boost_upgrade_nft_{blockchain}_{token}.png" alt="">
 
 ::card_info
 If you use the Faction attack boost functionality, you become an Investor.
 ::
 
-## Burning of sapphires
+## Checking the update
 
 <div>
 
-To increase their share of the treasury, NFT owners can burn Sapphires. This increases their coefficient 
-when calculating the reward at the end of the Siege. Read more about the calculation in the section:
+After the upgrade timer expires, it is required to confirm the increase in the NFT level to write 
+this data to the blockchain:
+</div>
+
+### How to check the update?
+
+<div>
+
+Click on the button with the green looped arrows:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/upgrade_nft_check.png" alt="">
+
+## Burning of Sapphires (SPH)
+
+<div>
+
+To increase their share of the treasury, NFT owners can burn SPH. This increases their coefficient 
+when calculating the reward at the end of the Siege.
+</div>
+
+### How to burn SPH
+
+<div>
+
+Click on the button with the green light:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/burning_sph.png" alt="">
+
+<div>
+
+Select the number of SPH to burn and confirm the action:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/modal_for_burn_sph.png" alt="">
+
+<div>
+
+Read more about the calculation in the section:
+</div>
 
 <a href="rewards-after-the-siege" 
  class="docs-item">
 <span>⚔️</span>
 Rewards After The Siege</a>
-</div>
 
-## Increasing the Faction's attack
+## Increasing the Faction's attack with stake
 
 <div>
 
 Investors can increase the faction's attack power in exchange for **${token}**, but each 
 subsequent increase costs them more than the previous one.
 </div>
+
+### How to stake {token}?
+
+<div>
+
+Click the "Stake to attack" button under the window of one of the Factions:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/buy_attack_button.png" alt="">
+
+<div>
+
+Choose the right number of attack boost levels and click the button:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/attack_levels_{blockchain}_{token}.png" alt="">
+
+<div>
+
+And confirm the transaction on the website and in your wallet. If the transaction is successfully confirmed, 
+you will see a similar notification at the bottom right:
+</div>
+
+<img src="/assets/docs/.gitbook/assets/confirmed_transaction.png" alt="">
 
 <div>
 
@@ -251,8 +361,27 @@ range of the current boost level.
 </table>
 
 ::card_warning
-The cost may vary depending on the exchange rate of Treasury Token (if it is not $USDT).\
+The cost may vary depending on the exchange rate of the Treasury Token (if it is not $USDT).\
 The price includes a service fee of 6%. After the commission is deducted, the **${token}** 
 invested by the participants is collected in the treasury. After the victory of your 
 Faction, the invested funds will be returned and rewards will be distributed.
+::
+
+## Start the next Battle
+
+<div>
+
+TOCD is completely decentralized, where the community manages the game itself.
+</div>
+
+### How to start the next Battle?
+
+<div>
+
+To start a new battle, you need to click on the "Next Battle" button in the middle of the page. 
+</div>
+
+
+::card_info
+The "Next Battle" button will appear when a sufficient number of blocks in the blockchain are generated
 ::
