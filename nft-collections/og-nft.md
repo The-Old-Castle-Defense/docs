@@ -7,7 +7,7 @@
 
 <img src="/assets/docs/.gitbook/assets/OG_NFT_frame.webp" alt="">
 
-# Benefits of OG NFT
+## Benefits of OG NFT
 
 <div>
 
@@ -25,7 +25,7 @@ need to have anything except NFT. TOCD NFT (Knights or Creatures) earns 30% of t
 * **And Many more:** OG is a part of the TOCD Studio on the Base blockchain, once you have it, you will get more benefits!
 </div>
 
-# Total Supply of OG NFTs
+## Total Supply of OG NFTs
 
 <div>
 
@@ -38,32 +38,25 @@ Only 127 NFT and no more will be in supply. Ownership of the OG TOCD NFT will be
 We are very excited to see how the community trades their OG TOCD NFT. For us, OG title means owning OG.
 </div>
 
-# Calculation of rewards for OG NFT owners
+## Calculation of rewards for OG NFT owners
 
 <div>
 
 After each Siege, OG TOCD NFT holder will receive their rewards automatically. TOCD sends 20% of the collected fees to OG NFT. 
-Each of your stakes of a token is calculated as a coefficient and added to the total user weight coefficient. According to the formula the weight of stakes:
+Each of your stakes of a token is calculated as a coefficient and added to the total user weight coefficient.
+Each OG NFT is 1 share of the reward. But only those OG NFT owners who staked in the Siege participate in the distribution, regardless of the amount.
 </div>
-
-<a href="investors" 
- class="docs-item">
-<span>📈</span>
-Investors</a>
 
 <div>
 
-After that, the share percent is calculated by the formula:
+### Example:
+* Alice has 5 OG NFT and she made a minimum stake (30 $DEGEN);
+* Bob has 10 OG NFT, but he didn't place a bet;
+* There are only 100 OG NFT Owners who staked;
+**At the end of the Siege:**
+* Alice will receive 5/100 (5%) of the 20% of the collected TOCD fees;
+* Bob, unfortunately, won't get anything.
 </div>
-
-::card_formula
-::formula
-<MathFormula formula="Share_Percent=wI/totalWi" />,
-::
-where:
-* **wI**: total weight of OG NFT owner;
-* **totalWi**: the summary of all OG NFT Owners wI.
-::
 
 # Obtaining Your OG NFT
 
