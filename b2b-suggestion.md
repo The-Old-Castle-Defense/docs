@@ -20,6 +20,41 @@ impact in the blockchain and GameF industries.
 Here's a detailed overview of the key benefits TOCD brings to your business:
 </div>
 
+## Utility Token Integration
+
+<div>
+
+TOCD introduces an additional utility token that can stimulate the growth of your native token. 
+This utility token is designed to be integral to the TOCD ecosystem, facilitating transactions, 
+gaming activities, and rewards within the platform. The interplay between TOCD's utility token and 
+your native token can lead to increased demand and transaction volume, potentially driving up the 
+value of your token.
+</div>
+
+## NFT Battle
+
+<div>
+Imagine a realm where your NFTs aren't just static assets. TOCD transforms these digital assets into 
+champions of their realms, pitting them against each other in grand spectacles of strategy and might. 
+This not only adds a layer of utility to the NFTs but also enriches the narrative around them, 
+creating a lore that extends beyond their visual appeal or rarity.
+
+Who wouldn't want to see exciting matches between NFT owners from iconic collections such as:
+* **Pudgy Penguins** vs **Doodles**;
+* **APE** vs **CryptoPunks**;
+* **NFT Paris** vs **NFT NY**.
+</div>
+
+<img src="/assets/docs/.gitbook/assets/b2b_othernft.png" alt="">
+
+<div>
+    
+TOCD doesn't just bring utility to tokens and NFTs; it redefines their value, ensuring that users are 
+consistently engaged, rewarded, and eager for more. The age of passive NFT holding is giving way to an era 
+of active, gamified participation—a leap forward for blockchain ecosystems everywhere.
+</div>
+
+
 ## Decentralized Referral System
 
 <div>
@@ -58,17 +93,6 @@ the details of the DRS <a href="https://theoldcastle.xyz/{blockchain}/{token}/re
 * This approach not only enhances user engagement but also solidifies your blockchain's position as a lucrative and user-friendly ecosystem in the decentralized finance space.
 </div>
 
-## Utility Token Integration
-
-<div>
-
-TOCD introduces an additional utility token that can stimulate the growth of your native token. 
-This utility token is designed to be integral to the TOCD ecosystem, facilitating transactions, 
-gaming activities, and rewards within the platform. The interplay between TOCD's utility token and 
-your native token can lead to increased demand and transaction volume, potentially driving up the 
-value of your token.
-</div>
-
 ## Increased User Engagement and Retention
 
 <div>
@@ -76,21 +100,6 @@ value of your token.
 The gamified aspects of TOCD, combined with its financial incentives, result in higher user engagement and 
 retention rates. The platform's unique blend of gaming and earning opportunities keeps users consistently 
 involved, enhancing the overall stickiness of your blockchain ecosystem.
-</div>
-
-<div>
-
-Imagine the battles between NFT holders:
-* **Pudgy Penguins** vs **Doodles**
-* **APE** vs **CryptoPunks**
-* **NFT Paris** vs **NFT NY**
-</div>
-
-<img src="/assets/docs/.gitbook/assets/b2b_othernft.png" alt="">
-
-<div>
-
-TOCD Brings utility not only to Tokens - to the Ecosystem of NFTs as well. 
 </div>
 
 ## Community Building and Governance
