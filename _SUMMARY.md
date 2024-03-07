@@ -6,7 +6,7 @@
 * [🔮 Dealer](dealer.md)
 * [📈 Investors](investors.md)
 * [💵 Free Voting](free-voting.md)
-* [🧑‍🤝‍🧑 Decentralized Referral System(DRS)](decentralized-referral-system-drs.md)
+* [🧑‍🤝‍🧑 Decentralized Referral System (DRS)](decentralized-referral-system-drs.md)
 * [💎 Rewards After The Battle](rewards-after-the-battle.md)
 * [⚔️ Rewards After The Siege](rewards-after-the-siege.md)
 * [💰 4 Types of Rewards](4-types-of-rewards.md)
