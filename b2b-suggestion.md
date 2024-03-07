@@ -38,7 +38,7 @@ and tamper-proof. Users can see real-time updates of their rewards, enhancing tr
 * **Automated and Efficient:** Say goodbye to manual tracking and disputes over referrals. DRS automates 
 the entire process, from tracking referrals to distributing rewards, ensuring efficiency and accuracy.
 * **Customizable and Scalable:** Adapt the referral system according to the needs of your business. 
-Whether it's adjusting the amount of rewards or deploying DRS on another blockchain.
+Whether it's adjusting the amount of rewards or deploying DRS on another blockchain;
 * **Global Reach:** DRS isn’t bound by geographical limitations. Tap into a global market and grow 
 your user base internationally.
 </div>
@@ -49,7 +49,7 @@ For an in-depth understanding, you can explore
 the details of the DRS <a href="https://theoldcastle.xyz/{blockchain}/{token}/referral" target="_blanc" class="doc-link">here</a>.
 </div>
 
-## Attracting users on Your Blockchain
+## Attracting Users on Your Blockchain
 
 <div>
 
@@ -76,6 +76,21 @@ value of your token.
 The gamified aspects of TOCD, combined with its financial incentives, result in higher user engagement and 
 retention rates. The platform's unique blend of gaming and earning opportunities keeps users consistently 
 involved, enhancing the overall stickiness of your blockchain ecosystem.
+</div>
+
+<div>
+
+Imagine the battles between NFT holders:
+* **Pudgy Penguins** vs **Doodles**
+* **APE** vs **CryptoPunks**
+* **NFT Paris** vs **NFT NY**
+</div>
+
+<img src="/assets/docs/.gitbook/assets/b2b_othernft.png" alt="">
+
+<div>
+
+TOCD Brings utility not only to Tokens - to the Ecosystem of NFTs as well. 
 </div>
 
 ## Community Building and Governance
