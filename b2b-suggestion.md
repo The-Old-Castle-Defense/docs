@@ -38,6 +38,9 @@ Imagine a realm where your NFTs aren't just static assets. TOCD transforms these
 champions of their realms, pitting them against each other in grand spectacles of strategy and might. 
 This not only adds a layer of utility to the NFTs but also enriches the narrative around them, 
 creating a lore that extends beyond their visual appeal or rarity.
+</div>
+
+<div>
 
 Who wouldn't want to see exciting matches between NFT owners from iconic collections such as:
 * **Pudgy Penguins** vs **Doodles**;
