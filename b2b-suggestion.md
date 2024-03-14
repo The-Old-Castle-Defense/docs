@@ -20,15 +20,38 @@ impact in the blockchain and GameF industries.
 Here's a detailed overview of the key benefits TOCD brings to your business:
 </div>
 
-## Utility Token Integration
+## Raising Token Utility
 
 <div>
 
-TOCD introduces an additional utility token that can stimulate the growth of your native token. 
-This utility token is designed to be integral to the TOCD ecosystem, facilitating transactions, 
-gaming activities, and rewards within the platform. The interplay between TOCD's utility token and 
-your native token can lead to increased demand and transaction volume, potentially driving up the 
-value of your token.
+Finding innovative ways to enhance token utility and stimulate economic growth is crucial. Enter The Old Castle Defense (TOCD),
+a groundbreaking platform that introduces an additional layer of dynamism and value through its utility token. This novel approach
+not only enriches the gaming experience within TOCD but also offers significant benefits for your native token, setting the stage
+for unprecedented growth and vitality.
+</div>
+
+<img src="/assets/docs/.gitbook/assets/b2b_othertoken.png" alt="">
+
+<div>
+    
+TOCD's utility token is ingeniously designed to weave seamlessly into the fabric of the platform, acting as the lifeblood for transactions, 
+gaming activities, and rewards. This token is not just another digital asset; it's a catalyst for engagement, offering players and investors 
+alike a reason to delve deeper and invest more time and resources into the ecosystem. But the magic doesn't end with increased engagement; 
+the true brilliance lies in how TOCD's utility token enhances the value of your native token.
+</div>
+
+<div>
+
+The introduction of TOCD's utility token creates a vibrant economy within the platform, where every action, from gameplay to rewards, 
+is facilitated by this new digital currency. This increased utility leads to higher transaction volumes, as users constantly acquire, 
+spend, and earn the token within the ecosystem. Here's where the symbiotic relationship with your native token comes into play:
+
+* **Enhanced Utility:** The utility token's role in TOCD elevates the overall utility of your native token by association, making it an 
+indispensable part of a thriving digital economy.
+* **Increased Demand:** As the TOCD platform attracts more users and engagement, the demand for the utility token rises. This demand, in 
+turn, can lead to an increased need for your native token, especially if it's integrated into acquiring or trading the utility token.
+* **Economic Growth:** The heightened activity and demand within the TOCD ecosystem can drive up transaction volumes for your native token, 
+potentially enhancing its value and attractiveness to investors and users.
 </div>
 
 ## NFT Battle
