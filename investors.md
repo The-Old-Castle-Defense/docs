@@ -5,12 +5,9 @@ navigation:
 
 # 📈 Investors
 
-<div>
-
-Investors in The Old Castle Defense are users who stake **${token}** in one or both factions 
+<p>Investors in The Old Castle Defense are users who stake **${token}** in one or both factions 
 during the Siege. The Investor can participate in determining the outcome of the siege by contributing to one or 
-both factions, helping them achieve victory. 
-</div>
+both factions, helping them achieve victory.</p>
 
 <div>
    
