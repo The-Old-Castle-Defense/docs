@@ -5,11 +5,8 @@ navigation:
 
 # ⚔️ Rewards After The Siege
 
-<div>
-
-At the end of each Siege, there is a distribution of ${token}. The amount of ${token} 
-is determined by the formula.
-</div>
+<p>At the end of each Siege, there is a distribution of ${token}. The amount of ${token} 
+is determined by the formula.</p>
 
 <div>
 
