@@ -5,10 +5,6 @@
   },
   "rpc_links": {
     "8453": [
-      "https://base.publicnode.com",
-      "https://base-pokt.nodies.app"
-    ],
-    "4337": [
       "https://1rpc.io/base",
       "https://base.llamarpc.com",
       "https://base-pokt.nodies.app",
@@ -16,6 +12,10 @@
       "https://base-rpc.publicnode.com",
       "https://base.drpc.org",
       "https://endpoints.omniatech.io/v1/base/mainnet/public"
+    ],
+    "4337": [
+      "https://build.onbeam.com/rpc",
+      "https://subnets.avax.network/beam/mainnet/rpc"
     ]
   }
 }
