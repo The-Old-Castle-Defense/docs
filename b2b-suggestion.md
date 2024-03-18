@@ -110,6 +110,14 @@ For an in-depth understanding, you can explore
 the details of the DRS <a href="https://theoldcastle.xyz/{blockchain}/{token}/referral" target="_blanc" class="doc-link">here</a>.
 </div>
 
+<iframe width="315" height="560" 
+src="https://youtube.com/embed/rf7-Gvj5zzk?si=w3bPxttd9LYFK1ny" 
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
+
 ## Attracting Users on Your Blockchain
 
 <div>
