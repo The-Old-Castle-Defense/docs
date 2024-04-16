@@ -87,6 +87,6 @@ Copy this link https://fc.theoldcastle.xyz/frame/{GroupID} and write the Group I
 
 <div>
 
-Ready! Insert this link when casting.
+Ready! You can see result here: https://docs.google.com/spreadsheets/d/1yV5XVzhXjnTC7efDO5o5Xir0Npt9O1x3fNfUg_DXFek/edit?usp=sharing
 </div>
 
