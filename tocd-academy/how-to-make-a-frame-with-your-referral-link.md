@@ -40,8 +40,16 @@ Fill in the fields for Frame ID, Frame Group ID and Title using this <a href="ht
 
 <div>
 
-When describing the buttons, specify your referral link. Example: **[["👉Get $FOMO", "link", "https://theoldcastle.xyz/Base/DEGEN?referral=eecc7372"]]**.
+When describing the buttons, specify your referral link. You can find the referral link at the top right in the "Wallet".
+<img src="/assets/docs/.gitbook/assets/drs_referral_link.png" alt="">
 </div>
+
+<div>
+
+
+</div>
+
+Example: **[["👉Get $FOMO", "link", "https://theoldcastle.xyz/Base/DEGEN?referral=eecc7372"]]**.
 
 ### Step 4. Image
 
