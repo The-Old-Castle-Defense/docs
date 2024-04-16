@@ -16,6 +16,11 @@
 * **Next URL:** https://fc.theoldcastle.xyz/api/next/how_earn_1
 </div>
 
+<div>
+
+More examples: https://docs.google.com/spreadsheets/d/1yV5XVzhXjnTC7efDO5o5Xir0Npt9O1x3fNfUg_DXFek/edit?usp=sharing
+</div>
+
 ### Testing the Frame
 
 <div>
