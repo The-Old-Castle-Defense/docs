@@ -4,13 +4,13 @@
 
 <div>
   
-**Frame ID:** how_earn_1
-**Group ID:** how_earn
-**Title:** Follow the instructions to earn $DEGEN and $FOMO
-**Buttons:** [["👉 Create Frame", "link", "https://theoldcastle.xyz/Base/DEGEN/"],["💰 Earn $FOMO", "link", "https://theoldcastle.xyz/Base/DEGEN?referral=eecc7372"]]
-**Image:** [["https://i.ibb.co/K2bXz8L/drs-link.jpg"]]
-**Input [Text Placeholder] (Optional):**
-**Next URL:** ?btn_1=https://fc.theoldcastle.xyz/api/next/how_earn_1&btn_2=https://fc.theoldcastle.xyz/api/next/how_earn_1
+* **Frame ID:** how_earn_1
+* **Group ID:** how_earn
+* **Title:** Follow the instructions to earn $DEGEN and $FOMO
+* **Buttons:** [["👉 Create Frame", "link", "https://theoldcastle.xyz/Base/DEGEN/"],["💰 Earn $FOMO", "link", "https://theoldcastle.xyz/Base/DEGEN?referral=eecc7372"]]
+* **Image:** [["https://i.ibb.co/K2bXz8L/drs-link.jpg"]]
+* **Input [Text Placeholder] (Optional):**
+* **Next URL:** ?btn_1=https://fc.theoldcastle.xyz/api/next/how_earn_1&btn_2=https://fc.theoldcastle.xyz/api/next/how_earn_1
 </div>
 
 ## Step-by-step Guide
@@ -19,7 +19,7 @@
 
 <div>
 
-Open this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhvuW9ITz3fuAo4R78T3ksulLfrvHTWX6_3wynR_lUZUqgFw/viewform" target="_blanc" class="doc-link">Google Form</a>;
+Open this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhvuW9ITz3fuAo4R78T3ksulLfrvHTWX6_3wynR_lUZUqgFw/viewform" target="_blanc" class="doc-link">Google Form</a>.
 </div>
 
 ### Step 2. Frame ID, Frame Group ID, and Title
@@ -40,7 +40,7 @@ Fill in the fields for Frame ID, Frame Group ID and Title using this <a href="ht
 
 <div>
 
-When describing the buttons, specify your referral link. Example: **[["👉Get $FOMO", "link", "https://theoldcastle.xyz/Base/DEGEN?referral=eecc7372"]]**;
+When describing the buttons, specify your referral link. Example: **[["👉Get $FOMO", "link", "https://theoldcastle.xyz/Base/DEGEN?referral=eecc7372"]]**.
 </div>
 
 ### Step 4. Image
