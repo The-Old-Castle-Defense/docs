@@ -13,6 +13,14 @@
 * **Next URL:** ?btn_1=https://fc.theoldcastle.xyz/api/next/how_earn_1&btn_2=https://fc.theoldcastle.xyz/api/next/how_earn_1
 </div>
 
+### Testing the Frame
+
+<div>
+
+1. Open the Warpcast Dev Tools by following the link: https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffc.theoldcastle.xyz%2Fframe%2Fhow_earn;
+2. Click the button with looped arrows to check the frame from the example or past the Group ID of your Frame instead of "how_earn"
+</div>
+
 ## Step-by-step Guide
 
 ### Step 1. Google Form
