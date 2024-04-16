@@ -7,10 +7,13 @@
 * **Frame ID:** how_earn_1
 * **Group ID:** how_earn
 * **Title:** Follow the instructions to earn $DEGEN and $FOMO
-* **Buttons:** [["👉 Create Frame", "link", "https://theoldcastle.xyz/Base/DEGEN/"],["💰 Earn $FOMO", "link", "https://theoldcastle.xyz/Base/DEGEN?referral=eecc7372"]]
+* **Buttons:** [["👉 Earn $FOMO", "link", "https://warpcast.com/~/compose?text=HUGE%20GIVEAWAYS%20%F0%9F%8E%81%20%0A%0AGet%201000%20$FOMO%20and%20500%20$DEGEN%20in%203%20simple%20steps:%0A%20%3E%201.%20Click%20Earn%20$FOMO%20and%20Connect%20your%20wallet%0A%20%3E%202.%20Go%20to%20GAME%20tab%20and%20stake%2030%20$DEGEN.%20Funds%20will%20get%20back%20after%20you%20win.%0A%3E%203.%20Click%20Earn%20$DEGEN%20and%20Share%20this%20cast%20in%20your%20feed%0Ahttps://fc.theoldcastle.xyz/frame/how_earn&embeds[]=https://fc.theoldcastle.xyz/frame/how_earn"],["💰 Earn $FOMO", "link", "https://theoldcastle.xyz/Base/DEGEN?referral=eecc7372"]]
+
+**IMPORTANT** You Should update https://fc.theoldcastle.xyz/frame/**how_earn** to your Group ID parameter.
+
 * **Image:** [["https://i.ibb.co/K2bXz8L/drs-link.jpg"]]
 * **Input [Text Placeholder] (Optional):**
-* **Next URL:** ?btn_1=https://fc.theoldcastle.xyz/api/next/how_earn_1&btn_2=https://fc.theoldcastle.xyz/api/next/how_earn_1
+* **Next URL:** https://fc.theoldcastle.xyz/api/next/how_earn_1
 </div>
 
 ### Testing the Frame
