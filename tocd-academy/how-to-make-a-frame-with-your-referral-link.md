@@ -46,10 +46,8 @@ When describing the buttons, specify your referral link. You can find the referr
 
 <div>
 
-
-</div>
-
 Example: **[["👉Get $FOMO", "link", "https://theoldcastle.xyz/Base/DEGEN?referral=eecc7372"]]**.
+</div>
 
 ### Step 4. Image
 
