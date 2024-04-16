@@ -2,6 +2,16 @@
 
 ## Example of Ready Frame
 
+<div>
+  
+**Frame ID:** how_earn_1
+**Group ID:** how_earn
+**Title:** Follow the instructions to earn $DEGEN and $FOMO
+**Buttons:** [["👉 Create Frame", "link", "https://theoldcastle.xyz/Base/DEGEN/"],["💰 Earn $FOMO", "link", "https://theoldcastle.xyz/Base/DEGEN?referral=eecc7372"]]
+**Image:** [["https://i.ibb.co/K2bXz8L/drs-link.jpg"]]
+**Input [Text Placeholder] (Optional):**
+**Next URL:** ?btn_1=https://fc.theoldcastle.xyz/api/next/how_earn_1&btn_2=https://fc.theoldcastle.xyz/api/next/how_earn_1
+</div>
 
 ## Step-by-step Guide
 
@@ -16,7 +26,7 @@ Open this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhvuW9ITz3fuAo4R78T
 
 <div>
 
-Fill in the fields for Frame ID, Frame Group ID and Title using this <a href="https://docs.google.com/document/d/15LRDGQrfGJBWSzooZhHn7CARVOgGi_3gPOOJp4Ts5xc/edit?usp=sharing" target="_blanc" class="doc-link">Guide</a>;
+Fill in the fields for Frame ID, Frame Group ID and Title using this <a href="https://docs.google.com/document/d/15LRDGQrfGJBWSzooZhHn7CARVOgGi_3gPOOJp4Ts5xc/edit?usp=sharing" target="_blanc" class="doc-link">Guide</a>.
 </div>
 
 <div>
@@ -37,14 +47,14 @@ When describing the buttons, specify your referral link. Example: **[["👉Get $
 
 <div>
 
-For an image, you can copy this [["https://i.ibb.co/Lr3Ytzg/Guilds.png"]] or specify a link to your image.
+For an image, you can copy this [["https://i.ibb.co/Lr3Ytzg/Guilds.png"]] or upload your image to https://ibb.co/ and past the link.
 </div>
 
 ### Step 5. Complete the Google Form
 
 <div>
 
-Complete the Google Form using the Guide from point 2.
+Complete the Google Form using <a href="https://docs.google.com/document/d/15LRDGQrfGJBWSzooZhHn7CARVOgGi_3gPOOJp4Ts5xc/edit?usp=sharing" target="_blanc" class="doc-link">the Guide</a>.
 </div>
 
 ### Step 6.
