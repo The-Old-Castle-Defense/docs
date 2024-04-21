@@ -1,21 +1,79 @@
 {
-  "drs_explorer_links":{
-    "2": "https://snowtrace.io/tx/0x210f7fee7b40114946bc2151536157a0b29ce19d2702cdc4cae2f5b9681da7d9/internal?chainId=4337",
-    "3": "https://basescan.org/tx/0xd3a270b938aaf356a65d6876a27fcb9d104fe988435087957eed7e6939ca56d4"
-  },
-  "rpc_links": {
-    "8453": [
-      "https://1rpc.io/base",
-      "https://base.llamarpc.com",
-      "https://base-pokt.nodies.app",
-      "https://base.meowrpc.com",
-      "https://base-rpc.publicnode.com",
-      "https://base.drpc.org",
-      "https://endpoints.omniatech.io/v1/base/mainnet/public"
+    "drs_explorer_links": {
+        "2": "https://snowtrace.io/tx/0x210f7fee7b40114946bc2151536157a0b29ce19d2702cdc4cae2f5b9681da7d9/internal?chainId=4337",
+        "3": "https://basescan.org/tx/0xd3a270b938aaf356a65d6876a27fcb9d104fe988435087957eed7e6939ca56d4"
+    },
+    "rpc_links": {
+        "4337": [
+            "https://build.onbeam.com/rpc",
+            "https://subnets.avax.network/beam/mainnet/rpc"
+        ],
+        "8453": [
+            "https://1rpc.io/base",
+            "https://base.llamarpc.com",
+            "https://base-pokt.nodies.app",
+            "https://base.meowrpc.com",
+            "https://base-rpc.publicnode.com",
+            "https://base.drpc.org",
+            "https://endpoints.omniatech.io/v1/base/mainnet/public"
+        ]
+    },
+    "backed_by": [
+        {
+            "id": 0,
+            "url": "https://twitter.com/meritcircle_io/status/1688934899397349377",
+            "image": "<img src='/assets/docs/.gitbook/assets/merit_circle.svg'>"
+        },
+        {
+            "id": 1,
+            "url": "https://twitter.com/base/status/1781063148793160030",
+            "image": "<img src='/assets/docs/.gitbook/assets/base.svg'>"
+        },
+        {
+            "id": 2,
+            "url": "https://www.google.com/",
+            "image": "<img src='/assets/docs/.gitbook/assets/google_cloud.svg'>"
+        }
     ],
-    "4337": [
-      "https://build.onbeam.com/rpc",
-      "https://subnets.avax.network/beam/mainnet/rpc"
+    "partners": [
+        {
+            "build_on": [
+                {
+                    "id": 0,
+                    "image": "<img src='/assets/docs/.gitbook/assets/beam.svg'>"
+                }
+            ]
+        },
+        {
+            "powered_by": [
+                {
+                    "id": 0,
+                    "image": "<img src='/assets/docs/.gitbook/assets/tweed.svg'>"
+                }
+            ]
+        }
+    ],
+    "our_value": [
+        {
+            "id": 0,
+            "header": "True Decentralization",
+            "point": "#1",
+            "description": "All investments are securely staked in a smart contract that operates autonomously on a blockchain and is distributed with rewards after the game's end. This ensures players have safe control over their funds. The game's foundation is built on trust and transparency, allowing players to view all variable indicators, including on-chain records, and verify them anytime.",
+            "url": ""
+        },
+        {
+            "id": 1,
+            "header": "Decentralized Referral System (DRS)",
+            "point": "#2",
+            "description": "All investments are securely staked in a smart contract that operates autonomously on a blockchain and is distributed with rewards after the game's end. This ensures players have safe control over their funds. The game's foundation is built on trust and transparency, allowing players to view all variable indicators, including on-chain records, and verify them anytime.",
+            "url": "<a href='/{blockchain}/{token}/drs' class='btn--text mt-30'>Read more</a>"
+        },
+        {
+            "id": 2,
+            "header": "True Decentralization",
+            "point": "#3",
+            "description": "All investments are securely staked in a smart contract that operates autonomously on a blockchain and is distributed with rewards after the game's end. This ensures players have safe control over their funds. The game's foundation is built on trust and transparency, allowing players to view all variable indicators, including on-chain records, and verify them anytime.",
+            "url": ""
+        }
     ]
-  }
 }
