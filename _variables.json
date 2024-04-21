@@ -21,18 +21,18 @@
     "backed_by": [
         {
             "id": 0,
-            "url": "https://twitter.com/meritcircle_io/status/1688934899397349377",
-            "image": "<img src='/assets/docs/.gitbook/assets/merit_circle.svg'>"
+            "image": "<img src='/assets/docs/.gitbook/assets/merit_circle.svg'>",
+            "url": "https://twitter.com/meritcircle_io/status/1688934899397349377"
         },
         {
             "id": 1,
-            "url": "https://twitter.com/base/status/1781063148793160030",
-            "image": "<img src='/assets/docs/.gitbook/assets/base.svg'>"
+            "image": "<img src='/assets/docs/.gitbook/assets/base.svg'>",
+            "url": "https://twitter.com/base/status/1781063148793160030"
         },
         {
             "id": 2,
-            "url": "https://www.google.com/",
-            "image": "<img src='/assets/docs/.gitbook/assets/google_cloud.svg'>"
+            "image": "<img src='/assets/docs/.gitbook/assets/google_cloud.svg'>",
+            "url": "https://www.google.com/"
         }
     ],
     "partners": [
@@ -40,7 +40,8 @@
             "build_on": [
                 {
                     "id": 0,
-                    "image": "<img src='/assets/docs/.gitbook/assets/beam.svg'>"
+                    "image": "<img src='/assets/docs/.gitbook/assets/beam.svg'>",
+                    "url": "https://hub.onbeam.com/"
                 }
             ]
         },
@@ -48,7 +49,8 @@
             "powered_by": [
                 {
                     "id": 0,
-                    "image": "<img src='/assets/docs/.gitbook/assets/tweed.svg'>"
+                    "image": "<img src='/assets/docs/.gitbook/assets/tweed.svg'>",
+                    "url": "https://paytweed.com/"
                 }
             ]
         }
