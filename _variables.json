@@ -21,17 +21,17 @@
     "backed_by": [
         {
             "id": 0,
-            "image": "<img src='/assets/docs/.gitbook/assets/merit_circle.svg'>",
+            "image": "/assets/docs/.gitbook/assets/merit_circle.svg",
             "url": "https://twitter.com/meritcircle_io/status/1688934899397349377"
         },
         {
             "id": 1,
-            "image": "<img src='/assets/docs/.gitbook/assets/base.svg'>",
+            "image": "/assets/docs/.gitbook/assets/base.svg",
             "url": "https://twitter.com/base/status/1781063148793160030"
         },
         {
             "id": 2,
-            "image": "<img src='/assets/docs/.gitbook/assets/google_cloud.svg'>",
+            "image": "/assets/docs/.gitbook/assets/google_cloud.svg",
             "url": "https://www.google.com/"
         }
     ],
@@ -40,7 +40,7 @@
             "build_on": [
                 {
                     "id": 0,
-                    "image": "<img src='/assets/docs/.gitbook/assets/beam.svg'>",
+                    "image": "/assets/docs/.gitbook/assets/beam.svg",
                     "url": "https://hub.onbeam.com/"
                 }
             ]
@@ -49,33 +49,10 @@
             "powered_by": [
                 {
                     "id": 0,
-                    "image": "<img src='/assets/docs/.gitbook/assets/tweed.svg'>",
+                    "image": "/assets/docs/.gitbook/assets/tweed.svg",
                     "url": "https://paytweed.com/"
                 }
             ]
-        }
-    ],
-    "our_value": [
-        {
-            "id": 0,
-            "header": "True Decentralization",
-            "point": "#1",
-            "description": "All investments are securely staked in a smart contract that operates autonomously on a blockchain and is distributed with rewards after the game's end. This ensures players have safe control over their funds. The game's foundation is built on trust and transparency, allowing players to view all variable indicators, including on-chain records, and verify them anytime.",
-            "url": ""
-        },
-        {
-            "id": 1,
-            "header": "Decentralized Referral System (DRS)",
-            "point": "#2",
-            "description": "All investments are securely staked in a smart contract that operates autonomously on a blockchain and is distributed with rewards after the game's end. This ensures players have safe control over their funds. The game's foundation is built on trust and transparency, allowing players to view all variable indicators, including on-chain records, and verify them anytime.",
-            "url": "<a href='/{blockchain}/{token}/drs' class='btn--text mt-30'>Read more</a>"
-        },
-        {
-            "id": 2,
-            "header": "True Decentralization",
-            "point": "#3",
-            "description": "All investments are securely staked in a smart contract that operates autonomously on a blockchain and is distributed with rewards after the game's end. This ensures players have safe control over their funds. The game's foundation is built on trust and transparency, allowing players to view all variable indicators, including on-chain records, and verify them anytime.",
-            "url": ""
         }
     ]
 }
