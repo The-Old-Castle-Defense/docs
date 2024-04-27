@@ -1,3 +1,4 @@
+
 {
     "drs_explorer_links": {
         "2": "https://snowtrace.io/tx/0x210f7fee7b40114946bc2151536157a0b29ce19d2702cdc4cae2f5b9681da7d9/internal?chainId=4337",
@@ -35,24 +36,25 @@
             "url": "https://www.google.com/"
         }
     ],
-    "partners": [
-        {
-            "build_on": [
-                {
-                    "id": 0,
-                    "image": "/assets/docs/.gitbook/assets/beam.svg",
-                    "url": "https://hub.onbeam.com/"
-                }
-            ]
-        },
-        {
-            "powered_by": [
-                {
-                    "id": 0,
-                    "image": "/assets/docs/.gitbook/assets/tweed.svg",
-                    "url": "https://paytweed.com/"
-                }
-            ]
-        }
-    ]
+    "partners": {
+        "build_on": [
+            {
+                "id": 0,
+                "image": "/assets/docs/.gitbook/assets/base.svg",
+                "url": "https://twitter.com/base/status/1781063148793160030"
+            },
+            {
+                "id": 1,
+                "image": "/assets/docs/.gitbook/assets/beam.svg",
+                "url": "https://hub.onbeam.com/"
+            }
+        ],
+        "powered_by": [
+            {
+                "id": 0,
+                "image": "/assets/docs/.gitbook/assets/tweed.svg",
+                "url": "https://paytweed.com/"
+            }
+        ]
+    }
 }
