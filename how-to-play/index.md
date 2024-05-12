@@ -1,6 +1,6 @@
 ---
 navigation:
-   order: 12
+   order: 2
 ---
 
 # Glossary:
