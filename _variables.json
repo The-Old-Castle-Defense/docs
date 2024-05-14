@@ -10,10 +10,10 @@
             "https://subnets.avax.network/beam/mainnet/rpc"
         ],
         "8453": [
-            "https://base.llamarpc.com",
-            "https://base-pokt.nodies.app",
             "https://base.meowrpc.com",
+            "https://base-mainnet.core.chainstack.com/09f8556fc9845960d303cc609f67d725",
             "https://base-rpc.publicnode.com",
+            "https://base-pokt.nodies.app",
             "https://base.drpc.org",
             "https://endpoints.omniatech.io/v1/base/mainnet/public"
         ]
