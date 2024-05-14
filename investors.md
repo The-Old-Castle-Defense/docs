@@ -11,7 +11,7 @@ both factions, helping them achieve victory.</p>
 
 <div>
    
-### If the Faction in which he staked, he receives:
+### If the Faction in which he staked wins, he receives:
 * A reward from the treasury of the losing faction;
 * All his **${token}** staked in the winning Faction.
 </div>
