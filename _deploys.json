@@ -1,0 +1,90 @@
+[
+  {
+    "_id": 2,
+    "deploy_id": "2",
+    "chain": {
+      "id": 4337,
+      "name": "Beam Mainnet"
+    },
+    "currency": {
+      "ticker": "BEAM"
+    },
+    "game_contract": "0x0Ed8A7EBf16FBBD240D815F52DBe1c80F6663E73",
+    "sp_tokens": [
+      "BEAM",
+      "USDT",
+      "SPH"
+    ],
+    "explorer_link": "https://snowtrace.io/",
+    "block_per_second": 10,
+    "nft_marketplace": "https://sphere.market/beam/collection/0x74d85442a7001e2594fb0947a6767fc1265c8c49",
+    "soon": false,
+    "hidden": false
+  },
+  {
+    "_id": 3,
+    "deploy_id": "3",
+    "chain": {
+      "id": 8453,
+      "name": "Base"
+    },
+    "currency": {
+      "ticker": "DEGEN"
+    },
+    "game_contract": "0x2640B36148e8aED782F051e62Af888B05416213d",
+    "sp_tokens": [
+      "ETH",
+      "DEGEN",
+      "SPH"
+    ],
+    "explorer_link": "https://basescan.org/",
+    "block_per_second": 3,
+    "nft_marketplace": "https://element.market/collections/tocdnft",
+    "soon": false,
+    "hidden": false
+  },
+  {
+    "_id": 4,
+    "deploy_id": "4",
+    "chain": {
+      "id": 8453,
+      "name": "Base"
+    },
+    "currency": {
+      "ticker": "GLOOM"
+    },
+    "game_contract": "0x8cDaA80bC4f74EF217E85336240e320885cc6f57",
+    "sp_tokens": [
+      "ETH",
+      "GLOOM",
+      "SPH"
+    ],
+    "explorer_link": "https://basescan.org/",
+    "block_per_second": 5,
+    "nft_marketplace": "https://element.market/collections/tocdnft",
+    "soon": true,
+    "hidden": true
+  },
+  {
+    "_id": 5,
+    "deploy_id": "5",
+    "chain": {
+      "id": 8453,
+      "name": "Base"
+    },
+    "currency": {
+      "ticker": "FOMO"
+    },
+    "game_contract": "0xF95766DB4F4388DeC828ED987829524405014877",
+    "sp_tokens": [
+      "ETH",
+      "FOMO",
+      "SPH"
+    ],
+    "explorer_link": "https://basescan.org/",
+    "block_per_second": 3,
+    "nft_marketplace": "https://element.market/collections/tocdnft",
+    "soon": false,
+    "hidden": false
+  }
+]
