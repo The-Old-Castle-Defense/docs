@@ -1,0 +1,11 @@
+{
+  "BATCH_BALANCES": {
+    "BASE": {"id": "8453", "batch_sc": "0x202eF28cA6D4d2B94C4Ea0534a8E6261581c70a4"}
+  },
+  "TOKENS_LIST": {
+    "8453": {
+      "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5": { "symbol": "FOMO", "decimals": 18 },
+      "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed": { "symbol": "DEGEN", "decimals": 18 }
+    }
+  }
+}
