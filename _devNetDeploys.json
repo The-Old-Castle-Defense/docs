@@ -192,5 +192,28 @@
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003"
+  },
+  {
+    "_id": 10,
+    "deploy_id": "10",
+    "chain": {
+      "id": 8453,
+      "name": "Base"
+    },
+    "currency": {
+      "ticker": "ETH",
+      "contract": "0x0000000000000000000000000000000000000000"
+    },
+    "nft_contract": "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
+    "game_contract": "0x06964757D6526a83D1CC74394cA1bF4F15D43363",
+    "status": true,
+    "added_at": "2024-04-26T16:07:27.032000",
+    "soon": false,
+    "ref_contract": "0x868517F2542381fB116D77FCE094D31ed966fe71",
+    "explorer_link": "https://basescan.org/",
+    "rpc": "https://1rpc.io/base",
+    "block_per_second": 3,
+    "nft_marketplace": "https://element.market/collections/tocdnft",
+    "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003"
   }
 ]
