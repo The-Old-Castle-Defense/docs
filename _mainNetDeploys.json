@@ -10,11 +10,8 @@
       "ticker": "BEAM"
     },
     "game_contract": "0x0Ed8A7EBf16FBBD240D815F52DBe1c80F6663E73",
-    "sp_tokens": [
-      "BEAM",
-      "USDT",
-      "SPH"
-    ],
+    "gas_token": "BEAM",
+    "decimals": 4,
     "explorer_link": "https://snowtrace.io/",
     "block_per_second": 10,
     "nft_marketplace": "https://sphere.market/beam/collection/0x74d85442a7001e2594fb0947a6767fc1265c8c49",
@@ -32,11 +29,8 @@
       "ticker": "DEGEN"
     },
     "game_contract": "0x2640B36148e8aED782F051e62Af888B05416213d",
-    "sp_tokens": [
-      "ETH",
-      "DEGEN",
-      "SPH"
-    ],
+    "gas_token": "ETH",
+    "decimals": 2,
     "explorer_link": "https://basescan.org/",
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
@@ -53,12 +47,9 @@
     "currency": {
       "ticker": "GLOOM"
     },
+    "decimals": 2,
     "game_contract": "0x8cDaA80bC4f74EF217E85336240e320885cc6f57",
-    "sp_tokens": [
-      "ETH",
-      "GLOOM",
-      "SPH"
-    ],
+    "gas_token": "ETH",
     "explorer_link": "https://basescan.org/",
     "block_per_second": 5,
     "nft_marketplace": "https://element.market/collections/tocdnft",
@@ -76,11 +67,8 @@
       "ticker": "FOMO"
     },
     "game_contract": "0xF95766DB4F4388DeC828ED987829524405014877",
-    "sp_tokens": [
-      "ETH",
-      "FOMO",
-      "SPH"
-    ],
+    "gas_token": "ETH",
+    "decimals": 2,
     "explorer_link": "https://basescan.org/",
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
@@ -95,20 +83,12 @@
       "name": "Base"
     },
     "currency": {
-      "ticker": "ETH",
-      "contract": "0x0000000000000000000000000000000000000000"
+      "ticker": "ETH"
     },
-    "nft_contract": "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
     "game_contract": "0x06964757D6526a83D1CC74394cA1bF4F15D43363",
-    "sp_tokens": [
-      "ETH",
-      "SPH"
-    ],
-    "status": true,
-    "added_at": "2024-04-26T16:07:27.032000",
-    "ref_contract": "0x868517F2542381fB116D77FCE094D31ed966fe71",
+    "gas_token": "ETH",
+    "decimals": 6,
     "explorer_link": "https://basescan.org/",
-    "rpc": "https://1rpc.io/base",
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
