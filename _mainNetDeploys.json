@@ -100,6 +100,10 @@
     },
     "nft_contract": "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
     "game_contract": "0x06964757D6526a83D1CC74394cA1bF4F15D43363",
+    "sp_tokens": [
+      "ETH",
+      "SPH"
+    ],
     "status": true,
     "added_at": "2024-04-26T16:07:27.032000",
     "ref_contract": "0x868517F2542381fB116D77FCE094D31ed966fe71",
