@@ -219,5 +219,25 @@
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003"
+  },
+  {
+    "_id": 11,
+    "deploy_id": "11",
+    "chain": {
+      "id": 8453,
+      "name": "Base"
+    },
+    "currency": {
+      "ticker": "TOWER"
+    },
+    "game_contract": "0x4E468433C517830F22CC1D653D7600B57019ea53",
+    "gas_token": "ETH",
+    "decimals": 2,
+    "explorer_link": "https://basescan.org/",
+    "block_per_second": 3,
+    "nft_marketplace": "https://element.market/collections/tocdnft",
+    "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
+    "soon": false,
+    "hidden": false
   }
 ]
