@@ -7,24 +7,16 @@
       "name": "Beam Testnet"
     },
     "currency": {
-      "ticker": "USDT",
-      "contract": "0xA539944fF99f5191F32AEa9055d71804DF21a0DA"
+      "ticker": "USDT"
     },
-    "nft_contract": "0xc1a203823c59D100615d1fe99ee3A2c1DB73484C",
     "game_contract": "0x0Af676E97D979e330FBAf751C90Ec0A35AB90ac3",
-    "sp_tokens": [
-      "BEAM",
-      "SPH"
-    ],
-    "status": true,
-    "added_at": "2023-09-07T13:09:27.032000",
-    "soon": null,
-    "ref_contract": "0x88dB4528de0C187ec1554612526D16bc55d7741e",
+    "gas_token": "BEAM",
+    "decimals": 2,
     "explorer_link": "https://subnets-test.avax.network/beam/",
-    "rpc": "https://subnets.avax.network/beam/testnet/rpc",
     "block_per_second": 10,
     "nft_marketplace": "https://testnet.sphere.market/collections/ocd",
-    "sph_contract": "0xd9792918B797490b8B120636E04B599080f78b4b"
+    "soon": false,
+    "hidden": false
   },
   {
     "_id": 2,
@@ -34,24 +26,16 @@
       "name": "Beam Testnet"
     },
     "currency": {
-      "ticker": "BEAM",
-      "contract": null
+      "ticker": "BEAM"
     },
-    "nft_contract": "0xc1a203823c59D100615d1fe99ee3A2c1DB73484C",
     "game_contract": "0x079B2cBFd13be8cD413Ebe3770ad8098fbD721d6",
-    "sp_tokens": [
-      "BEAM",
-      "SPH"
-    ],
-    "status": true,
-    "added_at": "2024-01-09T13:09:27.032000",
-    "soon": null,
-    "ref_contract": "0x88dB4528de0C187ec1554612526D16bc55d7741e",
+    "gas_token": "BEAM",
+    "decimals": 4,
     "explorer_link": "https://subnets-test.avax.network/beam/",
-    "rpc": "https://subnets.avax.network/beam/testnet/rpc",
     "block_per_second": 10,
     "nft_marketplace": "https://testnet.sphere.market/collections/ocd",
-    "sph_contract": "0xd9792918B797490b8B120636E04B599080f78b4b"
+    "soon": false,
+    "hidden": false
   },
   {
     "_id": 6,
@@ -61,25 +45,16 @@
       "name": "Beam Mainnet"
     },
     "currency": {
-      "ticker": "BEAM",
-      "contract": ""
+      "ticker": "BEAM"
     },
-    "nft_contract": "0x74d85442A7001e2594Fb0947a6767Fc1265c8c49",
     "game_contract": "0x0Ed8A7EBf16FBBD240D815F52DBe1c80F6663E73",
-    "sp_tokens": [
-      "BEAM",
-      "USDT",
-      "SPH"
-    ],
-    "status": true,
-    "added_at": "2024-01-27T09:34:27.032000",
-    "soon": null,
-    "ref_contract": "0x216e47703C65DDB846a84A87de30CAE360280C98",
+    "gas_token": "BEAM",
+    "decimals": 4,
     "explorer_link": "https://snowtrace.io/",
-    "rpc": "https://subnets.avax.network/beam/mainnet/rpc",
     "block_per_second": 10,
     "nft_marketplace": "https://sphere.market/beam/collection/0x74d85442a7001e2594fb0947a6767fc1265c8c49",
-    "sph_contract": "0xbb615aa2486232f616C39fc89d42D4e73648c563"
+    "soon": false,
+    "hidden": false
   },
   {
     "_id": 7,
@@ -89,25 +64,16 @@
       "name": "Base"
     },
     "currency": {
-      "ticker": "DEGEN",
-      "contract": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed"
+      "ticker": "DEGEN"
     },
-    "nft_contract": "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
     "game_contract": "0x2640B36148e8aED782F051e62Af888B05416213d",
-    "sp_tokens": [
-      "ETH",
-      "DEGEN",
-      "SPH"
-    ],
-    "status": true,
-    "added_at": "2024-02-04T09:34:27.032000",
-    "soon": false,
-    "ref_contract": "0x868517F2542381fB116D77FCE094D31ed966fe71",
+    "gas_token": "ETH",
+    "decimals": 2,
     "explorer_link": "https://basescan.org/",
-    "rpc": "https://1rpc.io/base",
     "block_per_second": 3,
     "nft_marketplace": "https://opensea.io/collection/tocdnft",
-    "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003"
+    "soon": false,
+    "hidden": false
   },
   {
     "_id": 8,
@@ -117,25 +83,16 @@
       "name": "Base"
     },
     "currency": {
-      "ticker": "GLOOM",
-      "contract": "0x4Ff77748E723f0d7B161f90B4bc505187226ED0D"
+      "ticker": "GLOOM"
     },
-    "nft_contract": "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
     "game_contract": "0x8cDaA80bC4f74EF217E85336240e320885cc6f57",
-    "sp_tokens": [
-      "ETH",
-      "DEGEN",
-      "SPH"
-    ],
-    "status": true,
-    "added_at": "2024-02-04T09:34:27.032000",
-    "soon": false,
-    "ref_contract": "0x868517F2542381fB116D77FCE094D31ed966fe71",
+    "gas_token": "ETH",
+    "decimals": 2,
     "explorer_link": "https://basescan.org/",
-    "rpc": "https://api.developer.coinbase.com/rpc/v1/base/xc3TabN2BZH1UeGrDTd043tLxz1F_QQW",
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
-    "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003"
+    "soon": false,
+    "hidden" : false
   },
   {
     "_id": 5,
@@ -145,25 +102,16 @@
       "name": "ETH (POW)"
     },
     "currency": {
-      "ticker": "ETHW",
-      "contract": null
+      "ticker": "ETHW"
     },
-    "nft_contract": "0x889d5595b71CD5f7a81E9aA1cA9d9Ee548C82418",
     "game_contract": "0x29689E0235C66fcf4C700f149FA203C4a1b4e357",
-    "sp_tokens": [
-      "ETHW",
-      "USDT",
-      "SPH"
-    ],
-    "status": true,
-    "added_at": "2024-01-18T09:34:27.032000",
-    "soon": null,
-    "ref_contract": "0xD5ebcf0965A2348f8f43C4f06E797372259ecA47",
+    "gas_token": "ETH",
+    "decimals": 6,
     "explorer_link": "https://www.oklink.com/ethw/",
-    "rpc": "https://mainnet.ethereumpow.org",
     "block_per_second": 20,
     "nft_marketplace": "https://nuwton.io/collection/tocd",
-    "sph_contract": "0x2640B36148e8aED782F051e62Af888B05416213d"
+    "soon": false,
+    "hidden" : false
   },
   {
     "_id": 9,
@@ -173,25 +121,17 @@
       "name": "Base"
     },
     "currency": {
-      "ticker": "FOMO",
-      "contract": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"
+      "ticker": "FOMO"
     },
-    "nft_contract": "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
     "game_contract": "0xF95766DB4F4388DeC828ED987829524405014877",
-    "sp_tokens": [
-      "ETH",
-      "FOMO",
-      "SPH"
-    ],
-    "status": true,
-    "added_at": "2024-04-26T16:07:27.032000",
-    "soon": false,
-    "ref_contract": "0x868517F2542381fB116D77FCE094D31ed966fe71",
+    "gas_token": "ETH",
+    "decimals": 2,
     "explorer_link": "https://basescan.org/",
     "rpc": "https://1rpc.io/base",
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
-    "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003"
+    "soon": false,
+    "hidden" : false
   },
   {
     "_id": 10,
@@ -201,43 +141,34 @@
       "name": "Base"
     },
     "currency": {
-      "ticker": "ETH",
-      "contract": "0x0000000000000000000000000000000000000000"
+      "ticker": "ETH"
     },
-    "sp_tokens": [
-      "ETH",
-      "SPH"
-    ],
-    "nft_contract": "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
     "game_contract": "0x06964757D6526a83D1CC74394cA1bF4F15D43363",
-    "status": true,
-    "added_at": "2024-04-26T16:07:27.032000",
-    "soon": false,
-    "ref_contract": "0x868517F2542381fB116D77FCE094D31ed966fe71",
+    "gas_token": "ETH",
+    "decimals": 6,
     "explorer_link": "https://basescan.org/",
-    "rpc": "https://1rpc.io/base",
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
-    "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003"
+    "soon": false,
+    "hidden" : false
   },
   {
-    "_id": 11,
-    "deploy_id": "11",
-    "chain": {
-      "id": 8453,
-      "name": "Base"
-    },
-    "currency": {
-      "ticker": "TOWER"
-    },
-    "game_contract": "0x4E468433C517830F22CC1D653D7600B57019ea53",
-    "gas_token": "ETH",
-    "decimals": 2,
-    "explorer_link": "https://basescan.org/",
-    "block_per_second": 3,
-    "nft_marketplace": "https://element.market/collections/tocdnft",
-    "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
-    "soon": false,
-    "hidden": false
-  }
+  "_id": 11,
+  "deploy_id": "11",
+  "chain": {
+    "id": 8453,
+    "name": "Base"
+  },
+  "currency": {
+    "ticker": "TOWER"
+  },
+  "game_contract": "0x4E468433C517830F22CC1D653D7600B57019ea53",
+  "gas_token": "ETH",
+  "decimals": 2,
+  "explorer_link": "https://basescan.org/",
+  "block_per_second": 3,
+  "nft_marketplace": "https://element.market/collections/tocdnft",
+  "soon": false,
+  "hidden": false
+}
 ]
