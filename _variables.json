@@ -52,6 +52,11 @@
         "powered_by": [
             {
                 "id": 0,
+                "image": "/assets/docs/.gitbook/assets/partner_tower.svg",
+                "url": "https://towerecosystem.com/"
+            },
+            {
+                "id": 1,
                 "image": "/assets/docs/.gitbook/assets/tweed.svg",
                 "url": "https://paytweed.com/"
             }
