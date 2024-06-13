@@ -17,6 +17,14 @@
             "https://base-pokt.nodies.app",
             "https://base.drpc.org",
             "https://endpoints.omniatech.io/v1/base/mainnet/public"
+        ],
+        "10001": [
+            "https://mainnet.ethereumpow.org"
+        ],
+        "13337": [
+            "wss://build.onbeam.com/ws/testnet",
+            "https://build.onbeam.com/rpc/testnet",
+            "https://subnets.avax.network/beam/testnet/rpc"
         ]
     },
     "backed_by": [
