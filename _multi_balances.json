@@ -7,7 +7,8 @@
     "8453": {
       "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5": { "symbol": "FOMO", "decimals": 18 },
       "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed": { "symbol": "DEGEN", "decimals": 18 },
-      "0x0000000000000000000000000000000000000000": {"symbol":  "ETH", "decimals":  18}
+      "0x0000000000000000000000000000000000000000": {"symbol":  "ETH", "decimals":  18},
+      "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee": {"symbol":  "TOWER", "decimals":  18}
     },
     "4337": {
       "0x0000000000000000000000000000000000000000": {"symbol":  "BEAM", "decimals":  18}
