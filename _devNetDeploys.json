@@ -169,6 +169,7 @@
   "block_per_second": 3,
   "nft_marketplace": "https://element.market/collections/tocdnft",
   "soon": false,
-  "hidden": false
+  "hidden": false,
+  "subtitle": "by Animoca Brands"
 }
 ]
