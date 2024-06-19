@@ -10,6 +10,7 @@
       "ticker": "BEAM"
     },
     "game_contract": "0x0Ed8A7EBf16FBBD240D815F52DBe1c80F6663E73",
+    "start_block": 1307379,
     "gas_token": "BEAM",
     "decimals": 4,
     "explorer_link": "https://snowtrace.io/",
@@ -29,6 +30,7 @@
       "ticker": "DEGEN"
     },
     "game_contract": "0x2640B36148e8aED782F051e62Af888B05416213d",
+    "start_block": 10150477,
     "gas_token": "ETH",
     "decimals": 2,
     "explorer_link": "https://basescan.org/",
@@ -36,25 +38,6 @@
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "soon": false,
     "hidden": false
-  },
-  {
-    "_id": 4,
-    "deploy_id": "4",
-    "chain": {
-      "id": 8453,
-      "name": "Base"
-    },
-    "currency": {
-      "ticker": "GLOOM"
-    },
-    "decimals": 2,
-    "game_contract": "0x8cDaA80bC4f74EF217E85336240e320885cc6f57",
-    "gas_token": "ETH",
-    "explorer_link": "https://basescan.org/",
-    "block_per_second": 2,
-    "nft_marketplace": "https://element.market/collections/tocdnft",
-    "soon": true,
-    "hidden": true
   },
   {
     "_id": 5,
@@ -67,6 +50,7 @@
       "ticker": "FOMO"
     },
     "game_contract": "0xF95766DB4F4388DeC828ED987829524405014877",
+    "start_block": 13677284,
     "gas_token": "ETH",
     "decimals": 2,
     "explorer_link": "https://basescan.org/",
@@ -86,6 +70,7 @@
       "ticker": "ETH"
     },
     "game_contract": "0x06964757D6526a83D1CC74394cA1bF4F15D43363",
+    "start_block": 15417762,
     "gas_token": "ETH",
     "decimals": 6,
     "explorer_link": "https://basescan.org/",
@@ -106,6 +91,7 @@
       "ticker": "TOWER"
     },
     "game_contract": "0x4E468433C517830F22CC1D653D7600B57019ea53",
+    "start_block": 15937296,
     "gas_token": "ETH",
     "decimals": 2,
     "explorer_link": "https://basescan.org/",
