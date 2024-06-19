@@ -9,6 +9,7 @@
     "currency": {
       "ticker": "BEAM"
     },
+    "past_game_contracts": [],
     "game_contract": "0x0Ed8A7EBf16FBBD240D815F52DBe1c80F6663E73",
     "start_block": 1307379,
     "gas_token": "BEAM",
@@ -29,6 +30,7 @@
     "currency": {
       "ticker": "DEGEN"
     },
+    "past_game_contracts": [],
     "game_contract": "0x2640B36148e8aED782F051e62Af888B05416213d",
     "start_block": 10150477,
     "gas_token": "ETH",
@@ -49,6 +51,7 @@
     "currency": {
       "ticker": "FOMO"
     },
+    "past_game_contracts": [],
     "game_contract": "0xF95766DB4F4388DeC828ED987829524405014877",
     "start_block": 13677284,
     "gas_token": "ETH",
@@ -69,6 +72,7 @@
     "currency": {
       "ticker": "ETH"
     },
+    "past_game_contracts": [],
     "game_contract": "0x06964757D6526a83D1CC74394cA1bF4F15D43363",
     "start_block": 15417762,
     "gas_token": "ETH",
@@ -90,6 +94,7 @@
     "currency": {
       "ticker": "TOWER"
     },
+    "past_game_contracts": [],
     "game_contract": "0x4E468433C517830F22CC1D653D7600B57019ea53",
     "start_block": 15937296,
     "gas_token": "ETH",
