@@ -74,7 +74,7 @@
     "nft_marketplace": "https://opensea.io/collection/tocdnft",
     "soon": false,
     "hidden": false,
-    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
+    "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
     "_id": 5,
@@ -94,7 +94,7 @@
     "nft_marketplace": "https://nuwton.io/collection/tocd",
     "soon": false,
     "hidden" : false,
-    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
+    "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
     "_id": 9,
@@ -115,7 +115,7 @@
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "soon": false,
     "hidden" : false,
-    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
+    "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
     "_id": 10,
@@ -135,7 +135,7 @@
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "soon": false,
     "hidden" : false,
-    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
+    "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
   "_id": 11,
@@ -156,6 +156,6 @@
   "soon": false,
   "hidden": false,
   "subtitle": "by Animoca Brands",
-  "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
+  "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
 }
 ]
