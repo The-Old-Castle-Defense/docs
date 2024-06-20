@@ -39,7 +39,8 @@
     "block_per_second": 2,
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "soon": false,
-    "hidden": false
+    "hidden": false,
+    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
     "_id": 5,
@@ -60,7 +61,8 @@
     "block_per_second": 2,
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "soon": false,
-    "hidden": false
+    "hidden": false,
+    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
     "_id": 6,
@@ -82,7 +84,8 @@
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
     "soon": false,
-    "hidden": false
+    "hidden": false,
+    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
     "_id": 7,
@@ -104,6 +107,7 @@
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "soon": false,
     "hidden": false,
-    "subtitle": "by Animoca Brands"
+    "subtitle": "by Animoca Brands",
+    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   }
 ]
