@@ -10,6 +10,7 @@
       "ticker": "USDT"
     },
     "game_contract": "0x0Af676E97D979e330FBAf751C90Ec0A35AB90ac3",
+    "past_game_contracts": [],
     "gas_token": "BEAM",
     "decimals": 2,
     "explorer_link": "https://subnets-test.avax.network/beam/",
@@ -29,6 +30,7 @@
       "ticker": "BEAM"
     },
     "game_contract": "0x079B2cBFd13be8cD413Ebe3770ad8098fbD721d6",
+    "past_game_contracts": [],
     "gas_token": "BEAM",
     "decimals": 4,
     "explorer_link": "https://subnets-test.avax.network/beam/",
@@ -48,6 +50,7 @@
       "ticker": "BEAM"
     },
     "game_contract": "0x0Ed8A7EBf16FBBD240D815F52DBe1c80F6663E73",
+    "past_game_contracts": [],
     "gas_token": "BEAM",
     "decimals": 4,
     "explorer_link": "https://snowtrace.io/",
@@ -67,6 +70,7 @@
       "ticker": "DEGEN"
     },
     "game_contract": "0x6BD547c2D8dbcaB74Bc658F031F55928665d6c1A",
+    "past_game_contracts": ["0x2640B36148e8aED782F051e62Af888B05416213d"],
     "gas_token": "ETH",
     "decimals": 2,
     "explorer_link": "https://basescan.org/",
@@ -87,6 +91,7 @@
       "ticker": "ETHW"
     },
     "game_contract": "0x29689E0235C66fcf4C700f149FA203C4a1b4e357",
+    "past_game_contracts": [],
     "gas_token": "ETH",
     "decimals": 6,
     "explorer_link": "https://www.oklink.com/ethw/",
@@ -107,6 +112,7 @@
       "ticker": "FOMO"
     },
     "game_contract": "0xF95766DB4F4388DeC828ED987829524405014877",
+    "past_game_contracts": [],
     "gas_token": "ETH",
     "decimals": 2,
     "explorer_link": "https://basescan.org/",
@@ -128,13 +134,14 @@
       "ticker": "ETH"
     },
     "game_contract": "0x06964757D6526a83D1CC74394cA1bF4F15D43363",
+    "past_game_contracts": [],
     "gas_token": "ETH",
     "decimals": 6,
     "explorer_link": "https://basescan.org/",
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "soon": false,
-    "hidden" : false,
+    "hidden": false,
     "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
@@ -148,6 +155,7 @@
     "ticker": "TOWER"
   },
   "game_contract": "0x4E468433C517830F22CC1D653D7600B57019ea53",
+  "past_game_contracts": [],
   "gas_token": "ETH",
   "decimals": 2,
   "explorer_link": "https://basescan.org/",
