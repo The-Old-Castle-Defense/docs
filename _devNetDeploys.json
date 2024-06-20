@@ -73,26 +73,8 @@
     "block_per_second": 3,
     "nft_marketplace": "https://opensea.io/collection/tocdnft",
     "soon": false,
-    "hidden": false
-  },
-  {
-    "_id": 8,
-    "deploy_id": "8",
-    "chain": {
-      "id": 8453,
-      "name": "Base"
-    },
-    "currency": {
-      "ticker": "GLOOM"
-    },
-    "game_contract": "0x8cDaA80bC4f74EF217E85336240e320885cc6f57",
-    "gas_token": "ETH",
-    "decimals": 2,
-    "explorer_link": "https://basescan.org/",
-    "block_per_second": 3,
-    "nft_marketplace": "https://element.market/collections/tocdnft",
-    "soon": false,
-    "hidden" : false
+    "hidden": false,
+    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
     "_id": 5,
@@ -111,7 +93,8 @@
     "block_per_second": 20,
     "nft_marketplace": "https://nuwton.io/collection/tocd",
     "soon": false,
-    "hidden" : false
+    "hidden" : false,
+    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
     "_id": 9,
@@ -131,7 +114,8 @@
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "soon": false,
-    "hidden" : false
+    "hidden" : false,
+    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
     "_id": 10,
@@ -150,7 +134,8 @@
     "block_per_second": 3,
     "nft_marketplace": "https://element.market/collections/tocdnft",
     "soon": false,
-    "hidden" : false
+    "hidden" : false,
+    "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
   },
   {
   "_id": 11,
@@ -170,6 +155,7 @@
   "nft_marketplace": "https://element.market/collections/tocdnft",
   "soon": false,
   "hidden": false,
-  "subtitle": "by Animoca Brands"
+  "subtitle": "by Animoca Brands",
+  "sph_alt_token": {"token": "fomo", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
 }
 ]
