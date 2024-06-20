@@ -88,3 +88,55 @@ To add a button leading to another document, you need to specify a block:
 Investors</a>
 </div>
 ```
+
+# Files
+
+## _<main|dev>NetDeploys.json
+
+### Data
+
+| **Attribute**       | **Type**   | **Description**                                                                                                                                                  |
+| :------------------ | :--------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _id                 | int        | The unique identifier of the deployment                                                                                                                          |
+| deploy_id           | string     | The unique identifier of the deployment                                                                                                                          |
+| **chain**           | **object** | The object containing data about the chain                                                                                                                       |
+| chain.id            | int        | The unique identifier of the chain. Can be found here: https://chainlist.org/?chain=245022926&testnets=true&search=                                              |
+| chain.name          | string     | The name of the chain                                                                                                                                            |
+| **currency**        | **object** | The object containing information about the available token for this deployment                                                                                  |
+| currency.ticker     | string     | The name of the token that is available on this deployment                                                                                                       |
+| past_game_contracts | array      | Addresses of previous smart contracts of the game on this deployment                                                                                             |
+| game_contract       | string     | The address of the current smart contract of the game on this deployment                                                                                         |
+| start_block         | int        | The number of the blockchain block that will generate the first Siege on this deployment                                                                         |
+| gas_token           | string     | The name of the token that is used to confirm transactions                                                                                                       |
+| decimals            | int        | Determines how many decimal places are used to represent one unit of the token                                                                                   |
+| explorer_link       | string     | Determines how many decimal places to display for `currency.ticker`                                                                                              |
+| block_per_second    | int        | The average number of seconds for the formation of a new block of the blockchain. It is used for approximate calculation of the duration of the Battle and Siege |
+| nft_marketplace     | string     | A link to the TOCD NFT collection on the marketplace of this blockchain                                                                                          |
+| soon                | boolean    | TRUE - displays the inscription "SOON", shows access to the deployment. FALSE - the deployment is available for the game                                         |
+| hidden              | boolean    | TRUE - do not display the deployment in the drop-down link on the site. FALSE - the deployment is displayed                                                      |
+
+### Example
+
+```
+ {
+    "_id": 2,
+    "deploy_id": "2",
+    "chain": { 
+      "id": 4337,
+      "name": "Beam Mainnet"
+    },
+    "currency": {
+      "ticker": "BEAM"
+    },
+    "past_game_contracts": [],
+    "game_contract": "0x0Ed8A7EBf16FBBD240D815F52DBe1c80F6663E73",
+    "start_block": 1307379,
+    "gas_token": "BEAM",
+    "decimals": 4,
+    "explorer_link": "https://snowtrace.io/",
+    "block_per_second": 10,
+    "nft_marketplace": "https://sphere.market/beam/collection/0x74d85442a7001e2594fb0947a6767fc1265c8c49",
+    "soon": false,
+    "hidden": false
+  }
+```
