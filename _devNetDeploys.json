@@ -70,7 +70,7 @@
       "ticker": "DEGEN"
     },
     "game_contract": "0x6BD547c2D8dbcaB74Bc658F031F55928665d6c1A",
-    "past_game_contracts": ["0x2640B36148e8aED782F051e62Af888B05416213d", "0.0.1"],
+    "past_game_contracts": [["0x2640B36148e8aED782F051e62Af888B05416213d", "0.0.1"]],
     "gas_token": "ETH",
     "decimals": 2,
     "explorer_link": "https://basescan.org/",
