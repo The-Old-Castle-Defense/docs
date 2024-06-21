@@ -9,6 +9,9 @@
     "currency": {
       "ticker": "USDT"
     },
+    "nft_contract" : "0xc1a203823c59D100615d1fe99ee3A2c1DB73484C"
+    "ref_contract" : "0x88dB4528de0C187ec1554612526D16bc55d7741e",
+    "sph_contract" : "0xd9792918B797490b8B120636E04B599080f78b4b",
     "game_contract": "0x0Af676E97D979e330FBAf751C90Ec0A35AB90ac3",
     "past_game_contracts": [],
     "gas_token": "BEAM",
@@ -29,6 +32,9 @@
     "currency": {
       "ticker": "BEAM"
     },
+    "nft_contract" : "0xc1a203823c59D100615d1fe99ee3A2c1DB73484C"
+    "ref_contract" : "0x88dB4528de0C187ec1554612526D16bc55d7741e",
+    "sph_contract" : "0xd9792918B797490b8B120636E04B599080f78b4b",
     "game_contract": "0x079B2cBFd13be8cD413Ebe3770ad8098fbD721d6",
     "past_game_contracts": [],
     "gas_token": "BEAM",
@@ -49,6 +55,9 @@
     "currency": {
       "ticker": "BEAM"
     },
+    "nft_contract" : "0x74d85442A7001e2594Fb0947a6767Fc1265c8c49"
+    "ref_contract" : "0x216e47703C65DDB846a84A87de30CAE360280C98",
+    "sph_contract" : "0xbb615aa2486232f616C39fc89d42D4e73648c563",
     "game_contract": "0x0Ed8A7EBf16FBBD240D815F52DBe1c80F6663E73",
     "past_game_contracts": [],
     "gas_token": "BEAM",
@@ -69,6 +78,9 @@
     "currency": {
       "ticker": "DEGEN"
     },
+    "nft_contract" : "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c"
+    "ref_contract" : "0x868517F2542381fB116D77FCE094D31ed966fe71",
+    "sph_contract" : "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
     "game_contract": "0x6BD547c2D8dbcaB74Bc658F031F55928665d6c1A",
     "past_game_contracts": [["0x2640B36148e8aED782F051e62Af888B05416213d", "0.0.1"]],
     "gas_token": "ETH",
@@ -90,6 +102,9 @@
     "currency": {
       "ticker": "ETHW"
     },
+    "nft_contract" : "0x889d5595b71CD5f7a81E9aA1cA9d9Ee548C82418"
+    "ref_contract" : "0xD5ebcf0965A2348f8f43C4f06E797372259ecA47",
+    "sph_contract" : "0x2640B36148e8aED782F051e62Af888B05416213d",
     "game_contract": "0x29689E0235C66fcf4C700f149FA203C4a1b4e357",
     "past_game_contracts": [],
     "gas_token": "ETH",
@@ -111,6 +126,9 @@
     "currency": {
       "ticker": "FOMO"
     },
+    "nft_contract" : "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c"
+    "ref_contract" : "0x868517F2542381fB116D77FCE094D31ed966fe71",
+    "sph_contract" : "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
     "game_contract": "0xF95766DB4F4388DeC828ED987829524405014877",
     "past_game_contracts": [],
     "gas_token": "ETH",
@@ -133,6 +151,9 @@
     "currency": {
       "ticker": "ETH"
     },
+    "nft_contract" : "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c"
+    "ref_contract" : "0x868517F2542381fB116D77FCE094D31ed966fe71",
+    "sph_contract" : "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
     "game_contract": "0x06964757D6526a83D1CC74394cA1bF4F15D43363",
     "past_game_contracts": [],
     "gas_token": "ETH",
@@ -154,6 +175,9 @@
   "currency": {
     "ticker": "TOWER"
   },
+  "nft_contract" : "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c"
+  "ref_contract" : "0x868517F2542381fB116D77FCE094D31ed966fe71",
+  "sph_contract" : "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
   "game_contract": "0x4E468433C517830F22CC1D653D7600B57019ea53",
   "past_game_contracts": [],
   "gas_token": "ETH",
