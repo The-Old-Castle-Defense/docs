@@ -9,7 +9,6 @@
     "currency": {
       "ticker": "BEAM"
     },
-    "past_game_contracts": [],
     "nft_contract" : "0x74d85442A7001e2594Fb0947a6767Fc1265c8c49",
     "ref_contract" : "0x216e47703C65DDB846a84A87de30CAE360280C98",
     "sph_contract" : "0xbb615aa2486232f616C39fc89d42D4e73648c563",
@@ -59,7 +58,6 @@
     "currency": {
       "ticker": "FOMO"
     },
-    "past_game_contracts": [],
     "nft_contract" : "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
     "ref_contract" : "0x868517F2542381fB116D77FCE094D31ed966fe71",
     "sph_contract" : "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
@@ -96,7 +94,6 @@
     "explorer_link": "https://basescan.org/",
     "block_per_second": 2,
     "nft_marketplace": "https://element.market/collections/tocdnft",
-    "sph_contract": "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
     "soon": false,
     "hidden": false,
     "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
