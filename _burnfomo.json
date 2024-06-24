@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "meta_title": "🔥 FOMO Burn Tracker",
+        "meta_description": "Find out how much $FOMO is ready to get burned. Stay updated on future burns to see how they will affect the token supply and value."
+    },
+    "burned_value": {
+        "title": "Total FOMO supply reduced by 40.0%.",
+        "description": "40,000,000,000 FOMO tokens have entered the void and will never re-enter the supply. The combined value of all tokens at the time of burning totaled $999,999. Average burn price: 0.006 $FOMO per WETH."
+    },
+    "fomo_price": "0.006",
+    "trading_pair": "FOMO/WETH",
+    "latest_burn": {
+        "title": "Latest Burn Details",
+        "last_burn": "The last burn happened a week ago",
+        "description": "In the most recent burn, a total of 400,000 FOMO tokens were burned. At the time of this burn, the cumulative value of the burned FOMO amounted to $4,000,000. This burn occurred on Saturday, May 25, 2024 and was triggered by 0x08B308c486D7B9A9f9DCac1A0dc80d9d523A6967."
+    },
+    "supply_history": {
+        "title": "FOMO Supply Over Time",
+        "values": [
+            {
+                "value": "100000000",
+                "date": "01012024"
+            },
+            {
+                "value": "60000000",
+                "date": "02012024"
+            },
+            {
+                "value": "54000000",
+                "date": "14062024"
+            }
+        ]
+    },
+    "upcoming_burns": {
+        "title": "Upcoming Burns",
+        "detailes": [
+            {
+                "method": "After the BuyBack",
+                "date": "12072024"
+            },
+            {
+                "method": "After the Siege",
+                "date": "13062024"
+            }
+        ]
+    },
+    "burn_details": {
+        "title": "Burn Details",
+        "detailes": [
+            {
+                "id": "1",
+                "tokens_burned": "60,000,000",
+                "percent": "40%",
+                "tx_hash": "0xd28...71b22",
+                "tx_url": "https://etherscan.io/tx/0xd283afa6ad7d37219ec900490ced198ccbb6c08e8b6a1606cc8bee2907471b22",
+                "date": "01012024"
+            },
+            {
+                "id": "1",
+                "tokens_burned": "60,000,000",
+                "percent": "40%",
+                "tx_hash": "0xd28...71b22",
+                "tx_url": "https://etherscan.io/tx/0xd283afa6ad7d37219ec900490ced198ccbb6c08e8b6a1606cc8bee2907471b22",
+                "date": "01012024"
+            }
+        ]
+    },
+    "top_burners": {
+        "title": "Top 5 Burn Triggered by Wallets",
+        "detailes": [
+            {
+                "burner": "0xd28...71b22",
+                "count": "10",
+                "total_usd": "3,000",
+                "total_fomo": "3,000,000"
+            },
+            {
+                "burner": "0xd28...643a2",
+                "count": "4",
+                "total_usd": "1,000",
+                "total_fomo": "1,000,000"
+            }
+        ]
+    },
+    "faq": {
+        "title": "FAQs",
+        "questions": [
+            {
+                "question": "Why are $FOMO tokens burned?",
+                "answer": "Burning $FOMO tokens helps reduce the total supply, which can increase the value of the remaining tokens and benefit all holders."
+            },
+            {
+                "question": "What are the sources of tokens that are burned?",
+                "answer": "Tokens are burned from various sources including transaction fees, staking rewards, and unused tokens."
+            },
+            {
+                "question": "How do $FOMO token burns occur?",
+                "answer": "Burns occur by calling the burn() function on the $FOMO Burn Contract, which permanently removes the specified amount of tokens from circulation."
+            },
+            {
+                "question": "How does burning $FOMO tokens benefit the community?",
+                "answer": "Burning tokens reduces supply, which can increase demand and value, benefiting token holders and supporting a healthier economy."
+            },
+            {
+                "question": "Are $FOMO token burns a regular occurrence?",
+                "answer": "Yes, $FOMO token burns are scheduled regularly to maintain a balanced supply and demand dynamic."
+            },
+            {
+                "question": "What effects do $FOMO token burns have on the market?",
+                "answer": "Burning tokens generally leads to a decrease in supply, which can drive up the price if demand remains constant or increases."
+            }
+        ]
+    }
+}
