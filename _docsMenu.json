@@ -74,6 +74,11 @@
       "title": "FAQ",
       "image": "❔",
       "path": "/faq"
+    },
+    {
+      "title": "$FOMO Burn & BuyBack Program",
+      "image": "🔥",
+      "path": "/burn-buyback-fomo"
     }
   ]
 }
