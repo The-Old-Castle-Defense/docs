@@ -46,7 +46,7 @@ In addition, the game continues to burn $FOMO through every transaction, further
 
 <div>
 
-The $FOMO Burn Tracker provides real-time insights into how many tokens have been burned and when offering full transparency and empowering the community to make informed decisions.
+The <a href="https://burnfomo.theoldcastle.xyz/en" target="_blanc" class="doc-link">$FOMO Burn Tracker</a> provides real-time insights into how many tokens have been burned and when offering full transparency and empowering the community to make informed decisions.
 </div>
 
 ## How Players Benefit from the $FOMO Burn and Buyback Mechanism
