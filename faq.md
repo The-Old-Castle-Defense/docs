@@ -110,4 +110,22 @@ A: Battles take place every 960 blocks, which translates to roughly 4 hours on t
 A: The winning faction receives the treasury of the losing team, ensuring that successful players and investors are proportionally rewarded. The winning faction's treasury is then distributed back to investors who supported the victorious side.
 </div>
 
+<div>
+
+#### Q: How to connect a Wallet to the FOMO Box on Android?
+A: If your smartphone is running on the Android operating system, then there may be a problem redirecting from Telegram to the Wallet application. Let's look at a workaround using the Zerion Wallet as an example:
+1. Click the "Connect wallet" button:
+<img src="/assets/docs/.gitbook/assets/fomo_box_connect.png" alt="">
+2. Choose Your Wallet:
+<img src="/assets/docs/.gitbook/assets/fomo_box_select_wallet.png" alt="">
+3. The Wallet's internal browser opens. Copy the link of the web page:
+<img src="/assets/docs/.gitbook/assets/fomo_box_wallet_browser.png.png" alt="">
+4. Open a regular browser on your smartphone (Chrome/Safari/Opera/other), paste the copied link into the address bar and go to the page.
+5. On the page that opens, click "Open Zerion Wallet":
+<img src="/assets/docs/.gitbook/assets/fomo_box_browser.png" alt="">
+6. The Wallet application opens. Confirm your connection to theoldcastle.xyz:
+<img src="/assets/docs/.gitbook/assets/fomo_box_connect_confirm.png" alt="">
+7. Done. You can return to the FOMO Box and receive Airdrops one by one.
+</div>
+
 </div>
