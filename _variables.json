@@ -1,5 +1,7 @@
 
 {
+    "defaultChainName": "Base",
+    "defaultCurrencyName": "FROC",
     "drs_explorer_links": {
         "2": "https://snowtrace.io/tx/0x210f7fee7b40114946bc2151536157a0b29ce19d2702cdc4cae2f5b9681da7d9/internal?chainId=4337",
         "3": "https://basescan.org/tx/0xd3a270b938aaf356a65d6876a27fcb9d104fe988435087957eed7e6939ca56d4"
