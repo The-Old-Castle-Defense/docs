@@ -189,5 +189,30 @@
   "hidden": false,
   "subtitle": "by Animoca Brands",
   "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
+},
+{
+  "_id": 12,
+  "deploy_id": "12",
+  "chain": {
+    "id": 8453,
+    "name": "Base"
+  },
+  "currency": {
+    "ticker": "FROC"
+  },
+  "nft_contract" : "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
+  "ref_contract" : "0x868517F2542381fB116D77FCE094D31ed966fe71",
+  "sph_contract" : "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
+  "game_contract": "0xb95497da5e481107EebE1Ee4b6815b9eb90C7AFb",
+  "past_game_contracts": [],
+  "gas_token": "ETH",
+  "decimals": 2,
+  "explorer_link": "https://basescan.org/",
+  "block_per_second": 3,
+  "nft_marketplace": "https://element.market/collections/tocdnft",
+  "soon": false,
+  "hidden": false,
+  "subtitle": "by CoinBase",
+  "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
 }
 ]
