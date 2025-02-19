@@ -162,7 +162,7 @@
   "nft_contract" : "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
   "ref_contract" : "0x868517F2542381fB116D77FCE094D31ed966fe71",
   "sph_contract" : "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
-  "game_contract": "0x9D960A651c49d82dAb82C36CaA41005e5AA23461",
+  "game_contract": "0xA0218cFa56e10a3f238E7247D8c6238C30D39062",
   "past_game_contracts": [],
   "gas_token": "ETH",
   "decimals": 2,
