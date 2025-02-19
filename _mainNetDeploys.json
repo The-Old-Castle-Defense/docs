@@ -148,5 +148,29 @@
   "hidden": false,
   "subtitle": "by CoinBase",
   "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
+},
+  {
+  "_id": 9,
+  "deploy_id": "9",
+  "chain": {
+    "id": 8453,
+    "name": "Base"
+  },
+  "currency": {
+    "ticker": "WARPLET"
+  },
+  "nft_contract" : "0x73169650F0442Bed4273f859B7f2B6dA5BEDCb1c",
+  "ref_contract" : "0x868517F2542381fB116D77FCE094D31ed966fe71",
+  "sph_contract" : "0x5098418d6279A8287aDdF785C9f1dCf5D764b003",
+  "game_contract": "0x9D960A651c49d82dAb82C36CaA41005e5AA23461",
+  "past_game_contracts": [],
+  "gas_token": "ETH",
+  "decimals": 2,
+  "explorer_link": "https://basescan.org/",
+  "block_per_second": 3,
+  "nft_marketplace": "https://element.market/collections/tocdnft",
+  "soon": false,
+  "hidden": false,
+  "sph_alt_token": {"token": "FOMO", "ca": "0xa7ea9d5d4d4c7cF7dbde5871E6D108603C6942a5"}
 }
 ]
